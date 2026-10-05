@@ -37,7 +37,6 @@ Business Idea Creation: Storytelling Dashboard
 
 ## Team
 จาก PDF ที่ให้มา พบชื่อสมาชิกที่ระบุไว้ 1 คน: **นาย ภัครพล ริติกัณโต - 67160360**
-หากมีสมาชิกเพิ่มเติม ให้เพิ่มใน `data/team_members.csv` ได้ทันที
 
 ## Submission
 แนะนำส่ง 4 อย่าง: Data CSV + Dashboard HTML + Team CSV + Repository ZIP
