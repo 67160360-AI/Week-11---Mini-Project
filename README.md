@@ -36,7 +36,7 @@ Business Idea Creation: Storytelling Dashboard
 แนวคิดถูกจัดโครงให้สอดคล้องกับ BMC ของโครงการ: Customer Segments ได้แก่ เจ้าของบ้าน, ผู้พักอาศัยในคอนโด, ผู้สร้าง/รีโนเวทบ้าน, นักออกแบบภายใน, บริษัทและสำนักงาน, โรงแรม/คาเฟ่/ร้านอาหาร; Value Proposition เน้น AI วิเคราะห์ห้อง แนะนำเฟอร์นิเจอร์ จำลองการจัดวาง และเพิ่มความมั่นใจก่อนซื้อ; Channels มีเว็บไซต์/แอป AI, Social Media, Smart Showroom, Marketplace และพันธมิตร/งานแสดงสินค้า
 
 ## Team
-จาก PDF ที่ให้มา พบชื่อสมาชิกที่ระบุไว้ 1 คน: **นาย ภัครพล ริติกัณโต - 67160360**
+**นาย ภัครพล ริติกัณโต - 67160360**
 
 ## Submission
 แนะนำส่ง 4 อย่าง: Data CSV + Dashboard HTML + Team CSV + Repository ZIP
