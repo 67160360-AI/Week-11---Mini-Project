@@ -1,0 +1,801 @@
+﻿Customer_ID,Customer_Segment,Location,Membership
+C0001,Homeowner,Chonburi,Non-member
+C0002,Homeowner,Bangkok,Member
+C0003,Renovator,Chonburi,Non-member
+C0004,Condo Resident,Phuket,Non-member
+C0005,Office,Samut Prakan,Non-member
+C0006,Office,Chiang Mai,Non-member
+C0007,Condo Resident,Chonburi,Member
+C0008,Homeowner,Samut Prakan,Non-member
+C0009,Homeowner,Chonburi,Member
+C0010,Renovator,Nakhon Ratchasima,Member
+C0011,Interior Designer,Pathum Thani,Non-member
+C0012,Renovator,Phuket,Non-member
+C0013,Condo Resident,Samut Prakan,Member
+C0014,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0015,Condo Resident,Bangkok,Non-member
+C0016,Condo Resident,Nonthaburi,Non-member
+C0017,Homeowner,Nakhon Ratchasima,Non-member
+C0018,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0019,Interior Designer,Chonburi,Member
+C0020,Hotel/Cafe/Restaurant,Chonburi,Member
+C0021,Condo Resident,Bangkok,Member
+C0022,Homeowner,Chiang Mai,Member
+C0023,Homeowner,Chiang Mai,Member
+C0024,Interior Designer,Samut Prakan,Non-member
+C0025,Homeowner,Chiang Mai,Member
+C0026,Renovator,Chiang Mai,Non-member
+C0027,Condo Resident,Bangkok,Non-member
+C0028,Office,Phuket,Member
+C0029,Condo Resident,Chiang Mai,Non-member
+C0030,Homeowner,Phuket,Non-member
+C0031,Renovator,Bangkok,Non-member
+C0032,Office,Chonburi,Non-member
+C0033,Interior Designer,Chonburi,Member
+C0034,Condo Resident,Nakhon Ratchasima,Member
+C0035,Homeowner,Chonburi,Non-member
+C0036,Office,Chonburi,Non-member
+C0037,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0038,Hotel/Cafe/Restaurant,Nonthaburi,Non-member
+C0039,Condo Resident,Chiang Mai,Non-member
+C0040,Homeowner,Bangkok,Member
+C0041,Condo Resident,Nonthaburi,Non-member
+C0042,Condo Resident,Bangkok,Non-member
+C0043,Interior Designer,Chiang Mai,Non-member
+C0044,Condo Resident,Nonthaburi,Non-member
+C0045,Office,Phuket,Non-member
+C0046,Condo Resident,Pathum Thani,Non-member
+C0047,Renovator,Phuket,Non-member
+C0048,Condo Resident,Bangkok,Member
+C0049,Homeowner,Chonburi,Non-member
+C0050,Homeowner,Nakhon Ratchasima,Member
+C0051,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Non-member
+C0052,Homeowner,Chiang Mai,Non-member
+C0053,Homeowner,Samut Prakan,Member
+C0054,Condo Resident,Bangkok,Non-member
+C0055,Condo Resident,Chonburi,Member
+C0056,Condo Resident,Phuket,Member
+C0057,Renovator,Bangkok,Member
+C0058,Condo Resident,Bangkok,Non-member
+C0059,Homeowner,Bangkok,Non-member
+C0060,Office,Nakhon Ratchasima,Member
+C0061,Office,Nakhon Ratchasima,Non-member
+C0062,Interior Designer,Samut Prakan,Non-member
+C0063,Interior Designer,Nonthaburi,Non-member
+C0064,Interior Designer,Pathum Thani,Non-member
+C0065,Office,Pathum Thani,Non-member
+C0066,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0067,Condo Resident,Nonthaburi,Non-member
+C0068,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0069,Condo Resident,Phuket,Non-member
+C0070,Interior Designer,Nonthaburi,Non-member
+C0071,Homeowner,Chonburi,Non-member
+C0072,Interior Designer,Chonburi,Non-member
+C0073,Interior Designer,Samut Prakan,Non-member
+C0074,Condo Resident,Nonthaburi,Non-member
+C0075,Hotel/Cafe/Restaurant,Samut Prakan,Member
+C0076,Homeowner,Phuket,Non-member
+C0077,Condo Resident,Chiang Mai,Non-member
+C0078,Condo Resident,Nakhon Ratchasima,Non-member
+C0079,Office,Phuket,Member
+C0080,Interior Designer,Samut Prakan,Non-member
+C0081,Interior Designer,Nonthaburi,Member
+C0082,Office,Nakhon Ratchasima,Non-member
+C0083,Homeowner,Pathum Thani,Non-member
+C0084,Interior Designer,Pathum Thani,Member
+C0085,Condo Resident,Nonthaburi,Non-member
+C0086,Homeowner,Chonburi,Member
+C0087,Condo Resident,Chonburi,Non-member
+C0088,Interior Designer,Nonthaburi,Member
+C0089,Condo Resident,Bangkok,Non-member
+C0090,Homeowner,Nonthaburi,Member
+C0091,Office,Chonburi,Non-member
+C0092,Renovator,Chiang Mai,Member
+C0093,Condo Resident,Nonthaburi,Member
+C0094,Renovator,Bangkok,Non-member
+C0095,Homeowner,Phuket,Member
+C0096,Homeowner,Phuket,Non-member
+C0097,Renovator,Nakhon Ratchasima,Non-member
+C0098,Condo Resident,Pathum Thani,Member
+C0099,Condo Resident,Chiang Mai,Member
+C0100,Office,Nakhon Ratchasima,Member
+C0101,Office,Samut Prakan,Non-member
+C0102,Renovator,Bangkok,Non-member
+C0103,Interior Designer,Chiang Mai,Member
+C0104,Homeowner,Pathum Thani,Member
+C0105,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0106,Interior Designer,Phuket,Member
+C0107,Interior Designer,Samut Prakan,Non-member
+C0108,Homeowner,Chiang Mai,Non-member
+C0109,Homeowner,Samut Prakan,Non-member
+C0110,Interior Designer,Nakhon Ratchasima,Non-member
+C0111,Homeowner,Samut Prakan,Member
+C0112,Office,Samut Prakan,Non-member
+C0113,Homeowner,Nonthaburi,Member
+C0114,Condo Resident,Pathum Thani,Non-member
+C0115,Interior Designer,Pathum Thani,Non-member
+C0116,Interior Designer,Chiang Mai,Non-member
+C0117,Office,Chiang Mai,Non-member
+C0118,Renovator,Samut Prakan,Non-member
+C0119,Condo Resident,Chonburi,Non-member
+C0120,Condo Resident,Nakhon Ratchasima,Non-member
+C0121,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0122,Interior Designer,Phuket,Member
+C0123,Condo Resident,Nonthaburi,Member
+C0124,Condo Resident,Nakhon Ratchasima,Non-member
+C0125,Hotel/Cafe/Restaurant,Nonthaburi,Member
+C0126,Condo Resident,Phuket,Non-member
+C0127,Renovator,Chonburi,Member
+C0128,Condo Resident,Samut Prakan,Non-member
+C0129,Hotel/Cafe/Restaurant,Chonburi,Member
+C0130,Condo Resident,Pathum Thani,Non-member
+C0131,Renovator,Chonburi,Non-member
+C0132,Homeowner,Chonburi,Non-member
+C0133,Interior Designer,Nakhon Ratchasima,Non-member
+C0134,Condo Resident,Samut Prakan,Non-member
+C0135,Office,Pathum Thani,Member
+C0136,Renovator,Nakhon Ratchasima,Member
+C0137,Office,Pathum Thani,Non-member
+C0138,Condo Resident,Nonthaburi,Member
+C0139,Interior Designer,Phuket,Non-member
+C0140,Condo Resident,Pathum Thani,Non-member
+C0141,Condo Resident,Nakhon Ratchasima,Non-member
+C0142,Condo Resident,Phuket,Member
+C0143,Homeowner,Nonthaburi,Non-member
+C0144,Homeowner,Samut Prakan,Non-member
+C0145,Homeowner,Samut Prakan,Member
+C0146,Interior Designer,Chiang Mai,Non-member
+C0147,Office,Bangkok,Non-member
+C0148,Condo Resident,Pathum Thani,Member
+C0149,Homeowner,Chonburi,Member
+C0150,Homeowner,Pathum Thani,Non-member
+C0151,Office,Bangkok,Non-member
+C0152,Condo Resident,Nakhon Ratchasima,Non-member
+C0153,Homeowner,Nonthaburi,Non-member
+C0154,Interior Designer,Nonthaburi,Non-member
+C0155,Condo Resident,Nonthaburi,Non-member
+C0156,Homeowner,Pathum Thani,Non-member
+C0157,Condo Resident,Chonburi,Non-member
+C0158,Office,Nonthaburi,Member
+C0159,Condo Resident,Nonthaburi,Non-member
+C0160,Renovator,Pathum Thani,Member
+C0161,Homeowner,Chiang Mai,Non-member
+C0162,Condo Resident,Phuket,Non-member
+C0163,Renovator,Nonthaburi,Member
+C0164,Homeowner,Phuket,Non-member
+C0165,Condo Resident,Pathum Thani,Member
+C0166,Renovator,Bangkok,Member
+C0167,Homeowner,Pathum Thani,Member
+C0168,Condo Resident,Nonthaburi,Non-member
+C0169,Homeowner,Nakhon Ratchasima,Member
+C0170,Homeowner,Pathum Thani,Member
+C0171,Renovator,Bangkok,Non-member
+C0172,Condo Resident,Pathum Thani,Member
+C0173,Office,Pathum Thani,Non-member
+C0174,Renovator,Pathum Thani,Non-member
+C0175,Condo Resident,Nonthaburi,Member
+C0176,Office,Bangkok,Non-member
+C0177,Renovator,Samut Prakan,Non-member
+C0178,Office,Samut Prakan,Non-member
+C0179,Homeowner,Nonthaburi,Non-member
+C0180,Condo Resident,Phuket,Non-member
+C0181,Condo Resident,Nakhon Ratchasima,Non-member
+C0182,Condo Resident,Pathum Thani,Member
+C0183,Homeowner,Phuket,Member
+C0184,Interior Designer,Nonthaburi,Member
+C0185,Condo Resident,Chiang Mai,Member
+C0186,Condo Resident,Samut Prakan,Non-member
+C0187,Homeowner,Nonthaburi,Non-member
+C0188,Homeowner,Samut Prakan,Non-member
+C0189,Hotel/Cafe/Restaurant,Chiang Mai,Member
+C0190,Homeowner,Nakhon Ratchasima,Non-member
+C0191,Condo Resident,Samut Prakan,Member
+C0192,Condo Resident,Phuket,Non-member
+C0193,Condo Resident,Pathum Thani,Non-member
+C0194,Condo Resident,Bangkok,Non-member
+C0195,Homeowner,Samut Prakan,Member
+C0196,Renovator,Bangkok,Member
+C0197,Condo Resident,Pathum Thani,Member
+C0198,Condo Resident,Nakhon Ratchasima,Non-member
+C0199,Condo Resident,Nakhon Ratchasima,Non-member
+C0200,Condo Resident,Chonburi,Member
+C0201,Renovator,Bangkok,Non-member
+C0202,Homeowner,Bangkok,Non-member
+C0203,Homeowner,Pathum Thani,Non-member
+C0204,Interior Designer,Nakhon Ratchasima,Non-member
+C0205,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0206,Condo Resident,Chonburi,Non-member
+C0207,Condo Resident,Bangkok,Member
+C0208,Homeowner,Nakhon Ratchasima,Non-member
+C0209,Homeowner,Nakhon Ratchasima,Non-member
+C0210,Condo Resident,Pathum Thani,Non-member
+C0211,Interior Designer,Nonthaburi,Non-member
+C0212,Condo Resident,Samut Prakan,Non-member
+C0213,Condo Resident,Bangkok,Member
+C0214,Homeowner,Samut Prakan,Non-member
+C0215,Office,Samut Prakan,Member
+C0216,Homeowner,Pathum Thani,Non-member
+C0217,Condo Resident,Chiang Mai,Non-member
+C0218,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0219,Interior Designer,Phuket,Non-member
+C0220,Homeowner,Nonthaburi,Non-member
+C0221,Condo Resident,Pathum Thani,Non-member
+C0222,Condo Resident,Bangkok,Member
+C0223,Homeowner,Phuket,Non-member
+C0224,Renovator,Pathum Thani,Member
+C0225,Renovator,Pathum Thani,Non-member
+C0226,Office,Pathum Thani,Member
+C0227,Homeowner,Nakhon Ratchasima,Member
+C0228,Homeowner,Nakhon Ratchasima,Member
+C0229,Homeowner,Chiang Mai,Member
+C0230,Condo Resident,Samut Prakan,Member
+C0231,Renovator,Chonburi,Non-member
+C0232,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0233,Homeowner,Samut Prakan,Non-member
+C0234,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0235,Homeowner,Phuket,Member
+C0236,Renovator,Nakhon Ratchasima,Non-member
+C0237,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0238,Interior Designer,Pathum Thani,Non-member
+C0239,Condo Resident,Bangkok,Non-member
+C0240,Condo Resident,Samut Prakan,Member
+C0241,Renovator,Chonburi,Member
+C0242,Interior Designer,Nakhon Ratchasima,Non-member
+C0243,Condo Resident,Samut Prakan,Member
+C0244,Condo Resident,Bangkok,Non-member
+C0245,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0246,Renovator,Pathum Thani,Member
+C0247,Renovator,Pathum Thani,Member
+C0248,Homeowner,Chiang Mai,Member
+C0249,Condo Resident,Nonthaburi,Non-member
+C0250,Homeowner,Nonthaburi,Non-member
+C0251,Office,Nonthaburi,Non-member
+C0252,Condo Resident,Nakhon Ratchasima,Member
+C0253,Condo Resident,Nonthaburi,Non-member
+C0254,Homeowner,Chonburi,Member
+C0255,Homeowner,Phuket,Non-member
+C0256,Homeowner,Chonburi,Non-member
+C0257,Homeowner,Samut Prakan,Non-member
+C0258,Homeowner,Nonthaburi,Member
+C0259,Condo Resident,Nakhon Ratchasima,Non-member
+C0260,Homeowner,Nakhon Ratchasima,Non-member
+C0261,Renovator,Bangkok,Non-member
+C0262,Interior Designer,Phuket,Non-member
+C0263,Condo Resident,Samut Prakan,Non-member
+C0264,Homeowner,Chonburi,Non-member
+C0265,Office,Samut Prakan,Member
+C0266,Office,Nonthaburi,Non-member
+C0267,Homeowner,Chiang Mai,Non-member
+C0268,Homeowner,Chonburi,Non-member
+C0269,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0270,Homeowner,Bangkok,Member
+C0271,Homeowner,Phuket,Member
+C0272,Homeowner,Bangkok,Non-member
+C0273,Renovator,Chonburi,Non-member
+C0274,Homeowner,Nakhon Ratchasima,Non-member
+C0275,Interior Designer,Samut Prakan,Member
+C0276,Renovator,Phuket,Member
+C0277,Condo Resident,Nonthaburi,Non-member
+C0278,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Non-member
+C0279,Homeowner,Pathum Thani,Non-member
+C0280,Condo Resident,Pathum Thani,Member
+C0281,Homeowner,Chiang Mai,Member
+C0282,Homeowner,Chonburi,Member
+C0283,Condo Resident,Nakhon Ratchasima,Non-member
+C0284,Office,Nonthaburi,Member
+C0285,Renovator,Chonburi,Non-member
+C0286,Interior Designer,Bangkok,Non-member
+C0287,Homeowner,Nakhon Ratchasima,Member
+C0288,Renovator,Chonburi,Member
+C0289,Homeowner,Phuket,Non-member
+C0290,Condo Resident,Samut Prakan,Member
+C0291,Interior Designer,Nonthaburi,Non-member
+C0292,Renovator,Pathum Thani,Non-member
+C0293,Homeowner,Pathum Thani,Non-member
+C0294,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0295,Interior Designer,Chiang Mai,Member
+C0296,Homeowner,Nakhon Ratchasima,Member
+C0297,Condo Resident,Nonthaburi,Member
+C0298,Condo Resident,Samut Prakan,Non-member
+C0299,Office,Chonburi,Non-member
+C0300,Interior Designer,Chonburi,Non-member
+C0301,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0302,Homeowner,Samut Prakan,Non-member
+C0303,Condo Resident,Nonthaburi,Member
+C0304,Interior Designer,Nakhon Ratchasima,Non-member
+C0305,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0306,Homeowner,Chonburi,Member
+C0307,Condo Resident,Nonthaburi,Non-member
+C0308,Condo Resident,Chonburi,Non-member
+C0309,Homeowner,Bangkok,Member
+C0310,Homeowner,Chiang Mai,Non-member
+C0311,Renovator,Chiang Mai,Non-member
+C0312,Homeowner,Phuket,Member
+C0313,Condo Resident,Pathum Thani,Member
+C0314,Condo Resident,Nonthaburi,Non-member
+C0315,Condo Resident,Chiang Mai,Member
+C0316,Office,Chiang Mai,Member
+C0317,Homeowner,Nakhon Ratchasima,Non-member
+C0318,Condo Resident,Samut Prakan,Member
+C0319,Renovator,Bangkok,Non-member
+C0320,Homeowner,Phuket,Member
+C0321,Homeowner,Pathum Thani,Member
+C0322,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0323,Homeowner,Nakhon Ratchasima,Member
+C0324,Condo Resident,Chiang Mai,Member
+C0325,Interior Designer,Nonthaburi,Non-member
+C0326,Interior Designer,Samut Prakan,Non-member
+C0327,Office,Phuket,Non-member
+C0328,Condo Resident,Phuket,Non-member
+C0329,Condo Resident,Phuket,Member
+C0330,Office,Nakhon Ratchasima,Non-member
+C0331,Interior Designer,Chonburi,Member
+C0332,Condo Resident,Bangkok,Non-member
+C0333,Homeowner,Pathum Thani,Non-member
+C0334,Condo Resident,Chiang Mai,Non-member
+C0335,Renovator,Chonburi,Member
+C0336,Homeowner,Nonthaburi,Non-member
+C0337,Homeowner,Samut Prakan,Member
+C0338,Renovator,Chonburi,Non-member
+C0339,Condo Resident,Samut Prakan,Non-member
+C0340,Homeowner,Bangkok,Member
+C0341,Homeowner,Phuket,Non-member
+C0342,Homeowner,Chiang Mai,Member
+C0343,Homeowner,Chonburi,Member
+C0344,Homeowner,Samut Prakan,Non-member
+C0345,Hotel/Cafe/Restaurant,Samut Prakan,Member
+C0346,Homeowner,Phuket,Non-member
+C0347,Hotel/Cafe/Restaurant,Phuket,Member
+C0348,Condo Resident,Samut Prakan,Member
+C0349,Homeowner,Samut Prakan,Member
+C0350,Condo Resident,Chiang Mai,Non-member
+C0351,Condo Resident,Chiang Mai,Non-member
+C0352,Renovator,Nakhon Ratchasima,Non-member
+C0353,Interior Designer,Bangkok,Member
+C0354,Condo Resident,Nakhon Ratchasima,Member
+C0355,Condo Resident,Samut Prakan,Member
+C0356,Condo Resident,Nakhon Ratchasima,Member
+C0357,Renovator,Bangkok,Member
+C0358,Renovator,Chonburi,Non-member
+C0359,Condo Resident,Bangkok,Member
+C0360,Office,Pathum Thani,Member
+C0361,Condo Resident,Nonthaburi,Member
+C0362,Renovator,Nakhon Ratchasima,Member
+C0363,Condo Resident,Nonthaburi,Member
+C0364,Condo Resident,Pathum Thani,Non-member
+C0365,Office,Pathum Thani,Member
+C0366,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0367,Interior Designer,Chonburi,Member
+C0368,Homeowner,Samut Prakan,Non-member
+C0369,Condo Resident,Chiang Mai,Non-member
+C0370,Interior Designer,Chonburi,Non-member
+C0371,Condo Resident,Nonthaburi,Non-member
+C0372,Condo Resident,Nonthaburi,Non-member
+C0373,Interior Designer,Samut Prakan,Member
+C0374,Renovator,Samut Prakan,Member
+C0375,Condo Resident,Chonburi,Non-member
+C0376,Renovator,Samut Prakan,Non-member
+C0377,Office,Chonburi,Non-member
+C0378,Condo Resident,Nakhon Ratchasima,Member
+C0379,Homeowner,Samut Prakan,Member
+C0380,Homeowner,Chiang Mai,Non-member
+C0381,Interior Designer,Nakhon Ratchasima,Non-member
+C0382,Renovator,Nakhon Ratchasima,Non-member
+C0383,Homeowner,Pathum Thani,Non-member
+C0384,Condo Resident,Bangkok,Member
+C0385,Homeowner,Chonburi,Non-member
+C0386,Homeowner,Pathum Thani,Non-member
+C0387,Renovator,Chonburi,Non-member
+C0388,Homeowner,Chonburi,Member
+C0389,Homeowner,Phuket,Non-member
+C0390,Condo Resident,Phuket,Non-member
+C0391,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0392,Renovator,Phuket,Non-member
+C0393,Condo Resident,Nonthaburi,Non-member
+C0394,Office,Nonthaburi,Non-member
+C0395,Homeowner,Samut Prakan,Member
+C0396,Renovator,Pathum Thani,Non-member
+C0397,Interior Designer,Samut Prakan,Member
+C0398,Homeowner,Bangkok,Non-member
+C0399,Renovator,Phuket,Non-member
+C0400,Renovator,Pathum Thani,Non-member
+C0401,Homeowner,Chiang Mai,Non-member
+C0402,Homeowner,Chonburi,Non-member
+C0403,Interior Designer,Chiang Mai,Non-member
+C0404,Office,Bangkok,Non-member
+C0405,Condo Resident,Samut Prakan,Non-member
+C0406,Homeowner,Bangkok,Non-member
+C0407,Homeowner,Bangkok,Non-member
+C0408,Condo Resident,Nakhon Ratchasima,Member
+C0409,Condo Resident,Samut Prakan,Non-member
+C0410,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0411,Renovator,Pathum Thani,Non-member
+C0412,Office,Pathum Thani,Non-member
+C0413,Renovator,Bangkok,Non-member
+C0414,Interior Designer,Nakhon Ratchasima,Member
+C0415,Office,Phuket,Non-member
+C0416,Interior Designer,Nonthaburi,Non-member
+C0417,Condo Resident,Samut Prakan,Member
+C0418,Condo Resident,Phuket,Member
+C0419,Renovator,Chonburi,Member
+C0420,Renovator,Samut Prakan,Non-member
+C0421,Condo Resident,Nonthaburi,Non-member
+C0422,Condo Resident,Phuket,Non-member
+C0423,Interior Designer,Samut Prakan,Non-member
+C0424,Condo Resident,Phuket,Member
+C0425,Condo Resident,Samut Prakan,Member
+C0426,Interior Designer,Samut Prakan,Non-member
+C0427,Condo Resident,Nakhon Ratchasima,Member
+C0428,Office,Bangkok,Non-member
+C0429,Condo Resident,Phuket,Member
+C0430,Interior Designer,Nonthaburi,Non-member
+C0431,Homeowner,Chiang Mai,Non-member
+C0432,Hotel/Cafe/Restaurant,Nonthaburi,Member
+C0433,Condo Resident,Bangkok,Non-member
+C0434,Interior Designer,Phuket,Member
+C0435,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Non-member
+C0436,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0437,Condo Resident,Nonthaburi,Non-member
+C0438,Office,Nakhon Ratchasima,Non-member
+C0439,Condo Resident,Phuket,Non-member
+C0440,Condo Resident,Nakhon Ratchasima,Member
+C0441,Renovator,Samut Prakan,Non-member
+C0442,Interior Designer,Bangkok,Non-member
+C0443,Homeowner,Bangkok,Non-member
+C0444,Homeowner,Chiang Mai,Member
+C0445,Homeowner,Pathum Thani,Member
+C0446,Homeowner,Samut Prakan,Non-member
+C0447,Homeowner,Bangkok,Non-member
+C0448,Condo Resident,Nakhon Ratchasima,Non-member
+C0449,Renovator,Phuket,Member
+C0450,Homeowner,Samut Prakan,Member
+C0451,Condo Resident,Nakhon Ratchasima,Member
+C0452,Homeowner,Chonburi,Non-member
+C0453,Hotel/Cafe/Restaurant,Chonburi,Member
+C0454,Homeowner,Nakhon Ratchasima,Non-member
+C0455,Condo Resident,Chiang Mai,Non-member
+C0456,Condo Resident,Nonthaburi,Non-member
+C0457,Homeowner,Phuket,Member
+C0458,Condo Resident,Samut Prakan,Member
+C0459,Interior Designer,Bangkok,Member
+C0460,Office,Chonburi,Member
+C0461,Homeowner,Chonburi,Member
+C0462,Condo Resident,Chonburi,Non-member
+C0463,Interior Designer,Chiang Mai,Non-member
+C0464,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0465,Office,Chiang Mai,Member
+C0466,Homeowner,Bangkok,Member
+C0467,Condo Resident,Bangkok,Member
+C0468,Condo Resident,Phuket,Non-member
+C0469,Office,Samut Prakan,Member
+C0470,Interior Designer,Pathum Thani,Non-member
+C0471,Condo Resident,Nonthaburi,Non-member
+C0472,Homeowner,Nakhon Ratchasima,Member
+C0473,Homeowner,Pathum Thani,Non-member
+C0474,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0475,Condo Resident,Pathum Thani,Non-member
+C0476,Homeowner,Chiang Mai,Member
+C0477,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0478,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0479,Condo Resident,Bangkok,Non-member
+C0480,Condo Resident,Bangkok,Non-member
+C0481,Condo Resident,Pathum Thani,Non-member
+C0482,Homeowner,Bangkok,Non-member
+C0483,Condo Resident,Nakhon Ratchasima,Non-member
+C0484,Renovator,Pathum Thani,Non-member
+C0485,Condo Resident,Chonburi,Non-member
+C0486,Office,Nakhon Ratchasima,Non-member
+C0487,Office,Samut Prakan,Non-member
+C0488,Condo Resident,Nakhon Ratchasima,Non-member
+C0489,Homeowner,Pathum Thani,Non-member
+C0490,Renovator,Nonthaburi,Member
+C0491,Office,Chiang Mai,Non-member
+C0492,Office,Nakhon Ratchasima,Non-member
+C0493,Condo Resident,Samut Prakan,Non-member
+C0494,Condo Resident,Bangkok,Non-member
+C0495,Homeowner,Pathum Thani,Member
+C0496,Homeowner,Phuket,Non-member
+C0497,Renovator,Pathum Thani,Non-member
+C0498,Office,Samut Prakan,Member
+C0499,Condo Resident,Chiang Mai,Non-member
+C0500,Condo Resident,Nonthaburi,Non-member
+C0501,Interior Designer,Phuket,Non-member
+C0502,Hotel/Cafe/Restaurant,Phuket,Member
+C0503,Condo Resident,Nonthaburi,Non-member
+C0504,Homeowner,Nakhon Ratchasima,Member
+C0505,Homeowner,Samut Prakan,Member
+C0506,Homeowner,Nonthaburi,Non-member
+C0507,Homeowner,Samut Prakan,Member
+C0508,Renovator,Phuket,Non-member
+C0509,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0510,Homeowner,Nonthaburi,Member
+C0511,Homeowner,Phuket,Non-member
+C0512,Interior Designer,Samut Prakan,Non-member
+C0513,Interior Designer,Nakhon Ratchasima,Non-member
+C0514,Homeowner,Chonburi,Member
+C0515,Office,Nakhon Ratchasima,Member
+C0516,Interior Designer,Bangkok,Non-member
+C0517,Condo Resident,Samut Prakan,Non-member
+C0518,Homeowner,Samut Prakan,Non-member
+C0519,Homeowner,Pathum Thani,Member
+C0520,Condo Resident,Chiang Mai,Member
+C0521,Office,Pathum Thani,Non-member
+C0522,Homeowner,Pathum Thani,Non-member
+C0523,Office,Phuket,Member
+C0524,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0525,Homeowner,Samut Prakan,Non-member
+C0526,Renovator,Chiang Mai,Member
+C0527,Condo Resident,Nakhon Ratchasima,Member
+C0528,Condo Resident,Nonthaburi,Non-member
+C0529,Renovator,Bangkok,Member
+C0530,Homeowner,Nakhon Ratchasima,Non-member
+C0531,Hotel/Cafe/Restaurant,Chonburi,Non-member
+C0532,Interior Designer,Samut Prakan,Non-member
+C0533,Homeowner,Pathum Thani,Non-member
+C0534,Office,Phuket,Member
+C0535,Homeowner,Bangkok,Non-member
+C0536,Homeowner,Bangkok,Non-member
+C0537,Office,Bangkok,Member
+C0538,Homeowner,Pathum Thani,Non-member
+C0539,Condo Resident,Chiang Mai,Member
+C0540,Renovator,Nakhon Ratchasima,Non-member
+C0541,Hotel/Cafe/Restaurant,Chonburi,Member
+C0542,Homeowner,Chonburi,Member
+C0543,Hotel/Cafe/Restaurant,Nonthaburi,Non-member
+C0544,Condo Resident,Phuket,Non-member
+C0545,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0546,Condo Resident,Chonburi,Non-member
+C0547,Hotel/Cafe/Restaurant,Phuket,Member
+C0548,Homeowner,Nakhon Ratchasima,Member
+C0549,Office,Pathum Thani,Non-member
+C0550,Condo Resident,Phuket,Member
+C0551,Homeowner,Pathum Thani,Member
+C0552,Homeowner,Chiang Mai,Non-member
+C0553,Condo Resident,Chonburi,Non-member
+C0554,Renovator,Pathum Thani,Member
+C0555,Renovator,Phuket,Non-member
+C0556,Condo Resident,Bangkok,Member
+C0557,Homeowner,Bangkok,Member
+C0558,Renovator,Samut Prakan,Non-member
+C0559,Renovator,Samut Prakan,Non-member
+C0560,Condo Resident,Phuket,Non-member
+C0561,Condo Resident,Pathum Thani,Non-member
+C0562,Renovator,Nakhon Ratchasima,Member
+C0563,Renovator,Nakhon Ratchasima,Non-member
+C0564,Homeowner,Chonburi,Member
+C0565,Interior Designer,Pathum Thani,Non-member
+C0566,Hotel/Cafe/Restaurant,Pathum Thani,Member
+C0567,Renovator,Nonthaburi,Non-member
+C0568,Condo Resident,Chiang Mai,Member
+C0569,Interior Designer,Chiang Mai,Non-member
+C0570,Homeowner,Nakhon Ratchasima,Non-member
+C0571,Homeowner,Nakhon Ratchasima,Member
+C0572,Hotel/Cafe/Restaurant,Samut Prakan,Member
+C0573,Condo Resident,Nakhon Ratchasima,Non-member
+C0574,Office,Chonburi,Member
+C0575,Office,Pathum Thani,Non-member
+C0576,Renovator,Nakhon Ratchasima,Non-member
+C0577,Hotel/Cafe/Restaurant,Nonthaburi,Non-member
+C0578,Homeowner,Chiang Mai,Non-member
+C0579,Office,Chiang Mai,Non-member
+C0580,Renovator,Phuket,Member
+C0581,Renovator,Phuket,Member
+C0582,Condo Resident,Chonburi,Non-member
+C0583,Homeowner,Chonburi,Member
+C0584,Interior Designer,Nakhon Ratchasima,Non-member
+C0585,Homeowner,Nonthaburi,Member
+C0586,Hotel/Cafe/Restaurant,Bangkok,Member
+C0587,Renovator,Chonburi,Member
+C0588,Interior Designer,Phuket,Member
+C0589,Homeowner,Samut Prakan,Non-member
+C0590,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0591,Condo Resident,Nonthaburi,Member
+C0592,Homeowner,Chiang Mai,Non-member
+C0593,Condo Resident,Nakhon Ratchasima,Non-member
+C0594,Homeowner,Bangkok,Non-member
+C0595,Homeowner,Chiang Mai,Non-member
+C0596,Interior Designer,Chonburi,Member
+C0597,Homeowner,Pathum Thani,Member
+C0598,Interior Designer,Chiang Mai,Non-member
+C0599,Office,Phuket,Member
+C0600,Condo Resident,Nakhon Ratchasima,Non-member
+C0601,Homeowner,Pathum Thani,Non-member
+C0602,Interior Designer,Nakhon Ratchasima,Non-member
+C0603,Condo Resident,Bangkok,Member
+C0604,Homeowner,Bangkok,Member
+C0605,Condo Resident,Nakhon Ratchasima,Member
+C0606,Homeowner,Chiang Mai,Non-member
+C0607,Condo Resident,Pathum Thani,Member
+C0608,Condo Resident,Chiang Mai,Non-member
+C0609,Condo Resident,Chiang Mai,Non-member
+C0610,Homeowner,Pathum Thani,Member
+C0611,Homeowner,Chonburi,Member
+C0612,Condo Resident,Chonburi,Non-member
+C0613,Condo Resident,Nonthaburi,Non-member
+C0614,Office,Pathum Thani,Non-member
+C0615,Homeowner,Chonburi,Member
+C0616,Homeowner,Nonthaburi,Non-member
+C0617,Homeowner,Chonburi,Non-member
+C0618,Condo Resident,Phuket,Member
+C0619,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0620,Condo Resident,Pathum Thani,Non-member
+C0621,Renovator,Bangkok,Member
+C0622,Office,Nakhon Ratchasima,Non-member
+C0623,Condo Resident,Phuket,Member
+C0624,Condo Resident,Bangkok,Non-member
+C0625,Renovator,Nakhon Ratchasima,Member
+C0626,Interior Designer,Bangkok,Non-member
+C0627,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Member
+C0628,Condo Resident,Samut Prakan,Non-member
+C0629,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0630,Interior Designer,Nakhon Ratchasima,Member
+C0631,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0632,Homeowner,Nakhon Ratchasima,Non-member
+C0633,Interior Designer,Phuket,Member
+C0634,Condo Resident,Samut Prakan,Non-member
+C0635,Condo Resident,Chiang Mai,Member
+C0636,Homeowner,Chiang Mai,Non-member
+C0637,Hotel/Cafe/Restaurant,Nonthaburi,Member
+C0638,Interior Designer,Bangkok,Member
+C0639,Condo Resident,Pathum Thani,Non-member
+C0640,Condo Resident,Phuket,Non-member
+C0641,Renovator,Chiang Mai,Non-member
+C0642,Condo Resident,Chonburi,Member
+C0643,Hotel/Cafe/Restaurant,Pathum Thani,Non-member
+C0644,Condo Resident,Samut Prakan,Non-member
+C0645,Condo Resident,Pathum Thani,Non-member
+C0646,Condo Resident,Phuket,Non-member
+C0647,Homeowner,Chonburi,Member
+C0648,Condo Resident,Phuket,Member
+C0649,Homeowner,Pathum Thani,Non-member
+C0650,Homeowner,Pathum Thani,Non-member
+C0651,Condo Resident,Phuket,Member
+C0652,Interior Designer,Bangkok,Non-member
+C0653,Homeowner,Pathum Thani,Member
+C0654,Condo Resident,Nonthaburi,Member
+C0655,Condo Resident,Nonthaburi,Non-member
+C0656,Homeowner,Chonburi,Member
+C0657,Condo Resident,Samut Prakan,Non-member
+C0658,Homeowner,Nakhon Ratchasima,Non-member
+C0659,Office,Nakhon Ratchasima,Non-member
+C0660,Interior Designer,Phuket,Member
+C0661,Condo Resident,Nakhon Ratchasima,Member
+C0662,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0663,Homeowner,Pathum Thani,Non-member
+C0664,Hotel/Cafe/Restaurant,Chonburi,Member
+C0665,Interior Designer,Chonburi,Member
+C0666,Office,Nonthaburi,Non-member
+C0667,Hotel/Cafe/Restaurant,Pathum Thani,Member
+C0668,Homeowner,Pathum Thani,Non-member
+C0669,Homeowner,Pathum Thani,Non-member
+C0670,Homeowner,Nakhon Ratchasima,Non-member
+C0671,Office,Chonburi,Member
+C0672,Renovator,Nakhon Ratchasima,Non-member
+C0673,Homeowner,Phuket,Non-member
+C0674,Office,Pathum Thani,Member
+C0675,Homeowner,Chiang Mai,Non-member
+C0676,Homeowner,Chiang Mai,Non-member
+C0677,Interior Designer,Bangkok,Non-member
+C0678,Homeowner,Phuket,Non-member
+C0679,Condo Resident,Pathum Thani,Member
+C0680,Condo Resident,Nonthaburi,Non-member
+C0681,Hotel/Cafe/Restaurant,Phuket,Non-member
+C0682,Renovator,Bangkok,Non-member
+C0683,Homeowner,Phuket,Member
+C0684,Condo Resident,Nakhon Ratchasima,Member
+C0685,Interior Designer,Nonthaburi,Member
+C0686,Homeowner,Chiang Mai,Non-member
+C0687,Interior Designer,Samut Prakan,Member
+C0688,Interior Designer,Samut Prakan,Member
+C0689,Condo Resident,Bangkok,Non-member
+C0690,Interior Designer,Nakhon Ratchasima,Non-member
+C0691,Homeowner,Chiang Mai,Non-member
+C0692,Office,Pathum Thani,Member
+C0693,Condo Resident,Bangkok,Non-member
+C0694,Condo Resident,Phuket,Member
+C0695,Condo Resident,Phuket,Non-member
+C0696,Renovator,Pathum Thani,Non-member
+C0697,Homeowner,Chiang Mai,Member
+C0698,Homeowner,Chonburi,Non-member
+C0699,Office,Chiang Mai,Member
+C0700,Homeowner,Samut Prakan,Non-member
+C0701,Homeowner,Nonthaburi,Member
+C0702,Renovator,Nonthaburi,Member
+C0703,Condo Resident,Nonthaburi,Non-member
+C0704,Homeowner,Chiang Mai,Non-member
+C0705,Hotel/Cafe/Restaurant,Phuket,Non-member
+C0706,Homeowner,Chiang Mai,Non-member
+C0707,Homeowner,Nakhon Ratchasima,Member
+C0708,Condo Resident,Chiang Mai,Non-member
+C0709,Homeowner,Pathum Thani,Member
+C0710,Homeowner,Pathum Thani,Member
+C0711,Office,Bangkok,Member
+C0712,Renovator,Nakhon Ratchasima,Non-member
+C0713,Renovator,Phuket,Non-member
+C0714,Renovator,Nakhon Ratchasima,Non-member
+C0715,Interior Designer,Phuket,Non-member
+C0716,Interior Designer,Chiang Mai,Non-member
+C0717,Homeowner,Nakhon Ratchasima,Non-member
+C0718,Interior Designer,Pathum Thani,Non-member
+C0719,Interior Designer,Nonthaburi,Non-member
+C0720,Condo Resident,Chiang Mai,Member
+C0721,Homeowner,Bangkok,Non-member
+C0722,Homeowner,Nakhon Ratchasima,Non-member
+C0723,Condo Resident,Bangkok,Non-member
+C0724,Interior Designer,Phuket,Non-member
+C0725,Office,Nakhon Ratchasima,Non-member
+C0726,Condo Resident,Chonburi,Non-member
+C0727,Renovator,Nakhon Ratchasima,Non-member
+C0728,Homeowner,Chonburi,Member
+C0729,Condo Resident,Chiang Mai,Member
+C0730,Renovator,Phuket,Non-member
+C0731,Hotel/Cafe/Restaurant,Samut Prakan,Member
+C0732,Homeowner,Chonburi,Non-member
+C0733,Condo Resident,Phuket,Non-member
+C0734,Homeowner,Phuket,Non-member
+C0735,Homeowner,Phuket,Member
+C0736,Homeowner,Nakhon Ratchasima,Member
+C0737,Office,Bangkok,Member
+C0738,Office,Chiang Mai,Non-member
+C0739,Office,Nakhon Ratchasima,Member
+C0740,Condo Resident,Pathum Thani,Member
+C0741,Renovator,Nonthaburi,Non-member
+C0742,Homeowner,Chonburi,Non-member
+C0743,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Non-member
+C0744,Office,Pathum Thani,Non-member
+C0745,Hotel/Cafe/Restaurant,Chiang Mai,Non-member
+C0746,Interior Designer,Bangkok,Non-member
+C0747,Condo Resident,Pathum Thani,Non-member
+C0748,Homeowner,Nonthaburi,Non-member
+C0749,Homeowner,Nakhon Ratchasima,Non-member
+C0750,Condo Resident,Nakhon Ratchasima,Member
+C0751,Condo Resident,Chonburi,Non-member
+C0752,Homeowner,Nonthaburi,Non-member
+C0753,Hotel/Cafe/Restaurant,Bangkok,Non-member
+C0754,Condo Resident,Nakhon Ratchasima,Non-member
+C0755,Condo Resident,Phuket,Member
+C0756,Interior Designer,Chonburi,Non-member
+C0757,Hotel/Cafe/Restaurant,Nonthaburi,Non-member
+C0758,Hotel/Cafe/Restaurant,Phuket,Member
+C0759,Hotel/Cafe/Restaurant,Samut Prakan,Non-member
+C0760,Renovator,Bangkok,Non-member
+C0761,Homeowner,Nonthaburi,Member
+C0762,Condo Resident,Bangkok,Non-member
+C0763,Condo Resident,Chiang Mai,Member
+C0764,Condo Resident,Pathum Thani,Non-member
+C0765,Office,Samut Prakan,Member
+C0766,Condo Resident,Nonthaburi,Member
+C0767,Renovator,Chiang Mai,Non-member
+C0768,Renovator,Chonburi,Non-member
+C0769,Hotel/Cafe/Restaurant,Phuket,Non-member
+C0770,Condo Resident,Pathum Thani,Non-member
+C0771,Office,Nakhon Ratchasima,Non-member
+C0772,Homeowner,Chiang Mai,Member
+C0773,Condo Resident,Nakhon Ratchasima,Member
+C0774,Condo Resident,Chonburi,Member
+C0775,Homeowner,Chiang Mai,Non-member
+C0776,Condo Resident,Nonthaburi,Member
+C0777,Homeowner,Pathum Thani,Non-member
+C0778,Homeowner,Chiang Mai,Non-member
+C0779,Condo Resident,Chiang Mai,Non-member
+C0780,Homeowner,Chiang Mai,Non-member
+C0781,Interior Designer,Chonburi,Non-member
+C0782,Condo Resident,Nonthaburi,Member
+C0783,Renovator,Chonburi,Non-member
+C0784,Interior Designer,Phuket,Non-member
+C0785,Homeowner,Samut Prakan,Non-member
+C0786,Condo Resident,Chonburi,Non-member
+C0787,Interior Designer,Nakhon Ratchasima,Member
+C0788,Condo Resident,Chiang Mai,Member
+C0789,Hotel/Cafe/Restaurant,Pathum Thani,Member
+C0790,Condo Resident,Samut Prakan,Non-member
+C0791,Interior Designer,Pathum Thani,Member
+C0792,Interior Designer,Pathum Thani,Member
+C0793,Condo Resident,Samut Prakan,Non-member
+C0794,Renovator,Nakhon Ratchasima,Non-member
+C0795,Condo Resident,Chiang Mai,Non-member
+C0796,Interior Designer,Chiang Mai,Non-member
+C0797,Homeowner,Pathum Thani,Member
+C0798,Homeowner,Chonburi,Non-member
+C0799,Homeowner,Chonburi,Non-member
+C0800,Homeowner,Nonthaburi,Member

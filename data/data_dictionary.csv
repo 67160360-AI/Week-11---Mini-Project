@@ -1,0 +1,22 @@
+﻿Field,Meaning,Type
+Order_ID,รหัสคำสั่งซื้อ,text/date
+Order_Date,วันที่สั่งซื้อ,text/date
+Customer_ID,รหัสลูกค้า,text/date
+Customer_Segment,กลุ่มลูกค้าตาม BMC,text/date
+Location,จังหวัด/พื้นที่ลูกค้า,text/date
+Product_Category,หมวดหมู่เฟอร์นิเจอร์,text/date
+Style,สไตล์ที่ลูกค้าเลือก,text/date
+Sales_Channel,ช่องทางการขายตาม BMC,text/date
+AI_Assisted,มี AI ช่วยในกระบวนการเลือก/ออกแบบหรือไม่,text/date
+AR_Used,ทดลองวางเฟอร์นิเจอร์ด้วย AR หรือไม่,text/date
+Service_Type,ประเภทบริการ,text/date
+Quantity,จำนวนชิ้น,numeric
+Discount_Pct,ส่วนลด,numeric
+Merchandise_Revenue_THB,รายได้จากสินค้า,numeric
+Service_Fee_THB,ค่าบริการ,numeric
+Shipping_Fee_THB,ค่าจัดส่ง,numeric
+Revenue_THB,รายได้รวม,numeric
+Estimated_Cost_THB,ต้นทุนประมาณการ,numeric
+Gross_Profit_THB,กำไรขั้นต้นประมาณการ,numeric
+Customer_Satisfaction,คะแนนความพึงพอใจ 1-5,numeric
+Repeat_Customer,ลูกค้าซื้อซ้ำหรือไม่,text/date

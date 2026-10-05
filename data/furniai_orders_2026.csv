@@ -1,0 +1,1201 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Segment,Location,Product_Category,Style,Sales_Channel,AI_Assisted,AR_Used,Service_Type,Quantity,Discount_Pct,Merchandise_Revenue_THB,Service_Fee_THB,Shipping_Fee_THB,Revenue_THB,Estimated_Cost_THB,Gross_Profit_THB,Customer_Satisfaction,Repeat_Customer
+FA00097,2026-01-01,C0421,Condo Resident,Nonthaburi,Decor,Industrial,AI App,Yes,Yes,Standard Purchase,1,0.1,2743.66,0,390,3133.66,1609.46,1524.2,4.6,No
+FA00236,2026-01-01,C0232,Hotel/Cafe/Restaurant,Samut Prakan,Dining,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.1,16490.39,0,790,17280.39,6858.85,10421.54,5.0,No
+FA00769,2026-01-01,C0746,Interior Designer,Bangkok,Bed,Industrial,Website,No,No,Standard Purchase,2,0.15,28369.9,0,0,28369.9,11347.96,17021.94,4.3,No
+FA01008,2026-01-01,C0245,Hotel/Cafe/Restaurant,Chiang Mai,Sofa,Industrial,Social Media,No,Yes,Standard Purchase,1,0.05,14011.19,0,250,14261.19,6072.2,8188.99,4.4,No
+FA00283,2026-01-02,C0103,Interior Designer,Chiang Mai,Dining,Scandinavian,AI App,Yes,Yes,Custom Furniture,1,0,17098.92,1490,0,18588.92,6825.39,11763.53,4.5,No
+FA00897,2026-01-02,C0751,Condo Resident,Chonburi,Sofa,Scandinavian,Website,No,No,Standard Purchase,1,0,18349.75,0,390,18739.75,7999.39,10740.36,4.4,No
+FA00052,2026-01-03,C0201,Renovator,Bangkok,Sofa,Japandi,Website,No,Yes,Custom Furniture,1,0.05,13538.83,590,390,14518.83,6108.61,8410.22,4.2,No
+FA01044,2026-01-03,C0175,Condo Resident,Nonthaburi,Storage,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,2,0.05,6840.43,0,590,7430.43,3383.88,4046.55,4.8,Yes
+FA01048,2026-01-03,C0080,Interior Designer,Samut Prakan,Workspace,Industrial,AI App,No,No,Standard Purchase,1,0.05,8063.08,0,390,8453.08,3840.26,4612.82,4.2,No
+FA01083,2026-01-03,C0535,Homeowner,Bangkok,Sofa,Japandi,Website,Yes,Yes,Standard Purchase,1,0.15,19841.83,0,0,19841.83,8333.57,11508.26,4.7,No
+FA01160,2026-01-03,C0155,Condo Resident,Nonthaburi,Dining,Modern Minimal,Website,No,No,Standard Purchase,1,0.05,8060.2,0,390,8450.2,3355.38,5094.82,4.0,No
+FA00491,2026-01-04,C0469,Office,Samut Prakan,Decor,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,3,0.1,14400.28,0,250,14650.28,7099.63,7550.65,4.0,Yes
+FA00876,2026-01-04,C0604,Homeowner,Bangkok,Decor,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,5075.33,0,250,5325.33,2623.66,2701.67,4.5,Yes
+FA00010,2026-01-05,C0011,Interior Designer,Pathum Thani,Sofa,Scandinavian,Marketplace,Yes,No,Standard Purchase,2,0,63439.59,0,0,63439.59,26644.63,36794.96,3.8,No
+FA00216,2026-01-05,C0586,Hotel/Cafe/Restaurant,Bangkok,Decor,Industrial,Marketplace,No,No,Standard Purchase,2,0.08,13001.17,0,0,13001.17,6240.56,6760.61,3.5,No
+FA00209,2026-01-06,C0027,Condo Resident,Bangkok,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,2,0.05,51512.51,0,0,51512.51,21635.25,29877.26,5,No
+FA00783,2026-01-06,C0431,Homeowner,Chiang Mai,Sofa,Modern Minimal,Website,No,Yes,Standard Purchase,2,0.15,46764.81,0,0,46764.81,19641.22,27123.59,3.7,No
+FA00050,2026-01-07,C0167,Homeowner,Pathum Thani,Dining,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.15,8092.95,0,390,8482.95,3367.82,5115.13,3.9,No
+FA00872,2026-01-07,C0145,Homeowner,Samut Prakan,Smart Furniture,Japandi,Website,No,No,Custom Furniture,1,0,14848.08,990,590,16428.08,8084.34,8343.74,3.7,No
+FA01014,2026-01-07,C0136,Renovator,Nakhon Ratchasima,Bed,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,2,0.1,32791.17,0,0,32791.17,13116.47,19674.7,4.3,Yes
+FA00584,2026-01-08,C0720,Condo Resident,Chiang Mai,Bed,Scandinavian,Website,Yes,No,Standard Purchase,2,0.05,40320.87,0,0,40320.87,16128.35,24192.52,4.6,Yes
+FA01005,2026-01-08,C0480,Condo Resident,Bangkok,Dining,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0,17808.7,0,0,17808.7,6767.31,11041.39,4.4,No
+FA00009,2026-01-09,C0685,Interior Designer,Nonthaburi,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.1,29829.68,0,790,30619.68,13120.97,17498.71,4.7,No
+FA00046,2026-01-09,C0378,Condo Resident,Nakhon Ratchasima,Bed,Scandinavian,Website,No,No,Standard Purchase,1,0,17327.74,0,390,17717.74,7223.6,10494.14,4.4,No
+FA00151,2026-01-09,C0483,Condo Resident,Nakhon Ratchasima,Storage,Industrial,Marketplace,Yes,No,Standard Purchase,1,0.05,10783.75,0,590,11373.75,5079.51,6294.24,5,No
+FA00707,2026-01-09,C0737,Office,Bangkok,Workspace,Industrial,Website,Yes,No,Standard Purchase,2,0.1,34713.09,0,0,34713.09,15273.76,19439.33,4.5,No
+FA00045,2026-01-10,C0605,Condo Resident,Nakhon Ratchasima,Sofa,Japandi,Social Media,Yes,Yes,Standard Purchase,2,0,40705.33,0,0,40705.33,17096.24,23609.09,4.8,Yes
+FA00301,2026-01-10,C0140,Condo Resident,Pathum Thani,Workspace,Japandi,Social Media,No,Yes,Custom Furniture,2,0.05,8197.67,590,790,9577.67,4329.27,5248.4,4.4,No
+FA00752,2026-01-10,C0203,Homeowner,Pathum Thani,Bed,Japandi,Website,Yes,No,Standard Purchase,2,0.08,41931.4,0,0,41931.4,16772.56,25158.84,4.2,No
+FA00948,2026-01-10,C0196,Renovator,Bangkok,Decor,Warm Modern,Website,Yes,No,AI Design Service,3,0.05,5034.38,1190,590,6814.38,3120.8,3693.58,4.7,No
+FA00993,2026-01-10,C0323,Homeowner,Nakhon Ratchasima,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.05,17269.18,0,790,18059.18,7845.56,10213.62,4.5,No
+FA00820,2026-01-11,C0289,Homeowner,Phuket,Decor,Warm Modern,Marketplace,No,No,Standard Purchase,2,0.08,6624.04,0,590,7214.04,3622.04,3592.0,4.5,No
+FA00883,2026-01-11,C0494,Condo Resident,Bangkok,Bed,Japandi,Social Media,Yes,No,AI Design Service,1,0,28742.06,499,790,30031.06,12199.1,17831.96,4.3,No
+FA01020,2026-01-11,C0192,Condo Resident,Phuket,Sofa,Modern Minimal,AI App,Yes,No,AI Design Service,1,0,22374.01,499,390,23263.01,9799.36,13463.65,4.9,No
+FA01022,2026-01-11,C0721,Homeowner,Bangkok,Storage,Warm Modern,Website,No,No,Standard Purchase,1,0.08,13538.46,0,590,14128.46,6264.04,7864.42,4.6,No
+FA00377,2026-01-12,C0063,Interior Designer,Nonthaburi,Dining,Modern Minimal,Website,Yes,Yes,Standard Purchase,2,0.08,58606.35,0,0,58606.35,22270.41,36335.94,5,No
+FA00946,2026-01-12,C0205,Hotel/Cafe/Restaurant,Bangkok,Sofa,Industrial,Marketplace,Yes,Yes,Standard Purchase,2,0,47846.67,0,0,47846.67,20095.6,27751.07,5.0,No
+FA00187,2026-01-13,C0508,Renovator,Phuket,Workspace,Industrial,Website,Yes,No,Standard Purchase,1,0.05,17844.8,0,0,17844.8,7851.71,9993.09,4.7,No
+FA00357,2026-01-13,C0266,Office,Nonthaburi,Sofa,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,32082.86,0,0,32082.86,13474.8,18608.06,5,No
+FA00479,2026-01-13,C0610,Homeowner,Pathum Thani,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.08,19863.05,0,790,20653.05,8934.98,11718.07,4.4,No
+FA00482,2026-01-13,C0591,Condo Resident,Nonthaburi,Dining,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,10462.59,0,250,10712.59,4163.28,6549.31,4.0,No
+FA00513,2026-01-13,C0296,Homeowner,Nakhon Ratchasima,Bed,Japandi,Social Media,Yes,No,AI Design Service,1,0.05,11396.8,1190,0,12586.8,4820.52,7766.28,4.1,Yes
+FA00978,2026-01-13,C0770,Condo Resident,Pathum Thani,Sofa,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.1,12258.26,0,250,12508.26,5335.97,7172.29,4.4,No
+FA00126,2026-01-14,C0440,Condo Resident,Nakhon Ratchasima,Smart Furniture,Japandi,Marketplace,No,No,Standard Purchase,1,0,8015.24,0,0,8015.24,4007.62,4007.62,4.4,No
+FA01000,2026-01-14,C0072,Interior Designer,Chonburi,Storage,Scandinavian,Marketplace,Yes,No,AI Design Service,1,0,5157.86,799,390,6346.86,2686.16,3660.7,5,No
+FA00867,2026-01-15,C0643,Hotel/Cafe/Restaurant,Pathum Thani,Storage,Warm Modern,Website,No,No,Custom Furniture,1,0,17841.93,590,590,19021.93,8244.33,10777.6,3.5,No
+FA00581,2026-01-16,C0574,Office,Chonburi,Sofa,Scandinavian,Website,No,No,Standard Purchase,1,0,14959.07,0,250,15209.07,6470.31,8738.76,3.5,No
+FA00958,2026-01-16,C0311,Renovator,Chiang Mai,Sofa,Industrial,Website,Yes,Yes,Standard Purchase,2,0.05,49633.5,0,0,49633.5,20846.07,28787.43,4.7,No
+FA01084,2026-01-16,C0558,Renovator,Samut Prakan,Bed,Industrial,Website,No,No,Standard Purchase,1,0,13159.43,0,390,13549.43,5556.27,7993.16,3.9,No
+FA01123,2026-01-16,C0426,Interior Designer,Samut Prakan,Workspace,Scandinavian,Smart Showroom,No,No,Standard Purchase,1,0.08,10050.97,0,790,10840.97,5014.93,5826.04,4.1,No
+FA01158,2026-01-16,C0143,Homeowner,Nonthaburi,Dining,Japandi,Website,No,No,Standard Purchase,1,0.08,10490.77,0,790,11280.77,4578.99,6701.78,4.0,No
+FA00240,2026-01-17,C0670,Homeowner,Nakhon Ratchasima,Bed,Japandi,Marketplace,No,No,Custom Furniture,1,0.15,7848.55,990,790,9628.55,3949.72,5678.83,4.0,No
+FA00588,2026-01-17,C0466,Homeowner,Bangkok,Storage,Modern Minimal,Marketplace,No,No,Custom Furniture,1,0.08,9435.13,590,790,10815.13,4779.41,6035.72,4.0,No
+FA00641,2026-01-17,C0673,Homeowner,Phuket,Dining,Scandinavian,Website,Yes,Yes,Custom Furniture,1,0.05,6890.51,590,590,8070.51,3190.69,4879.82,4.9,No
+FA00161,2026-01-18,C0788,Condo Resident,Chiang Mai,Smart Furniture,Japandi,Website,Yes,No,Standard Purchase,1,0.05,7427.26,0,790,8217.26,4306.13,3911.13,4.7,Yes
+FA00178,2026-01-19,C0217,Condo Resident,Chiang Mai,Smart Furniture,Warm Modern,Website,No,No,Standard Purchase,2,0.05,44308.84,0,0,44308.84,22154.42,22154.42,4.1,No
+FA00448,2026-01-19,C0606,Homeowner,Chiang Mai,Storage,Japandi,Social Media,No,Yes,Standard Purchase,2,0.05,27323.84,0,0,27323.84,11749.25,15574.59,4.3,No
+FA00703,2026-01-19,C0669,Homeowner,Pathum Thani,Bed,Japandi,Social Media,Yes,Yes,Standard Purchase,1,0,27296.47,0,0,27296.47,10918.59,16377.88,4.4,No
+FA01015,2026-01-19,C0230,Condo Resident,Samut Prakan,Storage,Japandi,Smart Showroom,No,No,Standard Purchase,1,0.1,2275.85,0,0,2275.85,978.62,1297.23,3.7,Yes
+FA01034,2026-01-19,C0304,Interior Designer,Nakhon Ratchasima,Decor,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,2,0.08,4049.48,0,790,4839.48,2536.25,2303.23,4.4,No
+FA01080,2026-01-19,C0554,Renovator,Pathum Thani,Dining,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,20627.49,0,250,20877.49,8025.95,12851.54,4.6,No
+FA00118,2026-01-20,C0315,Condo Resident,Chiang Mai,Storage,Japandi,Marketplace,No,No,Standard Purchase,2,0.05,17185.16,0,390,17575.16,7682.12,9893.04,3.9,No
+FA00716,2026-01-20,C0156,Homeowner,Pathum Thani,Sofa,Modern Minimal,Marketplace,No,Yes,Standard Purchase,1,0,21300.67,0,390,21690.67,9238.78,12451.89,4.2,No
+FA00496,2026-01-21,C0295,Interior Designer,Chiang Mai,Storage,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.05,17999.41,0,390,18389.41,8032.25,10357.16,3.7,No
+FA00502,2026-01-21,C0326,Interior Designer,Samut Prakan,Smart Furniture,Japandi,Website,No,Yes,Standard Purchase,1,0.08,29236.18,0,590,29826.18,15060.59,14765.59,4.2,No
+FA00536,2026-01-22,C0374,Renovator,Samut Prakan,Workspace,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,8895.02,0,250,9145.02,4101.31,5043.71,4.6,Yes
+FA00894,2026-01-22,C0387,Renovator,Chonburi,Storage,Industrial,Website,Yes,No,AI Design Service,1,0.15,10855.77,799,590,12244.77,5286.26,6958.51,4.4,No
+FA00998,2026-01-22,C0449,Renovator,Phuket,Storage,Modern Minimal,Website,No,No,Standard Purchase,2,0,28627.23,0,0,28627.23,12309.71,16317.52,4.3,No
+FA00059,2026-01-24,C0068,Hotel/Cafe/Restaurant,Samut Prakan,Bed,Warm Modern,AI App,Yes,Yes,AI Design Service,1,0,37369.05,1190,0,38559.05,15209.42,23349.63,4.8,No
+FA00186,2026-01-25,C0188,Homeowner,Samut Prakan,Dining,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.15,12344.18,0,0,12344.18,4690.79,7653.39,4.1,No
+FA00350,2026-01-25,C0591,Condo Resident,Nonthaburi,Sofa,Japandi,Social Media,No,No,Standard Purchase,2,0.08,20621.39,0,0,20621.39,8660.98,11960.41,3.8,No
+FA00767,2026-01-25,C0754,Condo Resident,Nakhon Ratchasima,Workspace,Scandinavian,Social Media,No,No,Custom Furniture,2,0,18874.23,1490,790,21154.23,9224.96,11929.27,4.3,No
+FA01118,2026-01-25,C0098,Condo Resident,Pathum Thani,Workspace,Japandi,Website,Yes,Yes,Standard Purchase,1,0,9231.11,0,0,9231.11,4061.69,5169.42,4.6,Yes
+FA01126,2026-01-25,C0231,Renovator,Chonburi,Workspace,Industrial,Social Media,Yes,No,Standard Purchase,1,0,19831.95,0,790,20621.95,9318.56,11303.39,4.5,No
+FA00100,2026-01-26,C0620,Condo Resident,Pathum Thani,Sofa,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0.08,8957.94,499,250,9706.94,4059.61,5647.33,4.3,No
+FA00169,2026-01-26,C0330,Office,Nakhon Ratchasima,Workspace,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.05,21813.22,0,0,21813.22,9597.82,12215.4,4.6,No
+FA00574,2026-01-26,C0508,Renovator,Phuket,Bed,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,19029.39,0,590,19619.39,8054.26,11565.13,4.9,No
+FA00601,2026-01-26,C0058,Condo Resident,Bangkok,Sofa,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.05,11330.05,0,590,11920.05,5201.12,6718.93,5,No
+FA00604,2026-01-26,C0047,Renovator,Phuket,Sofa,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.08,24791.08,0,390,25181.08,10704.75,14476.33,4.1,No
+FA00861,2026-01-26,C0233,Homeowner,Samut Prakan,Workspace,Japandi,Website,Yes,Yes,AI Design Service,1,0.05,19070.67,499,790,20359.67,9093.37,11266.3,4.5,No
+FA00005,2026-01-27,C0080,Interior Designer,Samut Prakan,Sofa,Industrial,AI App,Yes,No,AI Design Service,1,0.08,26120.93,499,250,26869.93,11268.07,15601.86,4.4,No
+FA00147,2026-01-27,C0698,Homeowner,Chonburi,Sofa,Modern Minimal,Website,Yes,No,AI Design Service,1,0,25562.92,299,0,25861.92,10802.21,15059.71,4.4,No
+FA00366,2026-01-27,C0191,Condo Resident,Samut Prakan,Storage,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,13073.68,0,590,13663.68,6064.18,7599.5,4.5,Yes
+FA00774,2026-01-27,C0350,Condo Resident,Chiang Mai,Decor,Warm Modern,Marketplace,Yes,Yes,Standard Purchase,1,0.05,2808.95,0,590,3398.95,1790.8,1608.15,4.8,No
+FA00299,2026-01-28,C0548,Homeowner,Nakhon Ratchasima,Bed,Warm Modern,Marketplace,No,Yes,Standard Purchase,1,0.08,19798.95,0,250,20048.95,8107.08,11941.87,4.8,No
+FA00481,2026-01-28,C0496,Homeowner,Phuket,Dining,Scandinavian,Marketplace,Yes,No,Standard Purchase,1,0.05,20063.89,0,390,20453.89,7916.78,12537.11,4.7,No
+FA00809,2026-01-28,C0312,Homeowner,Phuket,Storage,Japandi,Marketplace,No,No,Standard Purchase,1,0,8538.24,0,790,9328.24,4263.94,5064.3,4.0,No
+FA00590,2026-01-29,C0761,Homeowner,Nonthaburi,Storage,Warm Modern,Marketplace,No,No,Standard Purchase,2,0,11924.5,0,250,12174.5,5315.03,6859.47,3.7,No
+FA00791,2026-01-29,C0656,Homeowner,Chonburi,Storage,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0,25604.24,0,390,25994.24,11302.32,14691.92,4.6,No
+FA00019,2026-01-30,C0759,Hotel/Cafe/Restaurant,Samut Prakan,Storage,Industrial,AI App,Yes,No,AI Design Service,1,0,17761.76,799,390,18950.76,8105.84,10844.92,4.3,No
+FA00162,2026-01-30,C0239,Condo Resident,Bangkok,Storage,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,8521.17,0,790,9311.17,4256.6,5054.57,4.7,No
+FA00505,2026-01-30,C0729,Condo Resident,Chiang Mai,Sofa,Modern Minimal,Smart Showroom,Yes,Yes,Custom Furniture,1,0.05,9035.32,990,590,10615.32,4455.13,6160.19,4.7,Yes
+FA00510,2026-01-30,C0695,Condo Resident,Phuket,Dining,Warm Modern,Website,No,No,Standard Purchase,1,0.1,13581.07,0,590,14171.07,5603.31,8567.76,3.9,No
+FA00720,2026-01-30,C0581,Renovator,Phuket,Decor,Japandi,Website,No,No,Standard Purchase,1,0.05,4450.58,0,250,4700.58,2323.78,2376.8,3.9,No
+FA00980,2026-01-30,C0682,Renovator,Bangkok,Sofa,Modern Minimal,Marketplace,Yes,No,AI Design Service,1,0.05,32252.52,299,0,32551.52,13611.84,18939.68,4.8,No
+FA01063,2026-01-30,C0513,Interior Designer,Nakhon Ratchasima,Dining,Modern Minimal,Website,Yes,No,Standard Purchase,2,0,58844.94,0,0,58844.94,22361.08,36483.86,4.9,No
+FA00174,2026-01-31,C0750,Condo Resident,Nakhon Ratchasima,Smart Furniture,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,18663.89,0,790,19453.89,9924.44,9529.45,4.6,Yes
+FA00214,2026-01-31,C0281,Homeowner,Chiang Mai,Smart Furniture,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,19362.47,0,590,19952.47,10123.74,9828.73,5,No
+FA00296,2026-01-31,C0558,Renovator,Samut Prakan,Smart Furniture,Industrial,Website,No,No,Standard Purchase,2,0.05,34232.21,0,0,34232.21,17116.1,17116.11,4.0,No
+FA00621,2026-01-31,C0054,Condo Resident,Bangkok,Bed,Japandi,Website,No,No,Standard Purchase,1,0.05,13899.46,0,0,13899.46,5559.78,8339.68,4.0,No
+FA00646,2026-01-31,C0713,Renovator,Phuket,Storage,Japandi,Marketplace,No,No,Standard Purchase,2,0,15081.26,0,790,15871.26,7077.44,8793.82,4.5,No
+FA00803,2026-01-31,C0660,Interior Designer,Phuket,Workspace,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,25706.94,0,390,26096.94,11603.55,14493.39,4.3,No
+FA01035,2026-01-31,C0104,Homeowner,Pathum Thani,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,22102.68,0,0,22102.68,9283.13,12819.55,4.4,No
+FA00154,2026-02-01,C0038,Hotel/Cafe/Restaurant,Nonthaburi,Sofa,Japandi,Website,Yes,Yes,AI Design Service,1,0.1,35300.28,299,0,35599.28,14891.9,20707.38,4.4,No
+FA00570,2026-02-01,C0269,Hotel/Cafe/Restaurant,Samut Prakan,Storage,Modern Minimal,Website,Yes,Yes,Standard Purchase,1,0,5342.08,0,790,6132.08,2889.59,3242.49,4.6,No
+FA00844,2026-02-01,C0048,Condo Resident,Bangkok,Storage,Japandi,AI App,Yes,No,AI Design Service,1,0.05,13989.31,299,390,14678.31,6373.68,8304.63,4.6,Yes
+FA00632,2026-02-02,C0151,Office,Bangkok,Smart Furniture,Industrial,Social Media,Yes,No,Standard Purchase,1,0.15,29757.52,0,790,30547.52,15471.26,15076.26,4.6,No
+FA00741,2026-02-02,C0473,Homeowner,Pathum Thani,Decor,Industrial,Website,No,No,Standard Purchase,2,0.08,10956.75,0,390,11346.75,5551.74,5795.01,3.9,No
+FA00381,2026-02-03,C0338,Renovator,Chonburi,Decor,Warm Modern,Website,Yes,Yes,Standard Purchase,1,0.05,6276.49,0,0,6276.49,3012.72,3263.77,4.5,No
+FA00517,2026-02-03,C0097,Renovator,Nakhon Ratchasima,Sofa,Industrial,Smart Showroom,Yes,Yes,AI Design Service,1,0.08,24617.38,799,250,25666.38,10702.58,14963.8,4.6,No
+FA00600,2026-02-03,C0027,Condo Resident,Bangkok,Smart Furniture,Scandinavian,Website,No,No,Standard Purchase,1,0.08,9280.74,0,0,9280.74,4640.37,4640.37,3.7,No
+FA00843,2026-02-03,C0576,Renovator,Nakhon Ratchasima,Dining,Scandinavian,Smart Showroom,No,Yes,Custom Furniture,1,0,24819.17,590,790,26199.17,10153.58,16045.59,4.0,No
+FA01036,2026-02-03,C0097,Renovator,Nakhon Ratchasima,Bed,Scandinavian,Website,No,No,Standard Purchase,2,0.1,46067.66,0,0,46067.66,18427.06,27640.6,4.0,No
+FA01073,2026-02-03,C0641,Renovator,Chiang Mai,Bed,Scandinavian,Marketplace,No,No,Custom Furniture,1,0.08,31283.25,590,0,31873.25,12643.1,19230.15,4.1,No
+FA00221,2026-02-04,C0264,Homeowner,Chonburi,Sofa,Warm Modern,Social Media,Yes,Yes,AI Design Service,1,0.08,11245.14,1190,790,13225.14,5577.26,7647.88,4.5,No
+FA00237,2026-02-04,C0332,Condo Resident,Bangkok,Sofa,Modern Minimal,AI App,No,No,Standard Purchase,2,0,24644.84,0,590,25234.84,10793.33,14441.51,4.0,No
+FA00384,2026-02-04,C0679,Condo Resident,Pathum Thani,Storage,Industrial,Social Media,Yes,Yes,Standard Purchase,1,0.08,9454.87,0,0,9454.87,4065.59,5389.28,4.3,No
+FA00804,2026-02-04,C0028,Office,Phuket,Sofa,Scandinavian,Website,No,No,Standard Purchase,1,0,34284.66,0,0,34284.66,14399.56,19885.1,3.6,No
+FA00829,2026-02-04,C0300,Interior Designer,Chonburi,Decor,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0,8208.38,0,790,8998.38,4532.52,4465.86,4.7,No
+FA00148,2026-02-05,C0352,Renovator,Nakhon Ratchasima,Storage,Japandi,Marketplace,Yes,No,Standard Purchase,1,0.08,12272.08,0,590,12862.08,5719.49,7142.59,3.9,No
+FA00648,2026-02-05,C0346,Homeowner,Phuket,Smart Furniture,Industrial,AI App,Yes,Yes,Standard Purchase,1,0.1,21994.07,0,790,22784.07,11589.53,11194.54,4.6,No
+FA00915,2026-02-05,C0334,Condo Resident,Chiang Mai,Smart Furniture,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0.1,19591.9,0,390,19981.9,10088.45,9893.45,3.9,No
+FA01162,2026-02-05,C0753,Hotel/Cafe/Restaurant,Bangkok,Sofa,Japandi,Social Media,Yes,Yes,Standard Purchase,1,0.08,23957.26,0,590,24547.26,10504.55,14042.71,4.5,No
+FA00061,2026-02-06,C0489,Homeowner,Pathum Thani,Smart Furniture,Industrial,Website,Yes,No,Standard Purchase,1,0.05,24368.76,0,390,24758.76,12476.88,12281.88,4.7,No
+FA00568,2026-02-06,C0560,Condo Resident,Phuket,Sofa,Scandinavian,Marketplace,Yes,No,Standard Purchase,2,0.05,52971.26,0,0,52971.26,22247.93,30723.33,4.3,No
+FA00970,2026-02-06,C0289,Homeowner,Phuket,Workspace,Japandi,Website,No,Yes,Standard Purchase,1,0.05,13649.16,0,790,14439.16,6598.13,7841.03,4.2,No
+FA01144,2026-02-06,C0161,Homeowner,Chiang Mai,Sofa,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.05,16937.46,0,590,17527.46,7556.23,9971.23,4.9,No
+FA01200,2026-02-06,C0276,Renovator,Phuket,Storage,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,9551.63,0,790,10341.63,4699.7,5641.93,4.6,No
+FA00446,2026-02-07,C0317,Homeowner,Nakhon Ratchasima,Bed,Japandi,Smart Showroom,No,No,Standard Purchase,1,0.08,21366.53,0,0,21366.53,8546.61,12819.92,3.6,No
+FA00571,2026-02-07,C0473,Homeowner,Pathum Thani,Dining,Scandinavian,Website,No,No,Standard Purchase,1,0.08,6130.82,0,0,6130.82,2329.71,3801.11,3.8,No
+FA00939,2026-02-07,C0744,Office,Pathum Thani,Decor,Warm Modern,Social Media,No,No,Standard Purchase,1,0.1,5795.72,0,790,6585.72,3374.45,3211.27,4.0,No
+FA01191,2026-02-07,C0729,Condo Resident,Chiang Mai,Sofa,Warm Modern,Website,No,Yes,Standard Purchase,1,0,23830.81,0,390,24220.81,10301.44,13919.37,4.1,No
+FA00346,2026-02-08,C0216,Homeowner,Pathum Thani,Storage,Industrial,Marketplace,No,No,Standard Purchase,1,0,8004.67,0,250,8254.67,3629.51,4625.16,3.9,No
+FA00390,2026-02-08,C0165,Condo Resident,Pathum Thani,Workspace,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.05,9089.28,0,390,9479.28,4291.78,5187.5,4.5,No
+FA00896,2026-02-08,C0408,Condo Resident,Nakhon Ratchasima,Dining,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,21702.1,499,390,22591.1,8649.08,13942.02,4.3,No
+FA01116,2026-02-08,C0558,Renovator,Samut Prakan,Decor,Japandi,Marketplace,No,No,Standard Purchase,1,0.1,2013.65,0,390,2403.65,1259.05,1144.6,4.2,No
+FA00558,2026-02-09,C0063,Interior Designer,Nonthaburi,Decor,Industrial,AI App,Yes,Yes,AI Design Service,3,0.05,16803.62,1190,590,18583.62,8770.04,9813.58,4.7,No
+FA01025,2026-02-09,C0627,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Smart Furniture,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0,22645.44,0,250,22895.44,11510.22,11385.22,4.4,No
+FA00453,2026-02-10,C0753,Hotel/Cafe/Restaurant,Bangkok,Bed,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,37763.01,0,0,37763.01,15105.2,22657.81,4.9,No
+FA00866,2026-02-10,C0478,Hotel/Cafe/Restaurant,Samut Prakan,Bed,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0.05,15160.04,0,390,15550.04,6356.52,9193.52,4.6,No
+FA00931,2026-02-10,C0104,Homeowner,Pathum Thani,Storage,Japandi,Website,Yes,No,Standard Purchase,1,0,9461.63,0,590,10051.63,4511.0,5540.63,5,Yes
+FA00107,2026-02-11,C0781,Interior Designer,Chonburi,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0.05,31313.06,0,0,31313.06,13151.49,18161.57,4.7,No
+FA00230,2026-02-11,C0669,Homeowner,Pathum Thani,Sofa,Japandi,AI App,Yes,No,AI Design Service,1,0.05,15602.46,299,390,16291.46,6911.31,9380.15,4.8,No
+FA00302,2026-02-12,C0275,Interior Designer,Samut Prakan,Smart Furniture,Scandinavian,Marketplace,Yes,No,Standard Purchase,2,0.08,42341.02,0,0,42341.02,21170.51,21170.51,4.7,Yes
+FA00975,2026-02-12,C0299,Office,Chonburi,Workspace,Scandinavian,Social Media,Yes,No,AI Design Service,2,0.08,31075.26,499,0,31574.26,13782.89,17791.37,4.2,No
+FA00382,2026-02-13,C0173,Office,Pathum Thani,Dining,Warm Modern,Website,Yes,No,AI Design Service,1,0.1,28996.09,299,790,30085.09,11676.79,18408.3,4.6,No
+FA00690,2026-02-13,C0753,Hotel/Cafe/Restaurant,Bangkok,Bed,Modern Minimal,Smart Showroom,Yes,No,AI Design Service,1,0.08,37857.55,1190,0,39047.55,15404.82,23642.73,4.7,No
+FA00916,2026-02-13,C0523,Office,Phuket,Storage,Scandinavian,Website,No,No,Standard Purchase,2,0.1,28762.2,0,250,29012.2,12555.25,16456.95,3.9,No
+FA00922,2026-02-13,C0467,Condo Resident,Bangkok,Storage,Japandi,AI App,Yes,Yes,Custom Furniture,1,0.05,5746.41,1490,250,7486.41,2986.26,4500.15,4.3,No
+FA01172,2026-02-13,C0267,Homeowner,Chiang Mai,Bed,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.08,27987.97,0,790,28777.97,11787.69,16990.28,4.5,No
+FA00152,2026-02-14,C0301,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Smart Furniture,Japandi,AI App,Yes,No,AI Design Service,1,0.08,30124.51,799,0,30923.51,15238.03,15685.48,4.7,No
+FA00308,2026-02-14,C0314,Condo Resident,Nonthaburi,Storage,Japandi,Marketplace,No,No,Standard Purchase,1,0.05,5786.89,0,0,5786.89,2488.36,3298.53,4.5,No
+FA00914,2026-02-14,C0322,Hotel/Cafe/Restaurant,Chonburi,Bed,Warm Modern,Website,Yes,No,Standard Purchase,1,0,15250.73,0,0,15250.73,6100.29,9150.44,4.4,No
+FA01072,2026-02-14,C0426,Interior Designer,Samut Prakan,Bed,Scandinavian,Website,Yes,No,AI Design Service,1,0.05,23869.93,299,0,24168.93,9613.75,14555.18,4.3,No
+FA00284,2026-02-15,C0323,Homeowner,Nakhon Ratchasima,Sofa,Japandi,Website,Yes,No,Standard Purchase,1,0.05,9158.24,0,590,9748.24,4288.96,5459.28,4.3,No
+FA00747,2026-02-15,C0208,Homeowner,Nakhon Ratchasima,Sofa,Warm Modern,Marketplace,No,Yes,Standard Purchase,2,0.08,35924.25,0,0,35924.25,15088.18,20836.07,4.3,No
+FA00792,2026-02-15,C0504,Homeowner,Nakhon Ratchasima,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.08,12699.04,0,790,13489.04,5926.1,7562.94,4.8,Yes
+FA00957,2026-02-15,C0347,Hotel/Cafe/Restaurant,Phuket,Storage,Warm Modern,Website,Yes,No,AI Design Service,1,0.05,14016.34,499,590,15105.34,6579.31,8526.03,3.7,Yes
+FA00192,2026-02-16,C0408,Condo Resident,Nakhon Ratchasima,Sofa,Scandinavian,AI App,No,No,Standard Purchase,1,0.05,20313.91,0,790,21103.91,9124.34,11979.57,4.0,No
+FA00277,2026-02-16,C0144,Homeowner,Samut Prakan,Sofa,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.05,11887.17,0,250,12137.17,5180.11,6957.06,4.4,No
+FA00936,2026-02-16,C0772,Homeowner,Chiang Mai,Workspace,Modern Minimal,Smart Showroom,No,No,Standard Purchase,2,0,23022.27,0,590,23612.27,10572.3,13039.97,3.8,No
+FA01052,2026-02-16,C0141,Condo Resident,Nakhon Ratchasima,Sofa,Japandi,Marketplace,No,No,Standard Purchase,1,0.05,7725.0,0,0,7725.0,3244.5,4480.5,4.2,No
+FA01156,2026-02-16,C0145,Homeowner,Samut Prakan,Sofa,Modern Minimal,AI App,Yes,Yes,Standard Purchase,2,0.05,27788.42,0,390,28178.42,11963.64,16214.78,4.8,Yes
+FA00312,2026-02-18,C0428,Office,Bangkok,Bed,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,13050.45,0,390,13440.45,5512.68,7927.77,5,No
+FA00401,2026-02-18,C0604,Homeowner,Bangkok,Dining,Scandinavian,AI App,Yes,No,AI Design Service,1,0.1,13045.84,1190,250,14485.84,5406.72,9079.12,4.4,No
+FA00676,2026-02-18,C0467,Condo Resident,Bangkok,Workspace,Industrial,AI App,Yes,No,AI Design Service,1,0.1,13678.27,1190,0,14868.27,6280.24,8588.03,4.4,Yes
+FA00721,2026-02-18,C0482,Homeowner,Bangkok,Bed,Japandi,AI App,Yes,No,Standard Purchase,1,0.1,28243.07,0,0,28243.07,11297.23,16945.84,4.7,No
+FA00075,2026-02-19,C0027,Condo Resident,Bangkok,Decor,Warm Modern,Social Media,No,No,Standard Purchase,3,0,6480.96,0,0,6480.96,3110.86,3370.1,4.2,No
+FA00516,2026-02-19,C0035,Homeowner,Chonburi,Bed,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0,34310.67,0,0,34310.67,13724.27,20586.4,4.2,No
+FA00941,2026-02-19,C0523,Office,Phuket,Workspace,Scandinavian,Marketplace,Yes,No,AI Design Service,2,0.15,30656.69,1190,0,31846.69,13750.74,18095.95,4.5,No
+FA00093,2026-02-20,C0697,Homeowner,Chiang Mai,Bed,Warm Modern,Social Media,No,No,Standard Purchase,1,0,31663.25,0,0,31663.25,12665.3,18997.95,4.3,No
+FA00509,2026-02-20,C0447,Homeowner,Bangkok,Smart Furniture,Industrial,Website,No,No,Standard Purchase,1,0.05,9150.32,0,250,9400.32,4762.66,4637.66,4.2,No
+FA00770,2026-02-20,C0479,Condo Resident,Bangkok,Bed,Scandinavian,Marketplace,Yes,No,AI Design Service,1,0.05,19413.27,1190,790,21393.27,8619.61,12773.66,4.0,No
+FA01093,2026-02-20,C0157,Condo Resident,Chonburi,Workspace,Scandinavian,AI App,Yes,No,AI Design Service,1,0.05,8152.16,499,250,8901.16,3884.23,5016.93,4.8,No
+FA01199,2026-02-20,C0533,Homeowner,Pathum Thani,Bed,Japandi,Website,Yes,No,Standard Purchase,1,0.15,10024.3,0,590,10614.3,4452.22,6162.08,4.6,No
+FA00071,2026-02-21,C0528,Condo Resident,Nonthaburi,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.15,8286.12,0,0,8286.12,3563.03,4723.09,4.0,No
+FA01011,2026-02-21,C0169,Homeowner,Nakhon Ratchasima,Decor,Japandi,Smart Showroom,Yes,No,Standard Purchase,2,0,10601.57,0,0,10601.57,5088.75,5512.82,4.7,No
+FA00602,2026-02-22,C0210,Condo Resident,Pathum Thani,Workspace,Industrial,Website,Yes,Yes,Custom Furniture,1,0.08,5622.05,590,590,6802.05,3046.0,3756.05,4.4,No
+FA00974,2026-02-22,C0744,Office,Pathum Thani,Sofa,Industrial,Marketplace,No,No,Standard Purchase,1,0.08,12098.91,0,390,12488.91,5374.04,7114.87,4.4,No
+FA00023,2026-02-23,C0145,Homeowner,Samut Prakan,Smart Furniture,Warm Modern,Website,Yes,No,AI Design Service,1,0,13365.14,799,590,14754.14,7300.85,7453.29,4.4,No
+FA00267,2026-02-23,C0661,Condo Resident,Nakhon Ratchasima,Decor,Modern Minimal,Social Media,Yes,No,Standard Purchase,3,0,7926.62,0,250,8176.62,3992.28,4184.34,4.4,No
+FA00544,2026-02-23,C0468,Condo Resident,Phuket,Decor,Industrial,Website,Yes,No,AI Design Service,1,0.1,3710.69,1190,390,5290.69,2335.43,2955.26,5.0,No
+FA00595,2026-02-23,C0542,Homeowner,Chonburi,Storage,Industrial,Social Media,Yes,Yes,AI Design Service,2,0.05,23566.4,1190,790,25546.4,10987.85,14558.55,5,No
+FA00787,2026-02-23,C0688,Interior Designer,Samut Prakan,Sofa,Modern Minimal,AI App,Yes,Yes,AI Design Service,1,0,17837.15,499,390,18726.15,7893.88,10832.27,5.0,No
+FA00003,2026-02-24,C0012,Renovator,Phuket,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,2,0.15,37908.85,0,0,37908.85,15921.72,21987.13,3.4,No
+FA00315,2026-02-24,C0512,Interior Designer,Samut Prakan,Sofa,Scandinavian,Website,No,Yes,Standard Purchase,1,0,20068.42,0,390,20458.42,8721.24,11737.18,4.4,No
+FA00929,2026-02-24,C0103,Interior Designer,Chiang Mai,Dining,Industrial,Social Media,Yes,No,Standard Purchase,1,0.1,27861.84,0,790,28651.84,11180.0,17471.84,4.4,Yes
+FA01129,2026-02-25,C0071,Homeowner,Chonburi,Sofa,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0.1,24582.34,0,390,24972.34,10617.08,14355.26,4.4,No
+FA00070,2026-02-26,C0363,Condo Resident,Nonthaburi,Workspace,Japandi,Website,Yes,Yes,Standard Purchase,1,0,16071.79,0,790,16861.79,7664.09,9197.7,4.3,Yes
+FA00193,2026-02-26,C0277,Condo Resident,Nonthaburi,Workspace,Industrial,AI App,Yes,No,AI Design Service,2,0,33571.08,1190,0,34761.08,15033.08,19728.0,4.5,No
+FA00582,2026-02-26,C0632,Homeowner,Nakhon Ratchasima,Decor,Japandi,AI App,Yes,Yes,Standard Purchase,2,0.05,12931.09,0,590,13521.09,6649.42,6871.67,4.5,No
+FA00504,2026-02-27,C0037,Hotel/Cafe/Restaurant,Chiang Mai,Workspace,Industrial,Smart Showroom,No,Yes,Standard Purchase,2,0.1,17897.92,0,390,18287.92,8167.58,10120.34,4.8,No
+FA00822,2026-02-27,C0333,Homeowner,Pathum Thani,Storage,Japandi,Website,Yes,No,AI Design Service,1,0.05,3620.03,499,790,4909.03,2258.89,2650.14,4.6,No
+FA01107,2026-02-27,C0211,Interior Designer,Nonthaburi,Bed,Scandinavian,AI App,Yes,No,Standard Purchase,1,0,20955.78,0,250,21205.78,8569.81,12635.97,4.9,No
+FA00173,2026-02-28,C0024,Interior Designer,Samut Prakan,Storage,Japandi,Website,Yes,Yes,Standard Purchase,1,0,15852.21,0,590,16442.21,7258.95,9183.26,4.1,No
+FA00463,2026-02-28,C0487,Office,Samut Prakan,Workspace,Industrial,Website,No,No,Standard Purchase,1,0.08,21464.22,0,390,21854.22,9736.76,12117.46,3.9,No
+FA00962,2026-02-28,C0698,Homeowner,Chonburi,Bed,Japandi,AI App,Yes,Yes,Standard Purchase,2,0,26166.93,0,590,26756.93,10909.27,15847.66,4.8,No
+FA00219,2026-03-01,C0139,Interior Designer,Phuket,Sofa,Industrial,Marketplace,Yes,No,Standard Purchase,1,0.08,32213.06,0,0,32213.06,13529.49,18683.57,4.1,No
+FA00319,2026-03-01,C0625,Renovator,Nakhon Ratchasima,Workspace,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0.1,8419.79,0,590,9009.79,4147.21,4862.58,4.4,Yes
+FA00497,2026-03-01,C0063,Interior Designer,Nonthaburi,Dining,Warm Modern,Social Media,No,No,Standard Purchase,1,0.1,28927.03,0,390,29317.03,11284.77,18032.26,4.3,No
+FA00522,2026-03-01,C0077,Condo Resident,Chiang Mai,Bed,Scandinavian,AI App,Yes,No,AI Design Service,1,0,15795.38,799,390,16984.38,6786.43,10197.95,4.6,No
+FA00540,2026-03-01,C0039,Condo Resident,Chiang Mai,Decor,Japandi,Marketplace,No,No,Standard Purchase,1,0.08,4975.5,0,790,5765.5,2980.74,2784.76,4.4,No
+FA00750,2026-03-01,C0586,Hotel/Cafe/Restaurant,Bangkok,Sofa,Japandi,Website,Yes,No,AI Design Service,2,0.1,45956.62,299,0,46255.62,19367.56,26888.06,4.2,No
+FA01017,2026-03-01,C0215,Office,Samut Prakan,Workspace,Industrial,AI App,No,Yes,Custom Furniture,1,0.15,17361.15,990,390,18741.15,8149.21,10591.94,4.3,No
+FA00200,2026-03-02,C0043,Interior Designer,Chiang Mai,Workspace,Warm Modern,Smart Showroom,Yes,Yes,AI Design Service,1,0,7008.68,799,790,8597.68,3852.1,4745.58,4.7,No
+FA00427,2026-03-03,C0623,Condo Resident,Phuket,Dining,Scandinavian,Smart Showroom,Yes,Yes,AI Design Service,1,0.08,6829.23,799,590,8218.23,3213.39,5004.84,4.6,No
+FA00902,2026-03-03,C0704,Homeowner,Chiang Mai,Bed,Scandinavian,AI App,Yes,Yes,AI Design Service,1,0.05,17824.78,799,590,19213.78,7748.19,11465.59,5,No
+FA01119,2026-03-04,C0628,Condo Resident,Samut Prakan,Dining,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.05,21708.78,0,790,22498.78,8841.84,13656.94,4.5,No
+FA00160,2026-03-05,C0092,Renovator,Chiang Mai,Smart Furniture,Industrial,AI App,Yes,Yes,Standard Purchase,2,0.08,40839.4,0,0,40839.4,20419.7,20419.7,4.7,Yes
+FA00272,2026-03-05,C0134,Condo Resident,Samut Prakan,Sofa,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,2,0.1,39277.54,0,0,39277.54,16496.57,22780.97,4.4,No
+FA00399,2026-03-05,C0037,Hotel/Cafe/Restaurant,Chiang Mai,Storage,Modern Minimal,Marketplace,Yes,No,Standard Purchase,2,0.15,29413.58,0,250,29663.58,12835.34,16828.24,5,No
+FA00996,2026-03-05,C0397,Interior Designer,Samut Prakan,Bed,Industrial,Social Media,No,No,Standard Purchase,1,0.05,28577.68,0,790,29367.68,12023.57,17344.11,4.0,Yes
+FA01124,2026-03-05,C0550,Condo Resident,Phuket,Storage,Japandi,AI App,Yes,No,AI Design Service,1,0.08,5790.05,799,590,7179.05,3108.0,4071.05,4.6,Yes
+FA01149,2026-03-05,C0549,Office,Pathum Thani,Bed,Japandi,Website,Yes,Yes,Standard Purchase,1,0.1,31824.48,0,0,31824.48,12729.79,19094.69,4.1,No
+FA01180,2026-03-05,C0794,Renovator,Nakhon Ratchasima,Workspace,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.05,13553.86,0,390,13943.86,6256.2,7687.66,4.1,No
+FA00373,2026-03-06,C0742,Homeowner,Chonburi,Smart Furniture,Industrial,Social Media,No,No,Standard Purchase,1,0.05,21227.32,0,790,22017.32,11206.16,10811.16,4.3,No
+FA00397,2026-03-06,C0011,Interior Designer,Pathum Thani,Sofa,Japandi,AI App,Yes,Yes,Standard Purchase,1,0.1,33455.98,0,0,33455.98,14051.51,19404.47,4.5,No
+FA00782,2026-03-06,C0597,Homeowner,Pathum Thani,Decor,Warm Modern,AI App,Yes,No,Custom Furniture,3,0,10556.92,1490,0,12046.92,5395.12,6651.8,4.8,No
+FA01042,2026-03-06,C0680,Condo Resident,Nonthaburi,Workspace,Japandi,AI App,Yes,No,Standard Purchase,1,0.08,16844.84,0,590,17434.84,7854.23,9580.61,4.8,No
+FA01188,2026-03-06,C0451,Condo Resident,Nakhon Ratchasima,Decor,Japandi,Website,No,No,Standard Purchase,2,0.05,2242.64,0,0,2242.64,1076.47,1166.17,3.6,No
+FA00973,2026-03-07,C0270,Homeowner,Bangkok,Sofa,Warm Modern,Social Media,No,No,Standard Purchase,2,0,18886.0,0,390,19276.0,8224.62,11051.38,4.0,No
+FA00112,2026-03-08,C0524,Hotel/Cafe/Restaurant,Chonburi,Smart Furniture,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.08,33283.03,0,0,33283.03,16641.51,16641.52,4.4,No
+FA00218,2026-03-08,C0124,Condo Resident,Nakhon Ratchasima,Bed,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,25012.1,0,790,25802.1,10597.34,15204.76,4.7,No
+FA00398,2026-03-08,C0127,Renovator,Chonburi,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0,67041.77,0,0,67041.77,28157.54,38884.23,4.6,No
+FA00433,2026-03-08,C0002,Homeowner,Bangkok,Bed,Warm Modern,Social Media,No,No,Standard Purchase,1,0,30138.77,0,0,30138.77,12055.51,18083.26,4.7,Yes
+FA00898,2026-03-08,C0780,Homeowner,Chiang Mai,Dining,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,14252.14,0,0,14252.14,5415.81,8836.33,5,No
+FA01003,2026-03-08,C0249,Condo Resident,Nonthaburi,Dining,Scandinavian,Smart Showroom,No,No,Standard Purchase,1,0.1,18665.02,0,590,19255.02,7535.21,11719.81,4.4,No
+FA00321,2026-03-09,C0371,Condo Resident,Nonthaburi,Dining,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,17028.52,0,390,17418.52,6763.34,10655.18,4.5,No
+FA00323,2026-03-09,C0399,Renovator,Phuket,Storage,Japandi,Marketplace,Yes,No,Standard Purchase,2,0.08,20566.89,0,590,21156.89,9286.26,11870.63,4.4,No
+FA00444,2026-03-09,C0579,Office,Chiang Mai,Smart Furniture,Industrial,Website,No,No,Standard Purchase,1,0.05,24152.0,0,790,24942.0,12668.5,12273.5,4.1,No
+FA00254,2026-03-10,C0269,Hotel/Cafe/Restaurant,Samut Prakan,Smart Furniture,Japandi,Social Media,Yes,Yes,Standard Purchase,2,0,59940.76,0,0,59940.76,29970.38,29970.38,4.8,No
+FA00432,2026-03-10,C0511,Homeowner,Phuket,Sofa,Japandi,Website,Yes,Yes,Standard Purchase,1,0.05,12047.8,0,0,12047.8,5060.08,6987.72,5,No
+FA00530,2026-03-10,C0335,Renovator,Chonburi,Bed,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0,23770.69,0,0,23770.69,9508.28,14262.41,4.1,No
+FA00942,2026-03-10,C0507,Homeowner,Samut Prakan,Storage,Japandi,Social Media,Yes,No,AI Design Service,1,0.05,15650.31,799,250,16699.31,7092.91,9606.4,4.9,No
+FA00674,2026-03-11,C0056,Condo Resident,Phuket,Dining,Japandi,Social Media,No,No,Standard Purchase,1,0.1,16963.75,0,390,17353.75,6738.73,10615.02,4.2,No
+FA00714,2026-03-11,C0428,Office,Bangkok,Bed,Industrial,Smart Showroom,No,No,Standard Purchase,2,0.08,67860.9,0,0,67860.9,27144.36,40716.54,3.4,No
+FA00512,2026-03-12,C0421,Condo Resident,Nonthaburi,Dining,Warm Modern,Smart Showroom,Yes,Yes,AI Design Service,1,0.15,6671.37,499,590,7760.37,3087.4,4672.97,4.5,No
+FA00677,2026-03-12,C0382,Renovator,Nakhon Ratchasima,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,1,0,26064.23,0,390,26454.23,11239.48,15214.75,4.7,No
+FA01029,2026-03-12,C0216,Homeowner,Pathum Thani,Storage,Modern Minimal,Smart Showroom,Yes,Yes,AI Design Service,2,0,19554.31,499,590,20643.31,8960.63,11682.68,5.0,No
+FA00104,2026-03-13,C0695,Condo Resident,Phuket,Decor,Japandi,AI App,No,Yes,Standard Purchase,1,0.1,3186.4,0,0,3186.4,1529.47,1656.93,4.2,No
+FA00166,2026-03-13,C0406,Homeowner,Bangkok,Storage,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.08,13372.41,0,250,13622.41,5937.64,7684.77,4.3,No
+FA00259,2026-03-13,C0554,Renovator,Pathum Thani,Smart Furniture,Industrial,Smart Showroom,No,No,Standard Purchase,1,0.08,13157.32,0,0,13157.32,6578.66,6578.66,3.7,Yes
+FA00862,2026-03-13,C0377,Office,Chonburi,Bed,Industrial,Website,Yes,No,Standard Purchase,1,0.05,25194.99,0,390,25584.99,10370.5,15214.49,4.6,No
+FA00964,2026-03-13,C0079,Office,Phuket,Sofa,Japandi,Social Media,Yes,No,Standard Purchase,1,0.08,34699.82,0,0,34699.82,14573.92,20125.9,4.1,No
+FA01103,2026-03-13,C0230,Condo Resident,Samut Prakan,Storage,Industrial,AI App,No,No,Standard Purchase,1,0,5623.05,0,390,6013.05,2710.41,3302.64,4.3,Yes
+FA01152,2026-03-13,C0127,Renovator,Chonburi,Smart Furniture,Modern Minimal,Marketplace,Yes,Yes,Standard Purchase,1,0.15,23798.35,0,390,24188.35,12191.67,11996.68,4.1,Yes
+FA00250,2026-03-14,C0398,Homeowner,Bangkok,Bed,Japandi,Smart Showroom,No,No,Standard Purchase,2,0.1,25244.63,0,390,25634.63,10390.35,15244.28,4.6,No
+FA00837,2026-03-14,C0409,Condo Resident,Samut Prakan,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,2,0.1,47926.05,0,0,47926.05,20128.94,27797.11,4.1,No
+FA00241,2026-03-15,C0159,Condo Resident,Nonthaburi,Smart Furniture,Scandinavian,Social Media,No,No,Standard Purchase,1,0,10254.36,0,250,10504.36,5314.68,5189.68,3.8,No
+FA00556,2026-03-15,C0694,Condo Resident,Phuket,Decor,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,2946.06,0,390,3336.06,1706.61,1629.45,4.6,No
+FA00562,2026-03-15,C0746,Interior Designer,Bangkok,Sofa,Japandi,Website,No,No,Standard Purchase,2,0.05,27015.67,0,590,27605.67,11789.08,15816.59,3.8,No
+FA00591,2026-03-15,C0143,Homeowner,Nonthaburi,Decor,Japandi,Marketplace,Yes,No,Standard Purchase,3,0.05,16426.67,0,0,16426.67,7884.8,8541.87,4.9,No
+FA00760,2026-03-15,C0731,Hotel/Cafe/Restaurant,Samut Prakan,Workspace,Industrial,AI App,Yes,No,AI Design Service,1,0.08,10337.69,799,790,11926.69,5316.86,6609.83,4.9,Yes
+FA00796,2026-03-15,C0424,Condo Resident,Phuket,Bed,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0,14073.51,0,390,14463.51,5921.9,8541.61,4.5,No
+FA00848,2026-03-15,C0590,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Sofa,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0,41177.33,0,0,41177.33,17294.48,23882.85,4.0,No
+FA01055,2026-03-15,C0380,Homeowner,Chiang Mai,Sofa,Warm Modern,Website,No,No,Standard Purchase,2,0,48050.49,0,0,48050.49,20181.21,27869.28,3.9,No
+FA00798,2026-03-16,C0031,Renovator,Bangkok,Decor,Scandinavian,Marketplace,Yes,Yes,AI Design Service,1,0.1,3326.15,299,0,3625.15,1662.33,1962.82,4.2,No
+FA00859,2026-03-16,C0656,Homeowner,Chonburi,Bed,Warm Modern,Website,Yes,No,AI Design Service,2,0.08,58501.35,799,0,59300.35,23576.32,35724.03,4.9,Yes
+FA00877,2026-03-16,C0021,Condo Resident,Bangkok,Storage,Modern Minimal,AI App,Yes,No,AI Design Service,2,0,8136.06,299,790,9225.06,4156.79,5068.27,4.9,No
+FA01146,2026-03-16,C0003,Renovator,Chonburi,Sofa,Industrial,Social Media,Yes,No,Standard Purchase,1,0.05,21242.22,0,790,22032.22,9514.23,12517.99,4.6,No
+FA00041,2026-03-17,C0460,Office,Chonburi,Workspace,Industrial,AI App,No,No,Standard Purchase,1,0.05,17053.26,0,590,17643.26,7945.93,9697.33,3.7,No
+FA00139,2026-03-17,C0264,Homeowner,Chonburi,Storage,Japandi,Website,Yes,No,Standard Purchase,2,0,10910.44,0,590,11500.44,5133.99,6366.45,4.4,No
+FA00303,2026-03-17,C0734,Homeowner,Phuket,Dining,Warm Modern,Website,No,No,Standard Purchase,1,0.05,13704.46,0,390,14094.46,5500.19,8594.27,4.4,No
+FA00329,2026-03-17,C0392,Renovator,Phuket,Storage,Japandi,Social Media,No,No,Standard Purchase,2,0.08,8127.73,0,0,8127.73,3494.92,4632.81,3.9,No
+FA00405,2026-03-17,C0230,Condo Resident,Samut Prakan,Sofa,Scandinavian,Marketplace,No,No,Standard Purchase,1,0.15,13314.25,0,390,13704.25,5884.48,7819.77,4.2,No
+FA00950,2026-03-17,C0620,Condo Resident,Pathum Thani,Dining,Modern Minimal,Website,Yes,No,AI Design Service,1,0.08,8754.28,299,390,9443.28,3684.91,5758.37,4.3,No
+FA01105,2026-03-17,C0463,Interior Designer,Chiang Mai,Sofa,Modern Minimal,Marketplace,Yes,No,Standard Purchase,2,0.05,67798.6,0,0,67798.6,28475.41,39323.19,4.5,No
+FA00364,2026-03-18,C0768,Renovator,Chonburi,Sofa,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0,22728.01,0,0,22728.01,9545.76,13182.25,4.2,No
+FA00660,2026-03-18,C0098,Condo Resident,Pathum Thani,Smart Furniture,Japandi,Marketplace,Yes,No,Standard Purchase,1,0.05,10838.26,0,0,10838.26,5419.13,5419.13,4.3,No
+FA00815,2026-03-18,C0443,Homeowner,Bangkok,Bed,Warm Modern,Website,Yes,Yes,AI Design Service,1,0,31671.69,1190,0,32861.69,12930.48,19931.21,4.5,No
+FA00925,2026-03-18,C0387,Renovator,Chonburi,Workspace,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,2,0.05,16938.04,0,390,17328.04,7745.24,9582.8,4.6,No
+FA01012,2026-03-19,C0688,Interior Designer,Samut Prakan,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,2,0,47226.32,0,0,47226.32,19835.05,27391.27,4.6,No
+FA00534,2026-03-20,C0776,Condo Resident,Nonthaburi,Dining,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,11632.43,299,390,12321.43,4778.6,7542.83,4.4,No
+FA00956,2026-03-20,C0289,Homeowner,Phuket,Workspace,Warm Modern,AI App,Yes,No,Custom Furniture,2,0,34853.34,990,0,35843.34,15553.27,20290.07,4.3,No
+FA01113,2026-03-20,C0001,Homeowner,Chonburi,Bed,Japandi,AI App,Yes,No,Standard Purchase,1,0.05,15422.65,0,250,15672.65,6356.56,9316.09,4.6,No
+FA00101,2026-03-21,C0473,Homeowner,Pathum Thani,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,5831.99,0,590,6421.99,3008.58,3413.41,4.3,No
+FA00252,2026-03-21,C0597,Homeowner,Pathum Thani,Sofa,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0,25384.45,0,0,25384.45,10661.47,14722.98,4.0,Yes
+FA00339,2026-03-21,C0424,Condo Resident,Phuket,Dining,Scandinavian,Smart Showroom,Yes,Yes,AI Design Service,2,0,33632.89,799,0,34431.89,12956.28,21475.61,4.3,Yes
+FA00611,2026-03-21,C0663,Homeowner,Pathum Thani,Bed,Japandi,Social Media,No,No,Standard Purchase,1,0,12933.85,0,250,13183.85,5361.04,7822.81,3.8,No
+FA00997,2026-03-22,C0440,Condo Resident,Nakhon Ratchasima,Workspace,Modern Minimal,Website,Yes,No,AI Design Service,1,0,6373.41,499,250,7122.41,3101.58,4020.83,4.7,Yes
+FA00018,2026-03-23,C0383,Homeowner,Pathum Thani,Bed,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0.05,50914.57,0,0,50914.57,20365.83,30548.74,4.5,No
+FA00400,2026-03-23,C0561,Condo Resident,Pathum Thani,Smart Furniture,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0,26262.06,0,590,26852.06,13573.53,13278.53,5,No
+FA00442,2026-03-23,C0592,Homeowner,Chiang Mai,Dining,Japandi,Smart Showroom,Yes,Yes,AI Design Service,1,0.05,14473.03,499,0,14972.03,5609.53,9362.5,4.2,No
+FA00485,2026-03-23,C0336,Homeowner,Nonthaburi,Decor,Industrial,Website,Yes,No,AI Design Service,2,0.1,8718.87,1190,590,10498.87,4889.36,5609.51,4.8,No
+FA00620,2026-03-23,C0318,Condo Resident,Samut Prakan,Storage,Scandinavian,Marketplace,Yes,No,AI Design Service,2,0.05,24567.65,1190,590,26347.65,11268.39,15079.26,4.3,Yes
+FA00759,2026-03-23,C0295,Interior Designer,Chiang Mai,Storage,Modern Minimal,Website,Yes,No,Standard Purchase,1,0,10628.47,0,250,10878.47,4757.74,6120.73,4.6,No
+FA00264,2026-03-24,C0121,Hotel/Cafe/Restaurant,Pathum Thani,Sofa,Industrial,Smart Showroom,No,No,Standard Purchase,1,0.05,18402.15,0,0,18402.15,7728.9,10673.25,4.0,No
+FA00461,2026-03-24,C0453,Hotel/Cafe/Restaurant,Chonburi,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0,30589.73,0,0,30589.73,12847.69,17742.04,3.9,No
+FA00650,2026-03-24,C0776,Condo Resident,Nonthaburi,Workspace,Industrial,Social Media,Yes,No,AI Design Service,1,0.08,14682.95,1190,250,16122.95,6909.8,9213.15,4.5,Yes
+FA00889,2026-03-25,C0531,Hotel/Cafe/Restaurant,Chonburi,Workspace,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,2,0,50370.15,0,0,50370.15,22162.87,28207.28,4.1,No
+FA00983,2026-03-25,C0624,Condo Resident,Bangkok,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,1,0,17557.72,0,790,18347.72,7615.59,10732.13,4.4,No
+FA01097,2026-03-25,C0424,Condo Resident,Phuket,Sofa,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,1,0,26086.13,0,790,26876.13,11548.67,15327.46,4.8,Yes
+FA00207,2026-03-26,C0548,Homeowner,Nakhon Ratchasima,Sofa,Japandi,Marketplace,No,No,Standard Purchase,1,0.1,16325.38,0,790,17115.38,7449.16,9666.22,3.9,No
+FA00937,2026-03-26,C0506,Homeowner,Nonthaburi,Workspace,Industrial,AI App,Yes,Yes,Standard Purchase,2,0.08,15091.69,0,790,15881.69,7232.84,8648.85,4.8,No
+FA00031,2026-03-27,C0387,Renovator,Chonburi,Storage,Modern Minimal,Social Media,No,No,Standard Purchase,2,0.05,14971.66,0,0,14971.66,6437.81,8533.85,4.0,No
+FA00128,2026-03-27,C0567,Renovator,Nonthaburi,Bed,Japandi,AI App,Yes,No,Standard Purchase,2,0.15,35568.21,0,0,35568.21,14227.28,21340.93,4.6,No
+FA00371,2026-03-27,C0390,Condo Resident,Phuket,Sofa,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,14034.09,0,790,14824.09,6486.82,8337.27,5,No
+FA00469,2026-03-27,C0060,Office,Nakhon Ratchasima,Sofa,Japandi,Marketplace,Yes,No,AI Design Service,1,0.1,22961.58,1190,0,24151.58,9905.66,14245.92,4.6,No
+FA00665,2026-03-27,C0510,Homeowner,Nonthaburi,Storage,Japandi,Marketplace,Yes,No,Standard Purchase,1,0.1,5740.48,0,590,6330.48,2910.91,3419.57,4.2,Yes
+FA00802,2026-03-27,C0717,Homeowner,Nakhon Ratchasima,Bed,Modern Minimal,Smart Showroom,Yes,Yes,AI Design Service,1,0,12580.62,1190,790,14560.62,5886.55,8674.07,4.9,No
+FA00835,2026-03-27,C0006,Office,Chiang Mai,Decor,Modern Minimal,AI App,No,No,Standard Purchase,1,0.08,3787.84,0,250,4037.84,2005.66,2032.18,4.0,No
+FA00836,2026-03-27,C0029,Condo Resident,Chiang Mai,Workspace,Modern Minimal,Website,Yes,No,Standard Purchase,2,0.05,18496.59,0,390,18886.59,8431.0,10455.59,5,No
+FA01161,2026-03-27,C0461,Homeowner,Chonburi,Smart Furniture,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0.15,16395.75,499,250,17144.75,8495.16,8649.59,4.5,Yes
+FA00414,2026-03-28,C0485,Condo Resident,Chonburi,Workspace,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0,9451.31,0,250,9701.31,4346.08,5355.23,4.7,No
+FA00979,2026-03-28,C0251,Office,Nonthaburi,Smart Furniture,Scandinavian,Smart Showroom,No,Yes,Standard Purchase,1,0,25354.61,0,0,25354.61,12677.31,12677.3,4.1,No
+FA00834,2026-03-29,C0373,Interior Designer,Samut Prakan,Workspace,Scandinavian,Marketplace,No,No,Standard Purchase,2,0,47635.15,0,0,47635.15,20959.47,26675.68,3.8,No
+FA00567,2026-03-31,C0517,Condo Resident,Samut Prakan,Sofa,Japandi,Website,No,No,Standard Purchase,1,0.1,22095.44,0,250,22345.44,9467.58,12877.86,4.2,No
+FA00235,2026-04-01,C0029,Condo Resident,Chiang Mai,Decor,Scandinavian,Website,Yes,No,Standard Purchase,1,0,5393.56,0,590,5983.56,3031.41,2952.15,4.6,No
+FA00559,2026-04-01,C0551,Homeowner,Pathum Thani,Dining,Modern Minimal,AI App,Yes,Yes,AI Design Service,1,0.1,12543.08,499,790,13832.08,5468.65,8363.43,4.7,No
+FA00758,2026-04-01,C0008,Homeowner,Samut Prakan,Bed,Scandinavian,Marketplace,No,No,Standard Purchase,1,0.1,20590.52,0,390,20980.52,8528.71,12451.81,3.8,No
+FA00845,2026-04-01,C0063,Interior Designer,Nonthaburi,Workspace,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0.05,9119.76,0,590,9709.76,4455.19,5254.57,4.7,No
+FA00149,2026-04-02,C0484,Renovator,Pathum Thani,Bed,Scandinavian,Website,Yes,Yes,AI Design Service,1,0.05,23283.7,299,390,23972.7,9671.76,14300.94,4.7,No
+FA00150,2026-04-02,C0533,Homeowner,Pathum Thani,Workspace,Japandi,Social Media,No,Yes,Standard Purchase,1,0.05,14914.21,0,0,14914.21,6562.25,8351.96,4.3,No
+FA00269,2026-04-02,C0689,Condo Resident,Bangkok,Smart Furniture,Modern Minimal,Marketplace,Yes,No,AI Design Service,1,0.05,16517.25,299,0,16816.25,8324.41,8491.84,4.1,No
+FA00416,2026-04-02,C0356,Condo Resident,Nakhon Ratchasima,Sofa,Japandi,Smart Showroom,Yes,No,AI Design Service,1,0,24708.74,1190,0,25898.74,10639.47,15259.27,4.5,Yes
+FA01187,2026-04-02,C0717,Homeowner,Nakhon Ratchasima,Workspace,Warm Modern,Website,No,No,Standard Purchase,2,0,12697.32,0,590,13287.32,6029.32,7258.0,3.9,No
+FA00098,2026-04-03,C0800,Homeowner,Nonthaburi,Smart Furniture,Japandi,Website,Yes,No,AI Design Service,2,0,35194.66,499,0,35693.66,17707.11,17986.55,4.6,No
+FA00727,2026-04-03,C0788,Condo Resident,Chiang Mai,Sofa,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.08,46415.42,0,0,46415.42,19494.48,26920.94,4.8,Yes
+FA00328,2026-04-04,C0322,Hotel/Cafe/Restaurant,Chonburi,Dining,Modern Minimal,Marketplace,Yes,Yes,AI Design Service,2,0,48761.98,1190,0,49951.98,18791.35,31160.63,4.7,No
+FA00515,2026-04-04,C0365,Office,Pathum Thani,Sofa,Japandi,Marketplace,Yes,Yes,AI Design Service,1,0,17088.99,299,250,17637.99,7430.66,10207.33,4.8,No
+FA00744,2026-04-04,C0520,Condo Resident,Chiang Mai,Decor,Warm Modern,Social Media,Yes,No,AI Design Service,2,0,5110.7,499,250,5859.7,2750.42,3109.28,4.0,Yes
+FA00074,2026-04-05,C0289,Homeowner,Phuket,Sofa,Japandi,AI App,No,No,Standard Purchase,1,0.1,9733.72,0,390,10123.72,4380.66,5743.06,3.2,No
+FA00171,2026-04-05,C0217,Condo Resident,Chiang Mai,Bed,Scandinavian,Marketplace,No,No,Standard Purchase,1,0,21120.14,0,590,21710.14,8890.56,12819.58,4.5,No
+FA00395,2026-04-05,C0522,Homeowner,Pathum Thani,Storage,Warm Modern,Website,No,No,Standard Purchase,1,0.1,5026.72,0,250,5276.72,2348.99,2927.73,4.1,No
+FA00418,2026-04-05,C0177,Renovator,Samut Prakan,Workspace,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,17713.95,0,250,17963.95,7981.64,9982.31,4.3,No
+FA00498,2026-04-05,C0106,Interior Designer,Phuket,Storage,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,13689.43,0,390,14079.43,6178.95,7900.48,4.2,No
+FA00864,2026-04-05,C0279,Homeowner,Pathum Thani,Bed,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0.1,25864.81,0,390,26254.81,10638.42,15616.39,4.7,No
+FA01135,2026-04-05,C0570,Homeowner,Nakhon Ratchasima,Dining,Scandinavian,Website,Yes,No,Standard Purchase,1,0,10197.45,0,250,10447.45,4062.53,6384.92,4.7,No
+FA00078,2026-04-06,C0534,Office,Phuket,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,18491.06,0,250,18741.06,7214.1,11526.96,4.5,No
+FA00326,2026-04-06,C0651,Condo Resident,Phuket,Bed,Japandi,Website,No,No,Standard Purchase,1,0,8298.86,0,250,8548.86,3507.04,5041.82,3.7,Yes
+FA00441,2026-04-06,C0754,Condo Resident,Nakhon Ratchasima,Decor,Industrial,Marketplace,Yes,Yes,Custom Furniture,1,0.05,1210.59,1490,590,3290.59,1351.38,1939.21,4.3,No
+FA00592,2026-04-06,C0521,Office,Pathum Thani,Workspace,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0.05,21811.01,799,250,22860.01,9960.12,12899.89,4.7,No
+FA00177,2026-04-07,C0063,Interior Designer,Nonthaburi,Storage,Modern Minimal,Website,No,No,Standard Purchase,1,0.1,12420.61,0,790,13210.61,5933.36,7277.25,3.6,No
+FA00275,2026-04-07,C0411,Renovator,Pathum Thani,Workspace,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.08,17080.91,0,590,17670.91,7958.1,9712.81,4.7,No
+FA00424,2026-04-07,C0243,Condo Resident,Samut Prakan,Sofa,Japandi,Website,Yes,No,Standard Purchase,1,0,24298.04,0,250,24548.04,10392.68,14155.36,4.3,Yes
+FA00699,2026-04-07,C0288,Renovator,Chonburi,Sofa,Industrial,Social Media,Yes,No,AI Design Service,2,0,46357.34,299,0,46656.34,19535.86,27120.48,4.4,No
+FA01031,2026-04-07,C0487,Office,Samut Prakan,Bed,Industrial,AI App,Yes,No,AI Design Service,1,0.05,40160.52,1190,0,41350.52,16326.01,25024.51,4.3,No
+FA01056,2026-04-07,C0472,Homeowner,Nakhon Ratchasima,Storage,Industrial,Social Media,Yes,No,Standard Purchase,1,0.08,10376.43,0,250,10626.43,4649.36,5977.07,4.1,Yes
+FA00132,2026-04-08,C0371,Condo Resident,Nonthaburi,Storage,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.08,6043.6,0,790,6833.6,3191.25,3642.35,4.3,No
+FA00288,2026-04-08,C0738,Office,Chiang Mai,Bed,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0.1,37422.63,0,0,37422.63,14969.05,22453.58,5.0,No
+FA00637,2026-04-08,C0679,Condo Resident,Pathum Thani,Smart Furniture,Industrial,Social Media,No,No,Custom Furniture,1,0,13911.87,990,390,15291.87,7466.24,7825.63,4.3,No
+FA00456,2026-04-09,C0372,Condo Resident,Nonthaburi,Sofa,Scandinavian,Website,Yes,No,Standard Purchase,1,0.08,18576.68,0,250,18826.68,7989.71,10836.97,5.0,No
+FA00471,2026-04-09,C0118,Renovator,Samut Prakan,Smart Furniture,Industrial,Smart Showroom,Yes,No,AI Design Service,1,0.05,24890.23,499,250,25639.23,12742.4,12896.83,4.1,No
+FA00594,2026-04-09,C0666,Office,Nonthaburi,Sofa,Warm Modern,Website,No,No,Standard Purchase,1,0.05,11141.62,0,250,11391.62,4866.98,6524.64,4.1,No
+FA00797,2026-04-09,C0336,Homeowner,Nonthaburi,Decor,Japandi,AI App,Yes,Yes,Standard Purchase,1,0,7061.98,0,590,7651.98,3832.25,3819.73,4.6,No
+FA01091,2026-04-09,C0450,Homeowner,Samut Prakan,Workspace,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.05,13945.39,0,790,14735.39,6728.47,8006.92,4.3,No
+FA00064,2026-04-10,C0749,Homeowner,Nakhon Ratchasima,Smart Furniture,Industrial,Website,Yes,Yes,AI Design Service,1,0,13224.38,499,790,14513.38,7314.47,7198.91,4.4,No
+FA00762,2026-04-10,C0665,Interior Designer,Chonburi,Workspace,Industrial,Website,Yes,No,Standard Purchase,1,0,12051.44,0,0,12051.44,5302.63,6748.81,4.4,Yes
+FA00800,2026-04-10,C0116,Interior Designer,Chiang Mai,Smart Furniture,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.05,22324.4,0,590,22914.4,11604.7,11309.7,4.1,No
+FA00858,2026-04-10,C0472,Homeowner,Nakhon Ratchasima,Storage,Industrial,Marketplace,No,Yes,Standard Purchase,2,0.1,12295.31,0,0,12295.31,5286.98,7008.33,4.2,No
+FA01190,2026-04-10,C0227,Homeowner,Nakhon Ratchasima,Workspace,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.15,17498.6,0,790,18288.6,8291.88,9996.72,4.5,No
+FA00092,2026-04-11,C0164,Homeowner,Phuket,Sofa,Modern Minimal,Marketplace,No,No,Custom Furniture,1,0.1,15999.4,990,250,17239.4,7125.05,10114.35,3.7,No
+FA00586,2026-04-11,C0772,Homeowner,Chiang Mai,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0.08,25607.58,0,590,26197.58,11197.68,14999.9,4.4,No
+FA00857,2026-04-11,C0056,Condo Resident,Phuket,Sofa,Scandinavian,AI App,Yes,No,Standard Purchase,2,0,31147.83,0,0,31147.83,13082.09,18065.74,4.6,No
+FA01010,2026-04-11,C0698,Homeowner,Chonburi,Dining,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0,7722.3,499,790,9011.3,3636.75,5374.55,4.9,No
+FA00077,2026-04-12,C0732,Homeowner,Chonburi,Sofa,Japandi,Website,No,No,Standard Purchase,2,0.1,22985.23,0,790,23775.23,10246.3,13528.93,4.7,No
+FA00255,2026-04-12,C0543,Hotel/Cafe/Restaurant,Nonthaburi,Sofa,Japandi,Social Media,No,Yes,Standard Purchase,1,0,31840.61,0,0,31840.61,13373.06,18467.55,4.3,No
+FA00265,2026-04-12,C0666,Office,Nonthaburi,Decor,Warm Modern,Website,No,No,Custom Furniture,1,0.05,4059.52,990,390,5439.52,2458.87,2980.65,3.9,No
+FA00661,2026-04-12,C0274,Homeowner,Nakhon Ratchasima,Sofa,Japandi,Social Media,Yes,No,Standard Purchase,1,0,12461.54,0,790,13251.54,5826.35,7425.19,4.4,No
+FA00701,2026-04-12,C0615,Homeowner,Chonburi,Sofa,Modern Minimal,AI App,Yes,No,AI Design Service,1,0.08,19186.32,1190,590,20966.32,8762.55,12203.77,4.1,Yes
+FA00951,2026-04-12,C0220,Homeowner,Nonthaburi,Bed,Modern Minimal,Website,Yes,Yes,Standard Purchase,1,0,15564.51,0,390,15954.51,6518.3,9436.21,4.7,No
+FA00244,2026-04-13,C0400,Renovator,Pathum Thani,Decor,Japandi,Social Media,No,No,Standard Purchase,1,0.08,6327.69,0,250,6577.69,3224.79,3352.9,3.9,No
+FA00270,2026-04-13,C0683,Homeowner,Phuket,Dining,Scandinavian,AI App,Yes,Yes,AI Design Service,1,0.05,11213.7,499,790,12502.7,4963.49,7539.21,4.8,No
+FA00688,2026-04-13,C0185,Condo Resident,Chiang Mai,Storage,Scandinavian,AI App,Yes,No,Custom Furniture,1,0.1,10465.07,1490,0,11955.07,4827.78,7127.29,4.5,Yes
+FA01027,2026-04-13,C0417,Condo Resident,Samut Prakan,Sofa,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.1,10664.51,0,390,11054.51,4771.59,6282.92,4.6,No
+FA00392,2026-04-14,C0105,Hotel/Cafe/Restaurant,Chonburi,Smart Furniture,Industrial,Marketplace,Yes,Yes,AI Design Service,1,0.05,26471.65,799,250,27520.65,13599.11,13921.54,4.7,No
+FA00488,2026-04-14,C0473,Homeowner,Pathum Thani,Storage,Japandi,Social Media,Yes,No,Standard Purchase,1,0.05,13937.41,0,250,14187.41,6180.59,8006.82,4.5,No
+FA00642,2026-04-14,C0629,Hotel/Cafe/Restaurant,Pathum Thani,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0,43055.44,0,0,43055.44,18083.28,24972.16,4.0,No
+FA01177,2026-04-14,C0002,Homeowner,Bangkok,Workspace,Modern Minimal,Website,Yes,No,AI Design Service,1,0,5897.03,1190,0,7087.03,2856.49,4230.54,4.9,Yes
+FA01183,2026-04-14,C0762,Condo Resident,Bangkok,Storage,Modern Minimal,Website,No,No,Standard Purchase,2,0.1,22179.45,0,590,22769.45,9979.66,12789.79,4.0,No
+FA00337,2026-04-15,C0664,Hotel/Cafe/Restaurant,Chonburi,Storage,Japandi,Website,Yes,Yes,Standard Purchase,1,0,11926.7,0,390,12316.7,5420.98,6895.72,5,No
+FA00684,2026-04-15,C0318,Condo Resident,Samut Prakan,Bed,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.08,20800.21,0,0,20800.21,8320.08,12480.13,4.3,Yes
+FA00751,2026-04-15,C0762,Condo Resident,Bangkok,Storage,Industrial,Website,No,No,Standard Purchase,1,0.15,6356.26,0,590,6946.26,3175.69,3770.57,4.7,No
+FA01115,2026-04-15,C0354,Condo Resident,Nakhon Ratchasima,Bed,Japandi,Smart Showroom,Yes,Yes,AI Design Service,1,0,25193.34,799,0,25992.34,10253.12,15739.22,4.6,No
+FA00203,2026-04-16,C0640,Condo Resident,Phuket,Smart Furniture,Japandi,AI App,Yes,No,Custom Furniture,2,0,38892.25,590,0,39482.25,19575.92,19906.33,4.3,No
+FA00640,2026-04-16,C0683,Homeowner,Phuket,Sofa,Modern Minimal,Website,No,Yes,Standard Purchase,1,0.05,22424.8,0,790,23214.8,10010.92,13203.88,4.8,No
+FA00851,2026-04-16,C0002,Homeowner,Bangkok,Sofa,Warm Modern,Marketplace,Yes,No,AI Design Service,1,0.08,19071.63,799,0,19870.63,8185.86,11684.77,4.9,No
+FA00903,2026-04-16,C0105,Hotel/Cafe/Restaurant,Chonburi,Storage,Industrial,AI App,Yes,No,AI Design Service,1,0.08,16338.0,799,790,17927.0,7793.62,10133.38,4.1,No
+FA01030,2026-04-16,C0389,Homeowner,Phuket,Bed,Warm Modern,Website,No,No,Standard Purchase,2,0.05,39557.93,0,0,39557.93,15823.17,23734.76,3.7,No
+FA00025,2026-04-17,C0067,Condo Resident,Nonthaburi,Decor,Industrial,Marketplace,Yes,No,AI Design Service,1,0.1,4500.6,1190,590,6280.6,2864.59,3416.01,4.3,No
+FA00115,2026-04-17,C0440,Condo Resident,Nakhon Ratchasima,Sofa,Japandi,Social Media,Yes,No,Standard Purchase,2,0.1,35404.7,0,0,35404.7,14869.97,20534.73,4.5,No
+FA00736,2026-04-17,C0399,Renovator,Phuket,Decor,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.08,3146.36,0,390,3536.36,1802.75,1733.61,4.9,No
+FA00168,2026-04-18,C0752,Homeowner,Nonthaburi,Bed,Modern Minimal,Social Media,No,Yes,Standard Purchase,1,0,11068.82,0,0,11068.82,4427.53,6641.29,4.9,No
+FA00394,2026-04-18,C0607,Condo Resident,Pathum Thani,Smart Furniture,Modern Minimal,Website,Yes,No,Standard Purchase,1,0,22375.69,0,590,22965.69,11630.34,11335.35,4.5,No
+FA00580,2026-04-18,C0427,Condo Resident,Nakhon Ratchasima,Bed,Scandinavian,Website,No,No,Standard Purchase,1,0,21642.06,0,590,22232.06,9099.32,13132.74,3.8,No
+FA00636,2026-04-18,C0459,Interior Designer,Bangkok,Sofa,Scandinavian,Marketplace,No,No,Custom Furniture,1,0.05,31064.9,590,0,31654.9,13177.06,18477.84,3.9,Yes
+FA00040,2026-04-19,C0365,Office,Pathum Thani,Sofa,Modern Minimal,Smart Showroom,Yes,No,Custom Furniture,2,0.05,44771.54,1490,0,46261.54,19131.85,27129.69,4.5,No
+FA00713,2026-04-19,C0797,Homeowner,Pathum Thani,Sofa,Warm Modern,AI App,Yes,No,AI Design Service,1,0.15,22307.11,299,390,22996.11,9727.27,13268.84,4.6,No
+FA00839,2026-04-19,C0616,Homeowner,Nonthaburi,Bed,Japandi,Website,No,No,Standard Purchase,1,0.08,19850.14,0,0,19850.14,7940.06,11910.08,3.8,No
+FA00892,2026-04-19,C0693,Condo Resident,Bangkok,Sofa,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0.1,12014.62,0,390,12404.62,5338.64,7065.98,4.7,No
+FA00030,2026-04-20,C0200,Condo Resident,Chonburi,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0,19102.55,0,250,19352.55,8210.57,11141.98,5,Yes
+FA00120,2026-04-20,C0757,Hotel/Cafe/Restaurant,Nonthaburi,Sofa,Warm Modern,Website,No,Yes,Standard Purchase,2,0.05,61769.6,0,0,61769.6,25943.23,35826.37,4.7,No
+FA00290,2026-04-20,C0586,Hotel/Cafe/Restaurant,Bangkok,Workspace,Industrial,Marketplace,No,No,Standard Purchase,1,0,22577.5,0,590,23167.5,10376.6,12790.9,3.8,Yes
+FA00873,2026-04-20,C0192,Condo Resident,Phuket,Storage,Modern Minimal,Website,Yes,No,Standard Purchase,2,0.05,25401.96,0,790,26191.96,11515.34,14676.62,4.3,No
+FA00081,2026-04-21,C0523,Office,Phuket,Bed,Modern Minimal,Website,No,No,Standard Purchase,1,0,13033.94,0,0,13033.94,5213.58,7820.36,4.2,Yes
+FA00234,2026-04-21,C0198,Condo Resident,Nakhon Ratchasima,Smart Furniture,Japandi,Smart Showroom,Yes,Yes,AI Design Service,2,0.08,47672.95,499,0,48171.95,23946.25,24225.7,5,No
+FA00365,2026-04-21,C0205,Hotel/Cafe/Restaurant,Bangkok,Workspace,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.05,17016.51,0,790,17806.51,8079.76,9726.75,4.3,No
+FA00654,2026-04-21,C0408,Condo Resident,Nakhon Ratchasima,Dining,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,15290.52,0,250,15540.52,5997.9,9542.62,4.2,No
+FA00949,2026-04-21,C0616,Homeowner,Nonthaburi,Storage,Warm Modern,Marketplace,No,No,Standard Purchase,2,0,8151.27,0,390,8541.27,3797.55,4743.72,4.1,No
+FA00473,2026-04-22,C0581,Renovator,Phuket,Smart Furniture,Industrial,AI App,Yes,No,Standard Purchase,1,0,19784.64,0,250,20034.64,10079.82,9954.82,4.6,No
+FA01184,2026-04-22,C0424,Condo Resident,Phuket,Decor,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.05,1691.41,0,590,2281.41,1254.38,1027.03,4.4,No
+FA00773,2026-04-23,C0005,Office,Samut Prakan,Sofa,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0.08,27928.9,0,390,28318.9,12022.64,16296.26,4.8,No
+FA00869,2026-04-23,C0753,Hotel/Cafe/Restaurant,Bangkok,Sofa,Japandi,Marketplace,No,No,Standard Purchase,2,0.08,35416.12,0,0,35416.12,14874.77,20541.35,4.5,No
+FA00891,2026-04-23,C0428,Office,Bangkok,Sofa,Scandinavian,Website,Yes,No,AI Design Service,1,0.05,13296.0,499,790,14585.0,6286.6,8298.4,4.1,No
+FA01068,2026-04-23,C0465,Office,Chiang Mai,Smart Furniture,Industrial,Smart Showroom,No,No,Standard Purchase,1,0,15841.12,0,0,15841.12,7920.56,7920.56,4.2,No
+FA00091,2026-04-24,C0026,Renovator,Chiang Mai,Bed,Warm Modern,AI App,Yes,No,Standard Purchase,2,0.1,52265.76,0,0,52265.76,20906.3,31359.46,4.7,No
+FA00279,2026-04-24,C0140,Condo Resident,Pathum Thani,Dining,Warm Modern,Website,No,No,Standard Purchase,2,0.1,34335.37,0,0,34335.37,13047.44,21287.93,4.5,No
+FA00678,2026-04-24,C0355,Condo Resident,Samut Prakan,Bed,Modern Minimal,AI App,Yes,No,AI Design Service,2,0.05,52904.47,299,0,53203.47,21227.57,31975.9,4.5,No
+FA00887,2026-04-24,C0708,Condo Resident,Chiang Mai,Dining,Scandinavian,Marketplace,No,No,Standard Purchase,1,0,14426.2,0,250,14676.2,5669.46,9006.74,3.8,No
+FA00947,2026-04-24,C0215,Office,Samut Prakan,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,1,0,17226.2,0,0,17226.2,7235.0,9991.2,4.6,No
+FA00167,2026-04-25,C0692,Office,Pathum Thani,Storage,Japandi,AI App,Yes,Yes,Standard Purchase,1,0,11714.54,0,250,11964.54,5224.75,6739.79,4.5,Yes
+FA00445,2026-04-25,C0556,Condo Resident,Bangkok,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0.05,13991.62,0,0,13991.62,5876.48,8115.14,4.6,No
+FA00538,2026-04-25,C0644,Condo Resident,Samut Prakan,Decor,Scandinavian,AI App,No,No,Standard Purchase,3,0.08,8000.79,0,0,8000.79,3840.38,4160.41,4.2,No
+FA00554,2026-04-25,C0749,Homeowner,Nakhon Ratchasima,Dining,Warm Modern,AI App,Yes,No,Standard Purchase,2,0.05,16065.64,0,250,16315.64,6292.44,10023.2,3.7,No
+FA00563,2026-04-25,C0172,Condo Resident,Pathum Thani,Sofa,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.05,13898.99,0,790,14688.99,6430.08,8258.91,3.7,No
+FA01134,2026-04-25,C0591,Condo Resident,Nonthaburi,Workspace,Japandi,Website,Yes,No,AI Design Service,1,0.05,17691.23,499,250,18440.23,8081.42,10358.81,5.0,Yes
+FA00618,2026-04-26,C0640,Condo Resident,Phuket,Bed,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0.08,18504.12,499,790,19793.12,8103.93,11689.19,4.5,No
+FA00649,2026-04-26,C0663,Homeowner,Pathum Thani,Workspace,Industrial,Marketplace,No,No,Standard Purchase,1,0.08,10445.2,0,0,10445.2,4595.89,5849.31,4.1,No
+FA00257,2026-04-27,C0225,Renovator,Pathum Thani,Decor,Industrial,Marketplace,No,No,Standard Purchase,1,0,7160.92,0,390,7550.92,3729.74,3821.18,3.4,No
+FA00090,2026-04-28,C0023,Homeowner,Chiang Mai,Dining,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0.1,6867.87,799,390,8056.87,3078.07,4978.8,4.2,Yes
+FA00437,2026-04-28,C0063,Interior Designer,Nonthaburi,Sofa,Scandinavian,Marketplace,No,No,Standard Purchase,1,0.1,31264.51,0,0,31264.51,13131.09,18133.42,3.9,No
+FA00526,2026-04-28,C0113,Homeowner,Nonthaburi,Smart Furniture,Industrial,AI App,No,Yes,Standard Purchase,1,0.05,24507.32,0,390,24897.32,12546.16,12351.16,4.2,No
+FA00789,2026-04-28,C0565,Interior Designer,Pathum Thani,Bed,Industrial,Marketplace,No,No,Standard Purchase,2,0.1,42256.39,0,0,42256.39,16902.56,25353.83,4.0,No
+FA00874,2026-04-28,C0777,Homeowner,Pathum Thani,Decor,Industrial,AI App,Yes,No,Standard Purchase,2,0.08,10391.54,0,0,10391.54,4987.94,5403.6,4.5,No
+FA00984,2026-04-28,C0793,Condo Resident,Samut Prakan,Bed,Japandi,Website,Yes,No,Standard Purchase,1,0.05,9774.28,0,590,10364.28,4352.21,6012.07,5,No
+FA00692,2026-04-29,C0276,Renovator,Phuket,Bed,Industrial,Website,Yes,Yes,Standard Purchase,2,0,30980.75,0,0,30980.75,12392.3,18588.45,5,No
+FA00790,2026-04-29,C0033,Interior Designer,Chonburi,Bed,Industrial,AI App,Yes,Yes,AI Design Service,2,0.05,88118.81,499,0,88617.81,35357.3,53260.51,4.9,Yes
+FA00921,2026-04-29,C0525,Homeowner,Samut Prakan,Smart Furniture,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.15,13298.16,0,790,14088.16,7241.58,6846.58,3.8,No
+FA01051,2026-04-29,C0643,Hotel/Cafe/Restaurant,Pathum Thani,Bed,Warm Modern,Marketplace,Yes,No,AI Design Service,1,0.05,16529.0,299,590,17418.0,7119.88,10298.12,4.5,No
+FA00011,2026-04-30,C0446,Homeowner,Samut Prakan,Bed,Warm Modern,Website,Yes,No,Standard Purchase,1,0.15,25760.07,0,390,26150.07,10596.53,15553.54,4.5,No
+FA00726,2026-04-30,C0154,Interior Designer,Nonthaburi,Workspace,Japandi,AI App,Yes,No,Standard Purchase,2,0,34111.77,0,0,34111.77,15009.18,19102.59,4.6,No
+FA00501,2026-05-01,C0343,Homeowner,Chonburi,Smart Furniture,Warm Modern,Website,Yes,No,AI Design Service,1,0,9241.08,299,0,9540.08,4686.32,4853.76,4.3,Yes
+FA00913,2026-05-01,C0271,Homeowner,Phuket,Bed,Warm Modern,Smart Showroom,Yes,Yes,AI Design Service,2,0.1,36047.35,1190,0,37237.35,14680.74,22556.61,4.9,No
+FA00923,2026-05-01,C0032,Office,Chonburi,Dining,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0.08,25556.76,0,790,26346.76,10304.07,16042.69,4.8,No
+FA01057,2026-05-01,C0073,Interior Designer,Samut Prakan,Decor,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.05,6716.08,0,790,7506.08,3816.22,3689.86,4.7,No
+FA01098,2026-05-01,C0019,Interior Designer,Chonburi,Storage,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0.05,8806.48,0,390,9196.48,4079.29,5117.19,4.6,Yes
+FA00017,2026-05-02,C0557,Homeowner,Bangkok,Sofa,Modern Minimal,Smart Showroom,No,Yes,Custom Furniture,1,0.05,17425.57,1490,0,18915.57,7646.54,11269.03,4.4,No
+FA00583,2026-05-02,C0424,Condo Resident,Phuket,Decor,Scandinavian,Social Media,No,No,Standard Purchase,1,0.08,2402.49,0,0,2402.49,1153.2,1249.29,4.0,Yes
+FA00175,2026-05-03,C0241,Renovator,Chonburi,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0.05,30333.32,0,0,30333.32,12739.99,17593.33,4.6,Yes
+FA00500,2026-05-03,C0229,Homeowner,Chiang Mai,Workspace,Scandinavian,Marketplace,No,No,Standard Purchase,2,0,25440.32,0,590,26030.32,11636.24,14394.08,3.8,No
+FA00547,2026-05-03,C0411,Renovator,Pathum Thani,Decor,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0,3084.9,0,790,3874.9,2073.25,1801.65,4.0,No
+FA00748,2026-05-03,C0306,Homeowner,Chonburi,Storage,Japandi,AI App,Yes,No,AI Design Service,1,0.08,12455.57,299,590,13344.57,5864.18,7480.39,4.7,No
+FA00268,2026-05-04,C0329,Condo Resident,Phuket,Storage,Modern Minimal,Marketplace,Yes,No,AI Design Service,2,0.08,15785.54,799,790,17374.54,7556.06,9818.48,4.5,Yes
+FA00278,2026-05-04,C0074,Condo Resident,Nonthaburi,Bed,Japandi,Smart Showroom,Yes,No,AI Design Service,1,0.05,10353.37,1190,590,12133.37,4845.65,7287.72,5,No
+FA00338,2026-05-04,C0162,Condo Resident,Phuket,Sofa,Warm Modern,Social Media,No,No,Standard Purchase,2,0.05,22312.04,0,790,23102.04,9963.56,13138.48,3.7,No
+FA00475,2026-05-04,C0593,Condo Resident,Nakhon Ratchasima,Storage,Scandinavian,Website,Yes,No,Custom Furniture,2,0.05,21116.41,1490,250,22856.41,9595.36,13261.05,4.4,No
+FA00785,2026-05-04,C0195,Homeowner,Samut Prakan,Decor,Warm Modern,Website,Yes,No,Standard Purchase,1,0.08,3709.73,0,0,3709.73,1780.67,1929.06,4.3,No
+FA00981,2026-05-04,C0664,Hotel/Cafe/Restaurant,Chonburi,Bed,Industrial,Marketplace,Yes,No,Standard Purchase,1,0,44663.71,0,0,44663.71,17865.48,26798.23,5.0,No
+FA01108,2026-05-04,C0591,Condo Resident,Nonthaburi,Workspace,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.15,13682.31,0,0,13682.31,6020.22,7662.09,4.4,No
+FA00137,2026-05-05,C0171,Renovator,Bangkok,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0,28639.34,0,790,29429.34,12621.02,16808.32,4.8,No
+FA00180,2026-05-05,C0596,Interior Designer,Chonburi,Dining,Industrial,Social Media,Yes,No,AI Design Service,2,0,50694.32,1190,0,51884.32,19525.64,32358.68,3.9,No
+FA00324,2026-05-05,C0049,Homeowner,Chonburi,Dining,Japandi,Marketplace,No,No,Custom Furniture,2,0,36169.38,990,0,37159.38,13962.16,23197.22,4.5,No
+FA00360,2026-05-05,C0095,Homeowner,Phuket,Storage,Japandi,Website,Yes,No,Standard Purchase,1,0.05,5669.12,0,250,5919.12,2625.22,3293.9,4.5,No
+FA00383,2026-05-05,C0313,Condo Resident,Pathum Thani,Sofa,Modern Minimal,Website,Yes,No,Custom Furniture,2,0,23940.86,990,0,24930.86,10272.96,14657.9,4.3,Yes
+FA00468,2026-05-05,C0112,Office,Samut Prakan,Decor,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,4884.59,0,790,5674.59,2937.1,2737.49,4.8,No
+FA00754,2026-05-05,C0575,Office,Pathum Thani,Dining,Modern Minimal,Social Media,No,Yes,Standard Purchase,2,0.08,26832.98,0,590,27422.98,10639.03,16783.95,4.5,No
+FA00885,2026-05-05,C0449,Renovator,Phuket,Bed,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0,34358.6,0,0,34358.6,13743.44,20615.16,4.7,No
+FA00280,2026-05-06,C0597,Homeowner,Pathum Thani,Storage,Japandi,Marketplace,Yes,No,Standard Purchase,1,0,4473.63,0,0,4473.63,1923.66,2549.97,4.3,No
+FA00368,2026-05-06,C0361,Condo Resident,Nonthaburi,Bed,Japandi,Marketplace,No,No,Standard Purchase,2,0.08,26620.85,0,590,27210.85,11090.84,16120.01,3.8,No
+FA00560,2026-05-06,C0674,Office,Pathum Thani,Smart Furniture,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0,33468.02,0,0,33468.02,16734.01,16734.01,4.6,No
+FA00655,2026-05-06,C0628,Condo Resident,Samut Prakan,Dining,Modern Minimal,Social Media,No,No,Standard Purchase,1,0,10440.11,0,590,11030.11,4409.74,6620.37,3.6,No
+FA00745,2026-05-06,C0211,Interior Designer,Nonthaburi,Bed,Warm Modern,Website,Yes,No,Standard Purchase,1,0.08,19598.48,0,250,19848.48,8026.89,11821.59,4.4,No
+FA01170,2026-05-06,C0630,Interior Designer,Nakhon Ratchasima,Workspace,Modern Minimal,Smart Showroom,No,No,Custom Furniture,1,0,25549.49,590,250,26389.49,11559.08,14830.41,4.3,Yes
+FA00183,2026-05-07,C0728,Homeowner,Chonburi,Bed,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,18978.89,0,590,19568.89,8034.06,11534.83,4.3,No
+FA00376,2026-05-07,C0701,Homeowner,Nonthaburi,Decor,Japandi,Social Media,Yes,No,AI Design Service,1,0,3673.26,299,390,4362.26,2121.44,2240.82,4.1,Yes
+FA00435,2026-05-07,C0005,Office,Samut Prakan,Sofa,Modern Minimal,Website,No,No,Custom Furniture,1,0.08,13923.58,990,0,14913.58,6065.7,8847.88,4.2,No
+FA00532,2026-05-07,C0515,Office,Nakhon Ratchasima,Dining,Industrial,Marketplace,No,No,Standard Purchase,1,0.05,26445.56,0,250,26695.56,10236.81,16458.75,4.2,No
+FA00585,2026-05-07,C0425,Condo Resident,Samut Prakan,Decor,Scandinavian,Website,Yes,Yes,AI Design Service,2,0.05,9652.21,499,0,10151.21,4742.84,5408.37,4.5,Yes
+FA00613,2026-05-07,C0199,Condo Resident,Nakhon Ratchasima,Workspace,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,2,0.15,10592.15,0,390,10982.15,4953.05,6029.1,4.1,No
+FA00893,2026-05-07,C0051,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Storage,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,2,0.05,35159.53,0,0,35159.53,15118.6,20040.93,4.7,No
+FA00965,2026-05-07,C0748,Homeowner,Nonthaburi,Bed,Japandi,AI App,Yes,No,Standard Purchase,1,0.15,19755.77,0,0,19755.77,7902.31,11853.46,5.0,No
+FA01033,2026-05-07,C0615,Homeowner,Chonburi,Dining,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0.1,11321.87,0,790,12111.87,4894.81,7217.06,4.3,Yes
+FA01114,2026-05-07,C0462,Condo Resident,Chonburi,Storage,Japandi,Website,Yes,Yes,AI Design Service,1,0.05,6231.39,499,250,6980.39,2976.78,4003.61,5,No
+FA00434,2026-05-08,C0414,Interior Designer,Nakhon Ratchasima,Sofa,Industrial,AI App,Yes,No,Standard Purchase,1,0.05,16668.46,0,790,17458.46,7593.25,9865.21,4.8,No
+FA00550,2026-05-09,C0750,Condo Resident,Nakhon Ratchasima,Workspace,Scandinavian,Marketplace,No,Yes,Standard Purchase,2,0.1,13566.08,0,790,14356.08,6561.58,7794.5,4.5,Yes
+FA00734,2026-05-09,C0087,Condo Resident,Chonburi,Decor,Scandinavian,Smart Showroom,No,No,Standard Purchase,1,0.1,2404.76,0,250,2654.76,1341.78,1312.98,4.1,No
+FA00808,2026-05-09,C0412,Office,Pathum Thani,Bed,Modern Minimal,AI App,No,No,Standard Purchase,2,0.05,30396.85,0,0,30396.85,12158.74,18238.11,4.4,No
+FA00227,2026-05-10,C0670,Homeowner,Nakhon Ratchasima,Decor,Industrial,Marketplace,No,No,Custom Furniture,1,0.08,5839.83,1490,250,7579.83,3318.42,4261.41,4.0,No
+FA00195,2026-05-11,C0190,Homeowner,Nakhon Ratchasima,Bed,Japandi,AI App,No,No,Standard Purchase,2,0.05,39823.45,0,0,39823.45,15929.38,23894.07,4.3,No
+FA00426,2026-05-11,C0713,Renovator,Phuket,Decor,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0,7757.49,299,390,8446.49,4081.88,4364.61,4.4,No
+FA00719,2026-05-11,C0299,Office,Chonburi,Bed,Scandinavian,Social Media,Yes,No,AI Design Service,2,0.05,66798.19,299,0,67097.19,26785.06,40312.13,4.2,No
+FA00806,2026-05-11,C0403,Interior Designer,Chiang Mai,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0,13192.45,0,790,13982.45,6133.33,7849.12,4.8,No
+FA00266,2026-05-12,C0606,Homeowner,Chiang Mai,Storage,Japandi,Website,Yes,No,Standard Purchase,1,0.1,9521.87,0,0,9521.87,4094.4,5427.47,4.7,No
+FA00344,2026-05-12,C0620,Condo Resident,Pathum Thani,Storage,Scandinavian,Social Media,No,Yes,Standard Purchase,2,0.05,21692.8,0,590,22282.8,9770.4,12512.4,4.5,No
+FA00417,2026-05-12,C0271,Homeowner,Phuket,Storage,Japandi,AI App,Yes,No,Standard Purchase,2,0.05,11043.27,0,590,11633.27,5191.11,6442.16,4.3,No
+FA00940,2026-05-12,C0792,Interior Designer,Pathum Thani,Bed,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.05,30108.48,0,0,30108.48,12043.39,18065.09,4.0,No
+FA00182,2026-05-13,C0088,Interior Designer,Nonthaburi,Decor,Japandi,Social Media,Yes,No,AI Design Service,1,0.05,6473.18,799,0,7272.18,3282.91,3989.27,4.4,No
+FA00608,2026-05-13,C0741,Renovator,Nonthaburi,Sofa,Japandi,AI App,No,Yes,Standard Purchase,1,0.05,20948.63,0,390,21338.63,9090.92,12247.71,4.3,No
+FA00671,2026-05-13,C0560,Condo Resident,Phuket,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.1,11675.9,0,0,11675.9,4670.36,7005.54,4.8,No
+FA01013,2026-05-13,C0250,Homeowner,Nonthaburi,Decor,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,2,0.05,11433.49,0,790,12223.49,6080.58,6142.91,4.7,No
+FA01085,2026-05-13,C0135,Office,Pathum Thani,Bed,Scandinavian,Social Media,No,No,Standard Purchase,1,0,22847.39,0,250,23097.39,9326.46,13770.93,3.9,Yes
+FA00248,2026-05-14,C0138,Condo Resident,Nonthaburi,Storage,Japandi,AI App,Yes,No,Standard Purchase,1,0,5499.83,0,390,5889.83,2657.43,3232.4,4.4,No
+FA00569,2026-05-14,C0106,Interior Designer,Phuket,Storage,Warm Modern,Marketplace,No,No,Standard Purchase,1,0,11162.7,0,590,11752.7,5242.46,6510.24,4.1,Yes
+FA00735,2026-05-14,C0062,Interior Designer,Samut Prakan,Workspace,Modern Minimal,Social Media,Yes,Yes,AI Design Service,1,0.1,9134.58,299,790,10223.58,4677.5,5546.08,5,No
+FA00805,2026-05-14,C0548,Homeowner,Nakhon Ratchasima,Bed,Japandi,AI App,Yes,Yes,Standard Purchase,1,0.05,21537.17,0,390,21927.17,8907.37,13019.8,4.7,No
+FA01076,2026-05-14,C0510,Homeowner,Nonthaburi,Sofa,Warm Modern,Marketplace,Yes,No,Standard Purchase,2,0,32676.94,0,0,32676.94,13724.31,18952.63,4.1,Yes
+FA00274,2026-05-15,C0239,Condo Resident,Bangkok,Sofa,Modern Minimal,AI App,No,No,Standard Purchase,1,0.08,20689.16,0,790,21479.16,9281.95,12197.21,4.3,No
+FA00682,2026-05-15,C0062,Interior Designer,Samut Prakan,Workspace,Scandinavian,Marketplace,No,No,Custom Furniture,2,0.05,12011.07,1490,0,13501.07,5612.67,7888.4,4.1,No
+FA00172,2026-05-16,C0629,Hotel/Cafe/Restaurant,Pathum Thani,Decor,Industrial,Website,No,No,Standard Purchase,1,0,2308.47,0,390,2698.47,1400.57,1297.9,3.8,No
+FA00421,2026-05-16,C0394,Office,Nonthaburi,Sofa,Industrial,Smart Showroom,Yes,No,AI Design Service,1,0.08,34969.3,499,0,35468.3,14796.89,20671.41,5,No
+FA00821,2026-05-16,C0536,Homeowner,Bangkok,Sofa,Japandi,Website,Yes,No,AI Design Service,1,0.05,11260.63,299,390,11949.63,5087.74,6861.89,4.3,No
+FA00826,2026-05-16,C0547,Hotel/Cafe/Restaurant,Phuket,Workspace,Industrial,Website,Yes,No,Standard Purchase,1,0,19646.04,0,790,20436.04,9236.76,11199.28,4.6,No
+FA00849,2026-05-16,C0726,Condo Resident,Chonburi,Sofa,Japandi,Marketplace,Yes,No,Standard Purchase,2,0.05,53064.23,0,0,53064.23,22286.98,30777.25,4.7,No
+FA01099,2026-05-16,C0175,Condo Resident,Nonthaburi,Storage,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.08,2659.86,0,590,3249.86,1586.24,1663.62,4.4,No
+FA00008,2026-05-18,C0447,Homeowner,Bangkok,Sofa,Modern Minimal,Website,No,No,Custom Furniture,2,0.1,19411.9,990,790,21191.9,8963.3,12228.6,4.3,No
+FA00258,2026-05-18,C0119,Condo Resident,Chonburi,Decor,Industrial,Website,Yes,No,AI Design Service,1,0,6470.43,1190,590,8250.43,3810.11,4440.32,4.6,No
+FA00362,2026-05-18,C0255,Homeowner,Phuket,Workspace,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,10221.07,0,590,10811.07,4939.77,5871.3,4.2,No
+FA00910,2026-05-18,C0073,Interior Designer,Samut Prakan,Sofa,Warm Modern,Social Media,No,No,Standard Purchase,2,0.08,59492.31,0,0,59492.31,24986.77,34505.54,4.4,No
+FA00056,2026-05-19,C0173,Office,Pathum Thani,Dining,Scandinavian,Smart Showroom,No,Yes,Standard Purchase,1,0.05,14844.58,0,250,15094.58,5828.44,9266.14,4.2,No
+FA00263,2026-05-19,C0417,Condo Resident,Samut Prakan,Smart Furniture,Industrial,AI App,Yes,No,Standard Purchase,2,0.05,21877.52,0,390,22267.52,11231.26,11036.26,4.5,No
+FA00333,2026-05-19,C0549,Office,Pathum Thani,Sofa,Warm Modern,Marketplace,Yes,No,AI Design Service,1,0,24920.96,1190,0,26110.96,10728.6,15382.36,4.3,No
+FA00420,2026-05-19,C0507,Homeowner,Samut Prakan,Bed,Scandinavian,AI App,Yes,Yes,Standard Purchase,2,0,62611.86,0,0,62611.86,25044.74,37567.12,4.1,Yes
+FA00466,2026-05-19,C0179,Homeowner,Nonthaburi,Bed,Japandi,Website,Yes,No,Standard Purchase,1,0.05,33343.38,0,0,33343.38,13337.35,20006.03,4.8,No
+FA00906,2026-05-19,C0051,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Sofa,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0,14025.73,0,0,14025.73,5890.81,8134.92,4.2,No
+FA01121,2026-05-19,C0355,Condo Resident,Samut Prakan,Dining,Warm Modern,Website,No,No,Standard Purchase,1,0.08,15616.7,0,390,16006.7,6226.85,9779.85,3.9,Yes
+FA00202,2026-05-20,C0138,Condo Resident,Nonthaburi,Workspace,Modern Minimal,Website,Yes,No,AI Design Service,1,0.05,11088.54,499,250,11837.54,5176.24,6661.3,4.3,Yes
+FA00340,2026-05-20,C0361,Condo Resident,Nonthaburi,Dining,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,2,0.1,31420.81,0,0,31420.81,11939.91,19480.9,4.6,Yes
+FA00838,2026-05-20,C0393,Condo Resident,Nonthaburi,Bed,Japandi,AI App,Yes,Yes,Standard Purchase,2,0,34238.58,0,0,34238.58,13695.43,20543.15,4.7,No
+FA00860,2026-05-20,C0548,Homeowner,Nakhon Ratchasima,Dining,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0.05,28167.24,0,0,28167.24,10703.55,17463.69,4.9,No
+FA01169,2026-05-20,C0679,Condo Resident,Pathum Thani,Bed,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.08,18122.71,0,250,18372.71,7436.58,10936.13,4.9,Yes
+FA00681,2026-05-21,C0055,Condo Resident,Chonburi,Workspace,Modern Minimal,Website,No,No,Standard Purchase,2,0,29374.54,0,0,29374.54,12924.8,16449.74,4.3,Yes
+FA01189,2026-05-21,C0316,Office,Chiang Mai,Smart Furniture,Modern Minimal,AI App,No,No,Standard Purchase,2,0.08,50035.91,0,0,50035.91,25017.96,25017.95,4.3,Yes
+FA00027,2026-05-22,C0665,Interior Designer,Chonburi,Dining,Japandi,Website,Yes,No,Standard Purchase,1,0.15,28507.36,0,250,28757.36,11020.3,17737.06,4.1,Yes
+FA00247,2026-05-22,C0376,Renovator,Samut Prakan,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0,10556.11,0,250,10806.11,4621.07,6185.04,4.4,No
+FA00527,2026-05-22,C0168,Condo Resident,Nonthaburi,Bed,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0.05,13289.33,0,250,13539.33,5503.23,8036.1,4.3,No
+FA01165,2026-05-22,C0033,Interior Designer,Chonburi,Workspace,Japandi,Smart Showroom,Yes,Yes,AI Design Service,1,0.05,22939.95,499,790,24228.95,10795.86,13433.09,4.5,Yes
+FA00814,2026-05-23,C0194,Condo Resident,Bangkok,Decor,Japandi,Social Media,No,No,Standard Purchase,2,0.05,3752.0,0,790,4542.0,2393.46,2148.54,4.5,No
+FA00079,2026-05-24,C0718,Interior Designer,Pathum Thani,Sofa,Scandinavian,AI App,Yes,Yes,AI Design Service,1,0.05,31087.86,799,0,31886.86,13232.68,18654.18,5,No
+FA00253,2026-05-24,C0637,Hotel/Cafe/Restaurant,Nonthaburi,Storage,Industrial,Social Media,Yes,Yes,AI Design Service,1,0.15,17062.91,1190,390,18642.91,7891.35,10751.56,4.8,Yes
+FA00310,2026-05-24,C0430,Interior Designer,Nonthaburi,Workspace,Industrial,Marketplace,Yes,No,AI Design Service,2,0,31933.97,1190,0,33123.97,14312.75,18811.22,4.3,No
+FA00603,2026-05-24,C0678,Homeowner,Phuket,Smart Furniture,Warm Modern,Smart Showroom,Yes,Yes,AI Design Service,1,0.08,16761.07,799,390,17950.07,8848.82,9101.25,4.5,No
+FA01061,2026-05-24,C0391,Hotel/Cafe/Restaurant,Chiang Mai,Storage,Japandi,Marketplace,No,No,Standard Purchase,1,0.08,19585.55,0,0,19585.55,8421.79,11163.76,3.8,No
+FA00226,2026-05-25,C0044,Condo Resident,Nonthaburi,Decor,Modern Minimal,Social Media,No,No,Standard Purchase,3,0,5053.72,0,590,5643.72,2868.29,2775.43,4.5,No
+FA00281,2026-05-25,C0536,Homeowner,Bangkok,Dining,Modern Minimal,AI App,Yes,No,Custom Furniture,1,0,8184.19,990,0,9174.19,3327.79,5846.4,4.2,No
+FA00386,2026-05-25,C0187,Homeowner,Nonthaburi,Bed,Warm Modern,Social Media,No,No,Standard Purchase,1,0.1,20180.34,0,390,20570.34,8364.64,12205.7,4.4,No
+FA00693,2026-05-25,C0781,Interior Designer,Chonburi,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.08,24179.85,0,790,24969.85,10264.44,14705.41,4.2,No
+FA00781,2026-05-25,C0221,Condo Resident,Pathum Thani,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.08,11990.34,0,790,12780.34,5628.44,7151.9,4.6,No
+FA00282,2026-05-26,C0430,Interior Designer,Nonthaburi,Storage,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.05,7717.33,0,590,8307.33,3760.95,4546.38,4.6,No
+FA00519,2026-05-26,C0395,Homeowner,Samut Prakan,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.08,4389.04,0,390,4779.04,2179.79,2599.25,4.2,Yes
+FA00680,2026-05-26,C0473,Homeowner,Pathum Thani,Sofa,Japandi,Website,Yes,No,Standard Purchase,1,0.05,9777.5,0,790,10567.5,4699.05,5868.45,3.8,No
+FA00926,2026-05-26,C0336,Homeowner,Nonthaburi,Sofa,Japandi,Website,Yes,Yes,AI Design Service,2,0.08,30421.01,799,0,31220.01,12952.6,18267.41,5,No
+FA01155,2026-05-26,C0406,Homeowner,Bangkok,Decor,Industrial,AI App,Yes,No,AI Design Service,2,0,9647.59,299,250,10196.59,4884.12,5312.47,4.2,No
+FA00379,2026-05-27,C0306,Homeowner,Chonburi,Workspace,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.05,13930.12,0,590,14520.12,6571.75,7948.37,3.5,No
+FA00478,2026-05-27,C0219,Interior Designer,Phuket,Sofa,Industrial,Smart Showroom,Yes,No,AI Design Service,2,0.08,65649.79,1190,0,66839.79,27834.71,39005.08,4.1,No
+FA00639,2026-05-27,C0001,Homeowner,Chonburi,Storage,Warm Modern,Website,Yes,Yes,Standard Purchase,2,0.15,19887.4,0,0,19887.4,8551.58,11335.82,4.6,No
+FA00933,2026-05-27,C0114,Condo Resident,Pathum Thani,Bed,Modern Minimal,Marketplace,Yes,No,Standard Purchase,2,0,25879.75,0,0,25879.75,10351.9,15527.85,4.7,No
+FA00327,2026-05-28,C0258,Homeowner,Nonthaburi,Bed,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0,29876.75,0,390,30266.75,12243.2,18023.55,4.3,No
+FA00429,2026-05-28,C0599,Office,Phuket,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0.15,27254.04,0,0,27254.04,11446.7,15807.34,4.5,No
+FA00954,2026-05-28,C0310,Homeowner,Chiang Mai,Storage,Modern Minimal,Social Media,Yes,No,AI Design Service,2,0.05,27571.81,499,590,28660.81,12408.16,16252.65,5.0,No
+FA01081,2026-05-28,C0403,Interior Designer,Chiang Mai,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.08,24760.92,0,390,25150.92,10692.09,14458.83,3.9,No
+FA01096,2026-05-28,C0135,Office,Pathum Thani,Storage,Scandinavian,Website,No,Yes,Custom Furniture,2,0.08,34645.02,590,0,35235.02,15027.16,20207.86,4.2,No
+FA00021,2026-05-29,C0412,Office,Pathum Thani,Decor,Scandinavian,Marketplace,Yes,No,Custom Furniture,1,0.05,5138.01,990,250,6378.01,2871.54,3506.47,4.2,No
+FA00164,2026-05-29,C0121,Hotel/Cafe/Restaurant,Pathum Thani,Bed,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.1,22479.14,0,250,22729.14,9179.16,13549.98,3.9,No
+FA00170,2026-05-29,C0015,Condo Resident,Bangkok,Storage,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,2,0.1,19126.46,0,790,19916.46,8816.88,11099.58,4.8,No
+FA00306,2026-05-29,C0612,Condo Resident,Chonburi,Dining,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.1,15880.32,0,590,16470.32,6477.02,9993.3,4.5,No
+FA00531,2026-05-29,C0079,Office,Phuket,Dining,Scandinavian,Website,Yes,No,Standard Purchase,2,0.05,18355.04,0,250,18605.04,7162.42,11442.62,3.7,No
+FA00656,2026-05-29,C0343,Homeowner,Chonburi,Dining,Japandi,Website,Yes,No,Standard Purchase,1,0,14338.03,0,590,14928.03,5890.95,9037.08,5,Yes
+FA00718,2026-05-29,C0737,Office,Bangkok,Bed,Scandinavian,Website,Yes,No,AI Design Service,1,0,24142.97,499,590,25231.97,10209.47,15022.5,4.6,No
+FA01138,2026-05-29,C0434,Interior Designer,Phuket,Bed,Industrial,Smart Showroom,No,Yes,Standard Purchase,1,0.08,19574.89,0,250,19824.89,8017.46,11807.43,4.6,No
+FA00447,2026-05-30,C0104,Homeowner,Pathum Thani,Sofa,Japandi,Smart Showroom,No,Yes,Standard Purchase,1,0.1,21965.62,0,250,22215.62,9413.06,12802.56,4.6,No
+FA00002,2026-05-31,C0757,Hotel/Cafe/Restaurant,Nonthaburi,Decor,Industrial,AI App,Yes,Yes,Standard Purchase,1,0,6826.38,0,250,7076.38,3464.16,3612.22,4.8,No
+FA00116,2026-05-31,C0678,Homeowner,Phuket,Dining,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0,26263.52,0,250,26513.52,10167.64,16345.88,5,No
+FA00146,2026-05-31,C0404,Office,Bangkok,Bed,Industrial,Smart Showroom,Yes,No,Standard Purchase,2,0.08,54869.05,0,0,54869.05,21947.62,32921.43,4.6,No
+FA00633,2026-05-31,C0667,Hotel/Cafe/Restaurant,Pathum Thani,Smart Furniture,Japandi,Social Media,Yes,No,Standard Purchase,1,0,32703.8,0,0,32703.8,16351.9,16351.9,4.7,Yes
+FA00878,2026-05-31,C0599,Office,Phuket,Dining,Scandinavian,AI App,No,Yes,Standard Purchase,1,0,25756.77,0,590,26346.77,10230.07,16116.7,4.2,Yes
+FA00985,2026-05-31,C0579,Office,Chiang Mai,Sofa,Modern Minimal,Website,No,No,Standard Purchase,1,0.1,18046.75,0,0,18046.75,7579.63,10467.12,4.8,No
+FA01004,2026-05-31,C0401,Homeowner,Chiang Mai,Workspace,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.05,17422.39,0,590,18012.39,8108.35,9904.04,4.9,No
+FA00006,2026-06-01,C0395,Homeowner,Samut Prakan,Workspace,Industrial,Marketplace,No,No,Standard Purchase,1,0.05,4779.27,0,250,5029.27,2290.38,2738.89,3.7,No
+FA00038,2026-06-01,C0245,Hotel/Cafe/Restaurant,Chiang Mai,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0,13042.44,0,390,13432.44,5900.75,7531.69,4.3,No
+FA00353,2026-06-01,C0187,Homeowner,Nonthaburi,Sofa,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,1,0.1,12154.74,0,0,12154.74,5104.99,7049.75,4.8,No
+FA01131,2026-06-01,C0405,Condo Resident,Samut Prakan,Decor,Scandinavian,AI App,Yes,No,AI Design Service,1,0,2245.71,299,590,3134.71,1586.22,1548.49,4.7,No
+FA01194,2026-06-01,C0430,Interior Designer,Nonthaburi,Bed,Japandi,Smart Showroom,Yes,No,AI Design Service,2,0,38546.41,499,0,39045.41,15528.34,23517.07,4.9,No
+FA00015,2026-06-02,C0316,Office,Chiang Mai,Bed,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.08,27782.66,0,0,27782.66,11113.06,16669.6,5,Yes
+FA00191,2026-06-02,C0342,Homeowner,Chiang Mai,Bed,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0,23372.39,0,390,23762.39,9641.46,14120.93,4.3,Yes
+FA00776,2026-06-02,C0098,Condo Resident,Pathum Thani,Decor,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0,2224.09,0,390,2614.09,1360.06,1254.03,4.3,No
+FA00028,2026-06-03,C0659,Office,Nakhon Ratchasima,Storage,Japandi,Smart Showroom,No,No,Standard Purchase,1,0,15199.61,0,590,15789.61,6978.33,8811.28,4.0,No
+FA00084,2026-06-03,C0129,Hotel/Cafe/Restaurant,Chonburi,Storage,Industrial,Marketplace,Yes,No,Standard Purchase,2,0.1,7697.44,0,0,7697.44,3309.9,4387.54,4.7,No
+FA00188,2026-06-03,C0151,Office,Bangkok,Dining,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0,22196.23,0,390,22586.23,8727.07,13859.16,4.5,No
+FA00669,2026-06-03,C0638,Interior Designer,Bangkok,Storage,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.1,12251.53,0,790,13041.53,5860.66,7180.87,4.6,No
+FA00884,2026-06-03,C0697,Homeowner,Chiang Mai,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0.08,28169.55,0,790,28959.55,12423.71,16535.84,4.9,Yes
+FA01179,2026-06-03,C0728,Homeowner,Chonburi,Smart Furniture,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.1,15192.09,0,790,15982.09,8188.55,7793.54,4.9,Yes
+FA00013,2026-06-04,C0243,Condo Resident,Samut Prakan,Bed,Scandinavian,Marketplace,Yes,No,Standard Purchase,1,0.05,29785.82,0,0,29785.82,11914.33,17871.49,4.2,No
+FA00325,2026-06-04,C0260,Homeowner,Nakhon Ratchasima,Workspace,Warm Modern,Marketplace,No,No,Standard Purchase,2,0,16379.17,0,0,16379.17,7206.83,9172.34,3.7,No
+FA00799,2026-06-04,C0267,Homeowner,Chiang Mai,Smart Furniture,Japandi,Marketplace,Yes,No,Standard Purchase,2,0.05,17044.89,0,390,17434.89,8814.94,8619.95,4.3,No
+FA00318,2026-06-05,C0606,Homeowner,Chiang Mai,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,2,0,23646.99,0,250,23896.99,10119.24,13777.75,4.8,No
+FA01117,2026-06-05,C0002,Homeowner,Bangkok,Decor,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,6735.51,0,790,7525.51,3825.54,3699.97,4.4,No
+FA00777,2026-06-06,C0649,Homeowner,Pathum Thani,Dining,Scandinavian,Website,Yes,No,Standard Purchase,2,0.05,32254.49,0,0,32254.49,12256.71,19997.78,5.0,No
+FA00076,2026-06-07,C0305,Hotel/Cafe/Restaurant,Bangkok,Sofa,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,2,0.05,82544.24,0,0,82544.24,34668.58,47875.66,4.6,No
+FA00243,2026-06-07,C0659,Office,Nakhon Ratchasima,Storage,Modern Minimal,Website,Yes,Yes,Standard Purchase,2,0,7623.7,0,250,7873.7,3465.69,4408.01,4.5,No
+FA00577,2026-06-07,C0587,Renovator,Chonburi,Smart Furniture,Warm Modern,Social Media,Yes,No,AI Design Service,1,0,19700.08,499,250,20449.08,10147.32,10301.76,4.8,No
+FA00691,2026-06-07,C0643,Hotel/Cafe/Restaurant,Pathum Thani,Decor,Warm Modern,Website,No,No,Standard Purchase,1,0,7098.94,0,0,7098.94,3407.49,3691.45,4.2,No
+FA00051,2026-06-08,C0767,Renovator,Chiang Mai,Dining,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.08,22232.49,0,0,22232.49,8448.35,13784.14,4.6,No
+FA00122,2026-06-08,C0593,Condo Resident,Nakhon Ratchasima,Bed,Scandinavian,Social Media,Yes,No,Custom Furniture,1,0.1,12135.73,990,0,13125.73,5072.09,8053.64,4.4,No
+FA00159,2026-06-08,C0673,Homeowner,Phuket,Workspace,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0.15,34669.55,0,0,34669.55,15254.6,19414.95,4.4,No
+FA00387,2026-06-08,C0776,Condo Resident,Nonthaburi,Smart Furniture,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,1,0,10042.7,0,250,10292.7,5208.85,5083.85,4.6,Yes
+FA00402,2026-06-08,C0424,Condo Resident,Phuket,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.05,13305.76,0,590,13895.76,6030.92,7864.84,4.2,Yes
+FA00457,2026-06-08,C0798,Homeowner,Chonburi,Smart Furniture,Warm Modern,AI App,Yes,No,Standard Purchase,2,0,41815.41,0,0,41815.41,20907.71,20907.7,4.6,No
+FA00634,2026-06-08,C0158,Office,Nonthaburi,Sofa,Modern Minimal,Social Media,No,Yes,Standard Purchase,2,0.05,31530.82,0,0,31530.82,13242.94,18287.88,4.0,Yes
+FA01166,2026-06-08,C0791,Interior Designer,Pathum Thani,Workspace,Japandi,Smart Showroom,No,No,Standard Purchase,2,0.05,43406.85,0,0,43406.85,19099.01,24307.84,4.7,No
+FA00125,2026-06-09,C0685,Interior Designer,Nonthaburi,Sofa,Industrial,Website,Yes,Yes,Standard Purchase,2,0,61460.42,0,0,61460.42,25813.38,35647.04,4.5,No
+FA00145,2026-06-09,C0356,Condo Resident,Nakhon Ratchasima,Sofa,Warm Modern,Smart Showroom,Yes,No,Custom Furniture,2,0.08,24545.08,1490,790,26825.08,11229.23,15595.85,4.7,No
+FA00459,2026-06-09,C0274,Homeowner,Nakhon Ratchasima,Storage,Japandi,Marketplace,Yes,No,AI Design Service,1,0.1,4620.1,299,250,5169.1,2239.92,2929.18,4.7,No
+FA00460,2026-06-09,C0178,Office,Samut Prakan,Smart Furniture,Modern Minimal,Social Media,No,No,Standard Purchase,1,0,18798.41,0,250,19048.41,9586.7,9461.71,3.9,No
+FA00631,2026-06-09,C0078,Condo Resident,Nakhon Ratchasima,Decor,Japandi,Website,Yes,No,Standard Purchase,2,0.05,11379.8,0,790,12169.8,6054.8,6115.0,4.3,No
+FA00818,2026-06-09,C0399,Renovator,Phuket,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,1,0,18363.0,0,0,18363.0,7712.46,10650.54,4.2,No
+FA01111,2026-06-09,C0042,Condo Resident,Bangkok,Decor,Japandi,Marketplace,Yes,No,Standard Purchase,2,0.1,7607.19,0,790,8397.19,4243.95,4153.24,3.9,No
+FA00179,2026-06-10,C0716,Interior Designer,Chiang Mai,Storage,Modern Minimal,AI App,Yes,Yes,AI Design Service,1,0.08,9871.77,299,250,10420.77,4498.14,5922.63,5,No
+FA00304,2026-06-11,C0019,Interior Designer,Chonburi,Storage,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0.1,15033.99,0,390,15423.99,6757.12,8666.87,4.4,Yes
+FA00455,2026-06-11,C0747,Condo Resident,Pathum Thani,Decor,Scandinavian,Social Media,Yes,No,AI Design Service,1,0.15,1205.14,299,250,1754.14,831.75,922.39,4.3,No
+FA00494,2026-06-11,C0463,Interior Designer,Chiang Mai,Dining,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.08,20583.17,0,0,20583.17,7821.6,12761.57,4.3,No
+FA00606,2026-06-11,C0741,Renovator,Nonthaburi,Dining,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0.1,23880.49,0,590,24470.49,9517.09,14953.4,4.7,No
+FA01053,2026-06-11,C0618,Condo Resident,Phuket,Bed,Scandinavian,Website,No,No,Custom Furniture,1,0.05,13939.07,1490,790,16219.07,6495.93,9723.14,4.5,Yes
+FA00201,2026-06-12,C0481,Condo Resident,Pathum Thani,Workspace,Japandi,Smart Showroom,Yes,No,AI Design Service,1,0.05,15089.75,1190,790,17069.75,7493.79,9575.96,4.3,No
+FA00233,2026-06-12,C0337,Homeowner,Samut Prakan,Bed,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0,14413.38,0,390,14803.38,6057.85,8745.53,4.7,No
+FA00694,2026-06-12,C0081,Interior Designer,Nonthaburi,Dining,Modern Minimal,Website,Yes,No,AI Design Service,2,0.1,28287.31,799,0,29086.31,10924.96,18161.35,4.2,Yes
+FA01026,2026-06-12,C0586,Hotel/Cafe/Restaurant,Bangkok,Dining,Scandinavian,Website,Yes,Yes,Standard Purchase,1,0,19059.55,0,790,19849.55,7835.13,12014.42,4.6,No
+FA01101,2026-06-12,C0707,Homeowner,Nakhon Ratchasima,Bed,Scandinavian,AI App,Yes,No,AI Design Service,1,0.1,17477.25,499,790,18766.25,7693.18,11073.07,4.2,Yes
+FA01174,2026-06-12,C0519,Homeowner,Pathum Thani,Smart Furniture,Modern Minimal,Smart Showroom,No,No,Standard Purchase,1,0.08,9625.05,0,250,9875.05,5000.02,4875.03,4.3,No
+FA00413,2026-06-13,C0673,Homeowner,Phuket,Smart Furniture,Japandi,AI App,Yes,No,Standard Purchase,1,0,22173.43,0,250,22423.43,11274.22,11149.21,4.2,No
+FA00619,2026-06-13,C0117,Office,Chiang Mai,Workspace,Industrial,Social Media,No,No,Standard Purchase,1,0,9594.11,0,250,9844.11,4408.91,5435.2,3.9,No
+FA00695,2026-06-13,C0446,Homeowner,Samut Prakan,Decor,Scandinavian,Website,Yes,No,Standard Purchase,2,0.05,12560.45,0,0,12560.45,6029.02,6531.43,4.6,No
+FA00108,2026-06-14,C0249,Condo Resident,Nonthaburi,Dining,Modern Minimal,Website,Yes,No,AI Design Service,1,0.05,18205.77,1190,390,19785.77,7472.49,12313.28,4.5,No
+FA00199,2026-06-14,C0070,Interior Designer,Nonthaburi,Storage,Modern Minimal,Website,No,No,Standard Purchase,1,0,12412.28,0,250,12662.28,5524.78,7137.5,4.4,No
+FA00215,2026-06-14,C0220,Homeowner,Nonthaburi,Bed,Scandinavian,Marketplace,No,Yes,Standard Purchase,1,0,11961.73,0,250,12211.73,4972.19,7239.54,3.9,No
+FA00349,2026-06-14,C0562,Renovator,Nakhon Ratchasima,Bed,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0,31059.67,299,0,31358.67,12489.65,18869.02,4.7,Yes
+FA00369,2026-06-14,C0182,Condo Resident,Pathum Thani,Smart Furniture,Industrial,Marketplace,No,Yes,Standard Purchase,1,0.05,8955.59,0,390,9345.59,4770.3,4575.29,4.3,No
+FA00629,2026-06-14,C0128,Condo Resident,Samut Prakan,Bed,Scandinavian,Marketplace,No,No,Standard Purchase,2,0.08,40373.91,0,0,40373.91,16149.56,24224.35,3.9,No
+FA01094,2026-06-14,C0317,Homeowner,Nakhon Ratchasima,Storage,Industrial,Smart Showroom,Yes,No,AI Design Service,1,0,11405.0,799,390,12594.0,5372.43,7221.57,4.1,No
+FA01125,2026-06-14,C0460,Office,Chonburi,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,2,0.05,51257.9,0,0,51257.9,21528.32,29729.58,4.2,No
+FA00260,2026-06-15,C0676,Homeowner,Chiang Mai,Bed,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0,26875.61,299,390,27564.61,11108.52,16456.09,4.2,No
+FA00378,2026-06-15,C0419,Renovator,Chonburi,Smart Furniture,Warm Modern,Website,Yes,No,AI Design Service,2,0.05,27432.49,799,250,28481.49,14079.53,14401.96,4.1,No
+FA00514,2026-06-15,C0275,Interior Designer,Samut Prakan,Storage,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0.08,38683.48,0,0,38683.48,16633.9,22049.58,4.4,No
+FA00528,2026-06-15,C0102,Renovator,Bangkok,Sofa,Industrial,Smart Showroom,Yes,No,AI Design Service,2,0,56795.26,1190,0,57985.26,24115.81,33869.45,4.4,No
+FA00627,2026-06-15,C0695,Condo Resident,Phuket,Sofa,Japandi,AI App,Yes,Yes,AI Design Service,1,0,9560.29,1190,790,11540.29,4869.62,6670.67,4.7,No
+FA00763,2026-06-15,C0785,Homeowner,Samut Prakan,Bed,Scandinavian,Social Media,Yes,No,AI Design Service,1,0.08,23700.1,299,0,23999.1,9545.82,14453.28,4.7,No
+FA00840,2026-06-15,C0517,Condo Resident,Samut Prakan,Dining,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0,20477.21,0,590,21067.21,8223.84,12843.37,4.3,No
+FA00934,2026-06-15,C0119,Condo Resident,Chonburi,Dining,Modern Minimal,Website,No,No,Standard Purchase,1,0.08,19543.49,0,790,20333.49,8019.03,12314.46,3.9,No
+FA01106,2026-06-15,C0241,Renovator,Chonburi,Decor,Modern Minimal,AI App,No,No,Custom Furniture,3,0.15,14299.47,990,0,15289.47,7081.55,8207.92,4.6,Yes
+FA00206,2026-06-16,C0795,Condo Resident,Chiang Mai,Sofa,Scandinavian,Social Media,Yes,No,AI Design Service,2,0,56279.39,1190,0,57469.39,23899.14,33570.25,4.6,No
+FA00450,2026-06-16,C0492,Office,Nakhon Ratchasima,Storage,Scandinavian,Website,No,No,Standard Purchase,2,0.05,18316.69,0,390,18706.69,8168.68,10538.01,4.3,No
+FA00967,2026-06-16,C0223,Homeowner,Phuket,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.1,13026.67,0,390,13416.67,5763.7,7652.97,4.7,No
+FA01141,2026-06-16,C0588,Interior Designer,Phuket,Storage,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.05,4029.74,0,590,4619.74,2175.29,2444.45,4.2,No
+FA00001,2026-06-17,C0063,Interior Designer,Nonthaburi,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.08,31004.08,0,0,31004.08,11781.55,19222.53,4.3,No
+FA00764,2026-06-17,C0667,Hotel/Cafe/Restaurant,Pathum Thani,Bed,Industrial,Social Media,No,Yes,Standard Purchase,1,0.1,39649.92,0,0,39649.92,15859.97,23789.95,3.8,No
+FA00793,2026-06-17,C0613,Condo Resident,Nonthaburi,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.08,25667.29,0,250,25917.29,10454.42,15462.87,4.8,No
+FA00918,2026-06-17,C0480,Condo Resident,Bangkok,Bed,Japandi,Website,Yes,Yes,AI Design Service,1,0.05,16772.48,1190,0,17962.48,6970.79,10991.69,4.5,No
+FA00163,2026-06-18,C0774,Condo Resident,Chonburi,Smart Furniture,Japandi,AI App,Yes,No,Standard Purchase,1,0.05,23782.03,0,590,24372.03,12333.51,12038.52,4.0,No
+FA00358,2026-06-18,C0686,Homeowner,Chiang Mai,Workspace,Industrial,AI App,No,Yes,Standard Purchase,1,0.05,10852.04,0,0,10852.04,4774.9,6077.14,4.7,No
+FA00963,2026-06-18,C0704,Homeowner,Chiang Mai,Dining,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0.05,13504.93,0,250,13754.93,5319.37,8435.56,4.7,No
+FA00407,2026-06-19,C0536,Homeowner,Bangkok,Sofa,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.08,26165.48,0,590,26755.48,11432.0,15323.48,4.9,No
+FA00610,2026-06-19,C0563,Renovator,Nakhon Ratchasima,Dining,Scandinavian,Website,Yes,No,Standard Purchase,1,0,28559.28,0,390,28949.28,11145.03,17804.25,4.4,No
+FA00708,2026-06-19,C0692,Office,Pathum Thani,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.1,4514.22,0,790,5304.22,2533.61,2770.61,3.7,Yes
+FA00717,2026-06-19,C0427,Condo Resident,Nakhon Ratchasima,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.1,5478.38,0,390,5868.38,2648.2,3220.18,4.4,Yes
+FA01016,2026-06-19,C0711,Office,Bangkok,Bed,Scandinavian,Social Media,No,No,Standard Purchase,1,0.05,28867.28,0,390,29257.28,11839.41,17417.87,4.4,No
+FA00185,2026-06-20,C0769,Hotel/Cafe/Restaurant,Phuket,Dining,Warm Modern,Smart Showroom,Yes,No,AI Design Service,1,0.08,17261.26,299,790,18350.26,7217.56,11132.7,4.4,No
+FA00309,2026-06-20,C0055,Condo Resident,Chonburi,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,24241.1,0,590,24831.1,10623.76,14207.34,4.8,No
+FA00355,2026-06-20,C0118,Renovator,Samut Prakan,Sofa,Japandi,Smart Showroom,Yes,Yes,AI Design Service,1,0,33119.3,799,0,33918.3,14085.89,19832.41,4.7,No
+FA00511,2026-06-20,C0692,Office,Pathum Thani,Bed,Industrial,AI App,Yes,Yes,Standard Purchase,1,0.1,40399.05,0,0,40399.05,16159.62,24239.43,4.8,Yes
+FA00617,2026-06-20,C0414,Interior Designer,Nakhon Ratchasima,Sofa,Scandinavian,Website,Yes,No,Standard Purchase,1,0.08,25486.94,0,250,25736.94,10892.01,14844.93,4.7,Yes
+FA01050,2026-06-20,C0221,Condo Resident,Pathum Thani,Smart Furniture,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,2,0.08,28788.27,0,250,29038.27,14581.64,14456.63,5.0,No
+FA01074,2026-06-20,C0083,Homeowner,Pathum Thani,Smart Furniture,Japandi,Social Media,Yes,No,Standard Purchase,2,0.05,20968.18,0,390,21358.18,10776.59,10581.59,4.8,No
+FA00788,2026-06-21,C0271,Homeowner,Phuket,Workspace,Modern Minimal,AI App,Yes,No,AI Design Service,1,0.1,14186.19,799,790,15775.19,7010.2,8764.99,4.2,Yes
+FA01071,2026-06-21,C0230,Condo Resident,Samut Prakan,Smart Furniture,Warm Modern,Marketplace,Yes,No,AI Design Service,1,0,13754.97,1190,790,15734.97,7731.78,8003.19,4.2,Yes
+FA00495,2026-06-22,C0511,Homeowner,Phuket,Sofa,Warm Modern,Social Media,Yes,No,AI Design Service,1,0.05,19879.25,1190,250,21319.25,8798.58,12520.67,4.4,No
+FA00705,2026-06-22,C0507,Homeowner,Samut Prakan,Decor,Scandinavian,Social Media,Yes,No,AI Design Service,2,0.15,10672.89,1190,590,12452.89,5827.29,6625.6,4.2,No
+FA00766,2026-06-22,C0366,Hotel/Cafe/Restaurant,Chonburi,Workspace,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,14704.78,0,0,14704.78,6470.1,8234.68,4.4,No
+FA00775,2026-06-22,C0566,Hotel/Cafe/Restaurant,Pathum Thani,Smart Furniture,Industrial,AI App,Yes,No,Standard Purchase,1,0.1,16499.43,0,590,17089.43,8692.22,8397.21,4.1,No
+FA00972,2026-06-22,C0017,Homeowner,Nakhon Ratchasima,Smart Furniture,Japandi,AI App,Yes,No,AI Design Service,1,0,25261.5,299,0,25560.5,12696.53,12863.97,4.3,No
+FA00521,2026-06-23,C0194,Condo Resident,Bangkok,Bed,Japandi,Marketplace,Yes,No,Standard Purchase,1,0.05,18778.05,0,390,19168.05,7803.72,11364.33,5.0,No
+FA00623,2026-06-23,C0480,Condo Resident,Bangkok,Bed,Scandinavian,Social Media,Yes,Yes,Custom Furniture,1,0.1,28578.76,990,0,29568.76,11649.3,17919.46,4.2,No
+FA00053,2026-06-24,C0208,Homeowner,Nakhon Ratchasima,Smart Furniture,Industrial,Social Media,No,No,Standard Purchase,1,0.05,18068.98,0,250,18318.98,9221.99,9096.99,3.9,No
+FA00213,2026-06-24,C0255,Homeowner,Phuket,Decor,Scandinavian,Marketplace,No,No,Standard Purchase,2,0.1,4793.48,0,390,5183.48,2593.37,2590.11,4.1,No
+FA00262,2026-06-24,C0131,Renovator,Chonburi,Sofa,Industrial,Marketplace,Yes,No,Standard Purchase,1,0,29270.76,0,390,29660.76,12586.22,17074.54,4.2,No
+FA00293,2026-06-24,C0343,Homeowner,Chonburi,Decor,Japandi,Website,Yes,Yes,AI Design Service,1,0.05,3677.41,799,590,5066.41,2383.44,2682.97,4.6,Yes
+FA00484,2026-06-24,C0432,Hotel/Cafe/Restaurant,Nonthaburi,Workspace,Scandinavian,Social Media,No,Yes,Standard Purchase,2,0.05,20646.04,0,390,21036.04,9376.76,11659.28,4.4,No
+FA01045,2026-06-24,C0285,Renovator,Chonburi,Decor,Scandinavian,Website,Yes,No,Standard Purchase,3,0,15199.7,0,590,15789.7,7738.36,8051.34,4.3,No
+FA00110,2026-06-25,C0527,Condo Resident,Nakhon Ratchasima,Decor,Industrial,AI App,Yes,No,Standard Purchase,1,0.05,3937.16,0,590,4527.16,2332.34,2194.82,4.0,Yes
+FA00111,2026-06-25,C0175,Condo Resident,Nonthaburi,Sofa,Warm Modern,Website,No,No,Standard Purchase,1,0.08,17623.38,0,390,18013.38,7694.32,10319.06,3.8,No
+FA00121,2026-06-25,C0200,Condo Resident,Chonburi,Smart Furniture,Scandinavian,Marketplace,No,Yes,Standard Purchase,1,0.05,15380.49,0,790,16170.49,8282.74,7887.75,4.2,Yes
+FA00143,2026-06-25,C0157,Condo Resident,Chonburi,Bed,Scandinavian,Social Media,No,No,Standard Purchase,1,0,21172.9,0,250,21422.9,8656.66,12766.24,4.2,No
+FA00305,2026-06-25,C0298,Condo Resident,Samut Prakan,Bed,Japandi,Smart Showroom,Yes,Yes,AI Design Service,1,0,31854.08,299,0,32153.08,12807.41,19345.67,4.6,No
+FA00566,2026-06-25,C0047,Renovator,Phuket,Storage,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0.05,8442.4,0,250,8692.4,3817.73,4874.67,4.5,No
+FA00599,2026-06-25,C0442,Interior Designer,Bangkok,Dining,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,2,0.08,52561.86,0,0,52561.86,19973.51,32588.35,4.6,No
+FA00907,2026-06-25,C0623,Condo Resident,Phuket,Smart Furniture,Warm Modern,AI App,Yes,No,AI Design Service,1,0.05,19377.0,799,790,20966.0,10456.78,10509.22,5.0,Yes
+FA01023,2026-06-25,C0791,Interior Designer,Pathum Thani,Storage,Japandi,Website,Yes,Yes,Standard Purchase,2,0.05,34920.11,0,0,34920.11,15015.65,19904.46,4.7,No
+FA00294,2026-06-26,C0380,Homeowner,Chiang Mai,Sofa,Modern Minimal,Smart Showroom,Yes,No,Custom Furniture,1,0,28187.16,990,250,29427.16,12243.91,17183.25,4.2,No
+FA00765,2026-06-26,C0290,Condo Resident,Samut Prakan,Smart Furniture,Japandi,Website,Yes,Yes,Custom Furniture,1,0,20593.03,1490,590,22673.03,11066.81,11606.22,4.2,No
+FA00969,2026-06-26,C0378,Condo Resident,Nakhon Ratchasima,Workspace,Industrial,AI App,No,Yes,Standard Purchase,1,0.1,12168.75,0,390,12558.75,5646.75,6912.0,4.1,Yes
+FA01041,2026-06-26,C0121,Hotel/Cafe/Restaurant,Pathum Thani,Storage,Japandi,Website,No,No,Custom Furniture,1,0.1,14145.07,590,390,15125.07,6504.68,8620.39,4.1,No
+FA00449,2026-06-27,C0691,Homeowner,Chiang Mai,Storage,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.05,10699.57,0,790,11489.57,5193.32,6296.25,4.5,No
+FA00831,2026-06-27,C0109,Homeowner,Samut Prakan,Sofa,Japandi,Marketplace,No,No,Standard Purchase,2,0.1,44230.87,0,0,44230.87,18576.97,25653.9,3.6,No
+FA00871,2026-06-27,C0559,Renovator,Samut Prakan,Workspace,Industrial,AI App,Yes,Yes,Standard Purchase,2,0.08,14599.87,0,390,14989.87,6716.44,8273.43,5,No
+FA00113,2026-06-28,C0176,Office,Bangkok,Bed,Industrial,Website,Yes,No,AI Design Service,1,0.05,25200.81,299,390,25889.81,10438.6,15451.21,4.3,No
+FA00224,2026-06-28,C0048,Condo Resident,Bangkok,Smart Furniture,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0,17459.94,0,790,18249.94,9322.47,8927.47,4.5,Yes
+FA00352,2026-06-28,C0509,Hotel/Cafe/Restaurant,Chiang Mai,Sofa,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,2,0,69830.12,0,0,69830.12,29328.65,40501.47,4.2,No
+FA00609,2026-06-28,C0572,Hotel/Cafe/Restaurant,Samut Prakan,Workspace,Industrial,Social Media,Yes,No,AI Design Service,2,0.05,33102.02,1190,0,34292.02,14826.69,19465.33,4.6,No
+FA00738,2026-06-28,C0711,Office,Bangkok,Dining,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.1,14085.94,0,790,14875.94,5945.16,8930.78,4.4,No
+FA00158,2026-06-29,C0685,Interior Designer,Nonthaburi,Decor,Japandi,AI App,Yes,No,Standard Purchase,1,0.08,4918.87,0,590,5508.87,2803.56,2705.31,4.4,No
+FA00465,2026-06-29,C0198,Condo Resident,Nakhon Ratchasima,Dining,Japandi,Website,No,No,Standard Purchase,1,0.05,13828.45,0,250,14078.45,5442.31,8636.14,4.1,No
+FA00503,2026-06-29,C0328,Condo Resident,Phuket,Dining,Modern Minimal,AI App,Yes,No,AI Design Service,1,0,12833.41,799,250,13882.41,5239.98,8642.43,4.5,No
+FA00605,2026-06-29,C0430,Interior Designer,Nonthaburi,Sofa,Industrial,AI App,Yes,Yes,Standard Purchase,2,0.08,73555.92,0,0,73555.92,30893.49,42662.43,5,No
+FA01087,2026-06-29,C0473,Homeowner,Pathum Thani,Storage,Warm Modern,Smart Showroom,Yes,No,AI Design Service,1,0,10144.38,299,790,11233.38,5020.36,6213.02,5.0,No
+FA01168,2026-06-29,C0624,Condo Resident,Bangkok,Workspace,Industrial,Website,No,No,Standard Purchase,2,0,33271.6,0,0,33271.6,14639.5,18632.1,4.4,No
+FA00036,2026-06-30,C0738,Office,Chiang Mai,Dining,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,16706.72,0,590,17296.72,6791.05,10505.67,4.1,No
+FA00300,2026-06-30,C0372,Condo Resident,Nonthaburi,Bed,Japandi,Smart Showroom,Yes,No,AI Design Service,1,0.05,15025.62,299,790,16114.62,6668.53,9446.09,4.5,No
+FA00080,2026-07-01,C0614,Office,Pathum Thani,Storage,Industrial,AI App,Yes,No,AI Design Service,1,0.1,9817.91,299,790,10906.91,4879.98,6026.93,4.5,No
+FA00320,2026-07-01,C0599,Office,Phuket,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,Custom Furniture,1,0.1,9965.11,1490,390,11845.11,5004.95,6840.16,4.3,No
+FA01038,2026-07-01,C0297,Condo Resident,Nonthaburi,Workspace,Scandinavian,Marketplace,No,Yes,Standard Purchase,1,0.05,10753.2,0,590,11343.2,5173.91,6169.29,4.5,No
+FA01069,2026-07-01,C0305,Hotel/Cafe/Restaurant,Bangkok,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0,19924.18,0,390,20314.18,8660.66,11653.52,4.4,No
+FA01186,2026-07-01,C0222,Condo Resident,Bangkok,Sofa,Warm Modern,Website,Yes,No,AI Design Service,2,0,35430.43,299,0,35729.43,14946.56,20782.87,4.7,No
+FA00679,2026-07-02,C0144,Homeowner,Samut Prakan,Decor,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,4629.61,0,390,5019.61,2514.71,2504.9,4.1,No
+FA00722,2026-07-02,C0012,Renovator,Phuket,Dining,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,19618.84,0,250,19868.84,7642.66,12226.18,5,No
+FA00841,2026-07-02,C0717,Homeowner,Nakhon Ratchasima,Storage,Warm Modern,AI App,Yes,No,Standard Purchase,2,0,16372.63,0,250,16622.63,7227.73,9394.9,4.4,No
+FA00865,2026-07-02,C0076,Homeowner,Phuket,Dining,Japandi,Website,No,No,Standard Purchase,2,0.1,13028.56,0,0,13028.56,4950.85,8077.71,4.0,No
+FA00454,2026-07-03,C0679,Condo Resident,Pathum Thani,Decor,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,3805.36,1190,0,4995.36,2088.37,2906.99,4.6,No
+FA00730,2026-07-03,C0232,Hotel/Cafe/Restaurant,Samut Prakan,Workspace,Japandi,Website,No,No,Standard Purchase,1,0,20442.65,0,250,20692.65,9182.27,11510.38,4.5,No
+FA00746,2026-07-03,C0745,Hotel/Cafe/Restaurant,Chiang Mai,Storage,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,2,0.15,36220.01,0,0,36220.01,15574.6,20645.41,4.7,No
+FA00855,2026-07-03,C0241,Renovator,Chonburi,Bed,Industrial,Marketplace,Yes,No,Standard Purchase,2,0,55748.98,0,0,55748.98,22299.59,33449.39,4.6,No
+FA00968,2026-07-03,C0617,Homeowner,Chonburi,Workspace,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.1,17306.78,0,790,18096.78,8207.48,9889.3,4.9,No
+FA00977,2026-07-03,C0643,Hotel/Cafe/Restaurant,Pathum Thani,Dining,Scandinavian,Marketplace,No,No,Standard Purchase,2,0,63120.66,0,0,63120.66,23985.85,39134.81,4.4,No
+FA01100,2026-07-03,C0259,Condo Resident,Nakhon Ratchasima,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,AI Design Service,1,0.05,14371.1,1190,590,16151.1,7027.58,9123.52,4.4,No
+FA00316,2026-07-04,C0504,Homeowner,Nakhon Ratchasima,Decor,Industrial,Website,Yes,No,AI Design Service,1,0.05,1443.36,499,250,2192.36,990.09,1202.27,4.3,Yes
+FA00523,2026-07-04,C0749,Homeowner,Nakhon Ratchasima,Dining,Japandi,Social Media,Yes,No,Standard Purchase,1,0.08,23219.56,0,790,24009.56,9415.93,14593.63,4.7,No
+FA00549,2026-07-04,C0300,Interior Designer,Chonburi,Bed,Warm Modern,Website,Yes,No,AI Design Service,2,0.05,44746.0,499,0,45245.0,18008.18,27236.82,4.2,No
+FA00612,2026-07-04,C0270,Homeowner,Bangkok,Workspace,Scandinavian,AI App,Yes,No,AI Design Service,2,0.08,29555.82,299,790,30644.82,13662.84,16981.98,4.7,No
+FA00651,2026-07-04,C0344,Homeowner,Samut Prakan,Sofa,Warm Modern,AI App,Yes,No,AI Design Service,1,0.1,17096.22,299,390,17785.22,7538.69,10246.53,4.4,No
+FA00311,2026-07-05,C0374,Renovator,Samut Prakan,Sofa,Modern Minimal,Social Media,Yes,No,Standard Purchase,2,0,27609.69,0,0,27609.69,11596.07,16013.62,3.9,No
+FA00575,2026-07-05,C0737,Office,Bangkok,Storage,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,4459.19,0,790,5249.19,2509.95,2739.24,5,No
+FA00635,2026-07-05,C0296,Homeowner,Nakhon Ratchasima,Dining,Warm Modern,Marketplace,No,No,Standard Purchase,1,0,6839.75,0,590,7429.75,3041.61,4388.14,4.4,No
+FA00807,2026-07-05,C0057,Renovator,Bangkok,Dining,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.08,22379.09,0,250,22629.09,8691.55,13937.54,4.2,Yes
+FA01039,2026-07-05,C0586,Hotel/Cafe/Restaurant,Bangkok,Bed,Modern Minimal,AI App,Yes,Yes,Custom Furniture,1,0.08,30461.09,990,0,31451.09,12402.24,19048.85,5,Yes
+FA01167,2026-07-05,C0369,Condo Resident,Chiang Mai,Decor,Scandinavian,Website,Yes,No,Standard Purchase,1,0,1800.96,0,590,2390.96,1306.96,1084.0,4.6,No
+FA00114,2026-07-06,C0487,Office,Samut Prakan,Sofa,Warm Modern,Marketplace,No,No,Standard Purchase,1,0,32230.06,0,0,32230.06,13536.63,18693.43,3.7,No
+FA00663,2026-07-06,C0195,Homeowner,Samut Prakan,Workspace,Warm Modern,Website,Yes,No,Standard Purchase,1,0,20174.88,0,0,20174.88,8876.95,11297.93,3.6,No
+FA00743,2026-07-06,C0421,Condo Resident,Nonthaburi,Sofa,Modern Minimal,AI App,Yes,No,Custom Furniture,2,0,18342.99,590,790,19722.99,8426.36,11296.63,4.8,No
+FA00055,2026-07-07,C0488,Condo Resident,Nakhon Ratchasima,Workspace,Industrial,Website,No,No,Standard Purchase,1,0.1,10799.45,0,590,11389.45,5194.26,6195.19,4.5,No
+FA00058,2026-07-07,C0532,Interior Designer,Samut Prakan,Workspace,Industrial,Social Media,Yes,Yes,Standard Purchase,1,0.05,13484.4,0,790,14274.4,6525.64,7748.76,5,No
+FA00483,2026-07-07,C0767,Renovator,Chiang Mai,Sofa,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0,15840.01,0,250,16090.01,6840.3,9249.71,4.9,No
+FA00506,2026-07-07,C0229,Homeowner,Chiang Mai,Workspace,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,6175.39,0,0,6175.39,2717.17,3458.22,4.3,Yes
+FA00545,2026-07-07,C0622,Office,Nakhon Ratchasima,Bed,Scandinavian,Website,Yes,No,Standard Purchase,1,0.1,11927.11,0,0,11927.11,4770.84,7156.27,4.7,No
+FA00589,2026-07-07,C0496,Homeowner,Phuket,Bed,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.05,11172.64,0,250,11422.64,4656.56,6766.08,4.3,No
+FA00670,2026-07-07,C0090,Homeowner,Nonthaburi,Workspace,Scandinavian,Website,Yes,Yes,Standard Purchase,1,0.05,13576.78,0,590,14166.78,6416.28,7750.5,4.2,Yes
+FA01148,2026-07-07,C0541,Hotel/Cafe/Restaurant,Chonburi,Storage,Industrial,Social Media,Yes,No,AI Design Service,1,0.05,13967.28,799,250,15016.28,6369.21,8647.07,4.7,Yes
+FA00048,2026-07-08,C0608,Condo Resident,Chiang Mai,Sofa,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,12863.84,0,250,13113.84,5590.31,7523.53,4.5,No
+FA00597,2026-07-08,C0033,Interior Designer,Chonburi,Decor,Industrial,Marketplace,No,No,Standard Purchase,2,0.05,9107.66,0,390,9497.66,4664.18,4833.48,4.4,No
+FA00955,2026-07-08,C0331,Interior Designer,Chonburi,Dining,Industrial,AI App,Yes,No,Standard Purchase,1,0.08,30456.7,0,0,30456.7,11573.55,18883.15,4.1,Yes
+FA00067,2026-07-09,C0602,Interior Designer,Nakhon Ratchasima,Workspace,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0,18051.25,0,590,18641.25,8385.05,10256.2,3.9,No
+FA00205,2026-07-09,C0029,Condo Resident,Chiang Mai,Sofa,Scandinavian,AI App,No,No,Standard Purchase,1,0.08,15316.51,0,590,15906.51,6875.43,9031.08,4.9,No
+FA00208,2026-07-09,C0524,Hotel/Cafe/Restaurant,Chonburi,Bed,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,2,0,68006.42,0,0,68006.42,27202.57,40803.85,4.2,No
+FA00423,2026-07-09,C0226,Office,Pathum Thani,Workspace,Industrial,Website,No,No,Standard Purchase,1,0,12402.97,0,590,12992.97,5899.81,7093.16,3.8,No
+FA00784,2026-07-09,C0300,Interior Designer,Chonburi,Decor,Industrial,Website,Yes,Yes,Standard Purchase,2,0.1,13231.48,0,790,14021.48,6943.61,7077.87,4.3,No
+FA00825,2026-07-09,C0374,Renovator,Samut Prakan,Decor,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0,5364.63,0,390,5754.63,2867.52,2887.11,4.4,No
+FA00919,2026-07-09,C0674,Office,Pathum Thani,Dining,Warm Modern,AI App,Yes,No,Standard Purchase,1,0,11329.63,0,250,11579.63,4492.76,7086.87,3.9,No
+FA00943,2026-07-09,C0417,Condo Resident,Samut Prakan,Workspace,Industrial,Marketplace,Yes,Yes,Standard Purchase,1,0,9123.7,0,590,9713.7,4456.93,5256.77,4.7,Yes
+FA01109,2026-07-09,C0266,Office,Nonthaburi,Workspace,Industrial,Social Media,Yes,No,Standard Purchase,1,0.1,19690.08,0,790,20480.08,9256.14,11223.94,4.7,No
+FA00082,2026-07-10,C0587,Renovator,Chonburi,Storage,Modern Minimal,Website,Yes,Yes,Standard Purchase,1,0.08,5042.74,0,590,5632.74,2610.88,3021.86,4.7,No
+FA00351,2026-07-10,C0775,Homeowner,Chiang Mai,Storage,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0.1,13483.2,0,590,14073.2,6240.28,7832.92,4.6,No
+FA00436,2026-07-10,C0476,Homeowner,Chiang Mai,Sofa,Japandi,Marketplace,Yes,No,AI Design Service,1,0.1,26747.49,499,590,27836.49,11786.23,16050.26,3.7,No
+FA00833,2026-07-10,C0208,Homeowner,Nakhon Ratchasima,Workspace,Modern Minimal,Website,No,No,Standard Purchase,1,0.08,6955.52,0,0,6955.52,3060.43,3895.09,4.3,No
+FA00842,2026-07-10,C0421,Condo Resident,Nonthaburi,Sofa,Modern Minimal,Website,No,Yes,Standard Purchase,2,0.08,16901.18,0,790,17691.18,7691.0,10000.18,4.4,No
+FA00853,2026-07-10,C0722,Homeowner,Nakhon Ratchasima,Bed,Scandinavian,Website,Yes,No,AI Design Service,2,0.1,39864.67,1190,0,41054.67,16207.67,24847.0,4.2,No
+FA00197,2026-07-11,C0561,Condo Resident,Pathum Thani,Dining,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,20422.2,0,790,21212.2,8352.94,12859.26,4.3,No
+FA00388,2026-07-11,C0274,Homeowner,Nakhon Ratchasima,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,AI Design Service,1,0.05,19583.91,499,390,20472.91,9019.2,11453.71,4.7,No
+FA00555,2026-07-11,C0158,Office,Nonthaburi,Decor,Japandi,Website,No,Yes,Standard Purchase,1,0.05,3420.52,0,590,4010.52,2084.35,1926.17,4.3,No
+FA00832,2026-07-11,C0039,Condo Resident,Chiang Mai,Decor,Modern Minimal,Marketplace,No,No,Standard Purchase,3,0.05,10857.46,0,590,11447.46,5654.08,5793.38,4.1,No
+FA01157,2026-07-11,C0015,Condo Resident,Bangkok,Workspace,Japandi,Marketplace,No,No,Standard Purchase,2,0.15,25974.91,0,0,25974.91,11428.96,14545.95,4.8,No
+FA00389,2026-07-12,C0075,Hotel/Cafe/Restaurant,Samut Prakan,Dining,Warm Modern,AI App,Yes,Yes,AI Design Service,2,0.1,31941.83,299,0,32240.83,12203.68,20037.15,4.8,No
+FA00810,2026-07-12,C0743,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Decor,Industrial,Website,Yes,No,Custom Furniture,3,0.05,8651.19,590,390,9631.19,4574.87,5056.32,4.4,No
+FA01078,2026-07-12,C0434,Interior Designer,Phuket,Dining,Industrial,Social Media,Yes,No,AI Design Service,1,0.05,11229.22,499,0,11728.22,4376.88,7351.34,4.9,No
+FA00029,2026-07-13,C0247,Renovator,Pathum Thani,Dining,Warm Modern,AI App,Yes,No,AI Design Service,1,0,23136.73,1190,790,25116.73,9646.26,15470.47,4.5,Yes
+FA00742,2026-07-13,C0076,Homeowner,Phuket,Workspace,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,15087.65,0,790,15877.65,7231.07,8646.58,4.8,No
+FA00846,2026-07-13,C0463,Interior Designer,Chiang Mai,Storage,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0,20161.05,0,250,20411.05,8856.75,11554.3,5,No
+FA00982,2026-07-13,C0675,Homeowner,Chiang Mai,Sofa,Warm Modern,Social Media,Yes,No,AI Design Service,1,0,11174.08,799,390,12363.08,5161.39,7201.69,4.5,No
+FA00533,2026-07-14,C0191,Condo Resident,Samut Prakan,Storage,Modern Minimal,Website,Yes,No,Standard Purchase,2,0.05,19531.08,0,250,19781.08,8585.86,11195.22,4.5,Yes
+FA00945,2026-07-14,C0400,Renovator,Pathum Thani,Bed,Warm Modern,Website,No,No,Standard Purchase,2,0,25959.61,0,0,25959.61,10383.84,15575.77,4.3,No
+FA00348,2026-07-15,C0055,Condo Resident,Chonburi,Storage,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0.05,5108.63,0,250,5358.63,2384.21,2974.42,4.9,No
+FA00367,2026-07-15,C0022,Homeowner,Chiang Mai,Bed,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.05,14361.3,0,590,14951.3,6187.02,8764.28,3.9,No
+FA00737,2026-07-15,C0033,Interior Designer,Chonburi,Dining,Scandinavian,Website,No,No,Standard Purchase,1,0.1,12963.35,0,390,13353.35,5218.57,8134.78,4.5,No
+FA00905,2026-07-16,C0548,Homeowner,Nakhon Ratchasima,Workspace,Scandinavian,Website,No,No,Standard Purchase,1,0,14628.86,0,790,15418.86,7029.2,8389.66,3.4,No
+FA01145,2026-07-16,C0327,Office,Phuket,Bed,Industrial,Website,Yes,Yes,Custom Furniture,2,0,48203.67,590,0,48793.67,19411.27,29382.4,4.6,No
+FA00220,2026-07-17,C0632,Homeowner,Nakhon Ratchasima,Storage,Japandi,AI App,No,Yes,Standard Purchase,1,0.15,4071.71,0,250,4321.71,1938.34,2383.37,4.3,No
+FA00354,2026-07-17,C0551,Homeowner,Pathum Thani,Sofa,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,1,0.08,20988.58,0,390,21378.58,9107.7,12270.88,4.1,No
+FA00088,2026-07-18,C0585,Homeowner,Nonthaburi,Bed,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,20928.77,0,0,20928.77,8371.51,12557.26,4.4,No
+FA00136,2026-07-18,C0660,Interior Designer,Phuket,Dining,Industrial,Marketplace,Yes,No,AI Design Service,1,0,31149.19,299,0,31448.19,11902.47,19545.72,4.0,No
+FA00291,2026-07-18,C0259,Condo Resident,Nakhon Ratchasima,Storage,Japandi,Website,Yes,No,Standard Purchase,1,0.05,11123.79,0,250,11373.79,4970.73,6403.06,4.6,No
+FA00452,2026-07-18,C0317,Homeowner,Nakhon Ratchasima,Dining,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,20106.59,0,390,20496.59,7933.0,12563.59,4.6,No
+FA00096,2026-07-19,C0645,Condo Resident,Pathum Thani,Storage,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0.08,13664.99,0,250,13914.99,6063.45,7851.54,4.9,No
+FA00480,2026-07-19,C0077,Condo Resident,Chiang Mai,Workspace,Japandi,AI App,Yes,No,Standard Purchase,1,0.05,7029.6,0,0,7029.6,3093.02,3936.58,4.2,No
+FA00659,2026-07-19,C0691,Homeowner,Chiang Mai,Workspace,Scandinavian,Smart Showroom,No,Yes,Custom Furniture,1,0.1,11787.05,990,250,13027.05,5591.6,7435.45,3.9,No
+FA00917,2026-07-19,C0463,Interior Designer,Chiang Mai,Dining,Scandinavian,Marketplace,No,No,Standard Purchase,2,0.05,54307.92,0,0,54307.92,20637.01,33670.91,3.9,No
+FA01163,2026-07-19,C0555,Renovator,Phuket,Smart Furniture,Warm Modern,Website,Yes,No,Standard Purchase,2,0.1,18420.39,0,250,18670.39,9397.69,9272.7,4.2,No
+FA00289,2026-07-20,C0084,Interior Designer,Pathum Thani,Sofa,Modern Minimal,Marketplace,No,No,Custom Furniture,1,0.05,16014.73,590,590,17194.73,7298.49,9896.24,4.1,Yes
+FA00422,2026-07-20,C0631,Hotel/Cafe/Restaurant,Samut Prakan,Sofa,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0,42662.54,0,0,42662.54,17918.27,24744.27,4.5,No
+FA00490,2026-07-20,C0652,Interior Designer,Bangkok,Dining,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0.05,28511.03,0,590,29101.03,11276.69,17824.34,4.2,No
+FA00924,2026-07-20,C0737,Office,Bangkok,Bed,Japandi,Website,No,No,Standard Purchase,1,0.05,28841.75,0,0,28841.75,11536.7,17305.05,4.5,Yes
+FA00127,2026-07-21,C0294,Hotel/Cafe/Restaurant,Pathum Thani,Dining,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0,54730.43,0,0,54730.43,20797.56,33932.87,4.7,No
+FA00189,2026-07-21,C0183,Homeowner,Phuket,Dining,Modern Minimal,Social Media,Yes,No,Standard Purchase,2,0.08,46074.53,0,0,46074.53,17508.32,28566.21,4.1,No
+FA00287,2026-07-21,C0718,Interior Designer,Pathum Thani,Bed,Modern Minimal,Website,Yes,Yes,AI Design Service,1,0.05,42039.33,1190,0,43229.33,17077.53,26151.8,4.6,No
+FA00552,2026-07-21,C0296,Homeowner,Nakhon Ratchasima,Smart Furniture,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0.05,15911.76,0,590,16501.76,8398.38,8103.38,4.4,Yes
+FA00725,2026-07-21,C0625,Renovator,Nakhon Ratchasima,Bed,Industrial,Marketplace,Yes,Yes,Custom Furniture,2,0,45726.93,990,0,46716.93,18508.57,28208.36,4.8,Yes
+FA00827,2026-07-21,C0498,Office,Samut Prakan,Storage,Industrial,Smart Showroom,Yes,No,Standard Purchase,1,0.05,17050.2,0,250,17300.2,7519.09,9781.11,4.4,No
+FA00994,2026-07-21,C0006,Office,Chiang Mai,Dining,Industrial,Marketplace,No,No,Standard Purchase,1,0.15,22130.97,0,390,22520.97,8702.27,13818.7,4.4,No
+FA01007,2026-07-21,C0424,Condo Resident,Phuket,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,2,0,37134.76,0,0,37134.76,15596.6,21538.16,4.4,Yes
+FA01197,2026-07-21,C0226,Office,Pathum Thani,Workspace,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.1,6700.45,0,250,6950.45,3135.7,3814.75,4.3,Yes
+FA00022,2026-07-22,C0477,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Storage,Industrial,Website,Yes,No,Standard Purchase,2,0.05,19400.01,0,0,19400.01,8342.0,11058.01,4.4,Yes
+FA00551,2026-07-22,C0006,Office,Chiang Mai,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,2,0.08,35342.82,0,0,35342.82,14843.98,20498.84,4.2,No
+FA00628,2026-07-22,C0155,Condo Resident,Nonthaburi,Workspace,Industrial,Website,Yes,No,AI Design Service,1,0,7500.5,799,250,8549.5,3663.5,4886.0,4.6,No
+FA00953,2026-07-22,C0341,Homeowner,Phuket,Decor,Warm Modern,Smart Showroom,No,No,Custom Furniture,2,0.1,8090.56,590,250,8930.56,4200.77,4729.79,4.7,No
+FA00042,2026-07-23,C0652,Interior Designer,Bangkok,Storage,Modern Minimal,Social Media,Yes,No,AI Design Service,2,0.05,14150.89,799,790,15739.89,6853.16,8886.73,4.3,No
+FA00419,2026-07-23,C0487,Office,Samut Prakan,Storage,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0,5830.7,0,250,6080.7,2694.7,3386.0,4.3,No
+FA00728,2026-07-23,C0400,Renovator,Pathum Thani,Decor,Scandinavian,Marketplace,No,No,Standard Purchase,2,0.05,7238.36,0,790,8028.36,4066.91,3961.45,3.8,No
+FA01154,2026-07-23,C0263,Condo Resident,Samut Prakan,Workspace,Scandinavian,Website,No,No,Standard Purchase,2,0.08,14155.5,0,390,14545.5,6520.92,8024.58,4.1,No
+FA00033,2026-07-24,C0517,Condo Resident,Samut Prakan,Storage,Industrial,Social Media,Yes,Yes,AI Design Service,1,0.1,11063.49,1190,250,12503.49,5206.6,7296.89,4.9,No
+FA00347,2026-07-24,C0229,Homeowner,Chiang Mai,Decor,Modern Minimal,Marketplace,Yes,No,AI Design Service,3,0,14922.7,1190,790,16902.7,8017.2,8885.5,5.0,No
+FA00546,2026-07-24,C0545,Hotel/Cafe/Restaurant,Samut Prakan,Dining,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0,36386.16,0,0,36386.16,13826.74,22559.42,4.4,No
+FA00912,2026-07-24,C0080,Interior Designer,Samut Prakan,Dining,Industrial,Website,Yes,Yes,Standard Purchase,1,0.05,10421.81,0,590,11011.81,4402.79,6609.02,4.7,No
+FA00012,2026-07-25,C0108,Homeowner,Chiang Mai,Dining,Warm Modern,AI App,Yes,Yes,AI Design Service,1,0.05,6874.23,799,0,7673.23,2787.99,4885.24,4.5,No
+FA00034,2026-07-25,C0016,Condo Resident,Nonthaburi,Smart Furniture,Industrial,AI App,Yes,No,AI Design Service,1,0.05,17880.38,799,0,18679.38,9115.97,9563.41,4.8,No
+FA00548,2026-07-25,C0735,Homeowner,Phuket,Workspace,Scandinavian,AI App,Yes,Yes,Standard Purchase,2,0.1,29296.42,0,250,29546.42,13077.92,16468.5,4.1,Yes
+FA00607,2026-07-25,C0654,Condo Resident,Nonthaburi,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0.05,24518.21,0,250,24768.21,10485.15,14283.06,4.4,No
+FA00666,2026-07-25,C0022,Homeowner,Chiang Mai,Sofa,Warm Modern,Social Media,Yes,Yes,AI Design Service,1,0,21658.32,799,390,22847.32,9564.77,13282.55,5,Yes
+FA00756,2026-07-25,C0730,Renovator,Phuket,Smart Furniture,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0,10612.17,0,790,11402.17,5898.59,5503.58,4.6,No
+FA00920,2026-07-25,C0213,Condo Resident,Bangkok,Storage,Industrial,Website,Yes,No,Standard Purchase,1,0.15,7393.51,0,0,7393.51,3179.21,4214.3,4.4,No
+FA01090,2026-07-25,C0367,Interior Designer,Chonburi,Bed,Japandi,AI App,Yes,Yes,Standard Purchase,2,0.1,52700.52,0,0,52700.52,21080.21,31620.31,4.2,No
+FA00616,2026-07-26,C0434,Interior Designer,Phuket,Storage,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,13571.08,799,390,14760.08,6303.84,8456.24,4.5,Yes
+FA00626,2026-07-26,C0320,Homeowner,Phuket,Sofa,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,1,0.1,26083.58,0,250,26333.58,11142.6,15190.98,4.6,No
+FA00657,2026-07-26,C0377,Office,Chonburi,Sofa,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.05,18991.18,0,790,19781.18,8568.8,11212.38,3.7,No
+FA01060,2026-07-26,C0013,Condo Resident,Samut Prakan,Workspace,Industrial,Website,No,Yes,Custom Furniture,1,0.05,16094.72,590,590,17274.72,7653.98,9620.74,4.0,No
+FA01136,2026-07-26,C0452,Homeowner,Chonburi,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,2,0,38449.71,0,0,38449.71,16148.88,22300.83,4.7,No
+FA01151,2026-07-26,C0029,Condo Resident,Chiang Mai,Sofa,Scandinavian,Smart Showroom,Yes,Yes,AI Design Service,1,0.15,9423.8,799,790,11012.8,4726.28,6286.52,4.9,No
+FA00086,2026-07-27,C0140,Condo Resident,Pathum Thani,Dining,Scandinavian,Marketplace,Yes,No,Standard Purchase,2,0,17017.27,0,250,17267.27,6654.06,10613.21,4.4,No
+FA00141,2026-07-27,C0703,Condo Resident,Nonthaburi,Workspace,Japandi,Social Media,No,No,Standard Purchase,1,0.05,4639.26,0,390,5029.26,2333.77,2695.49,3.9,No
+FA00285,2026-07-27,C0181,Condo Resident,Nakhon Ratchasima,Bed,Japandi,Social Media,No,No,Standard Purchase,2,0.05,53304.92,0,0,53304.92,21321.97,31982.95,4.2,No
+FA00451,2026-07-27,C0535,Homeowner,Bangkok,Bed,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.1,16943.81,0,590,17533.81,7220.02,10313.79,4.7,No
+FA00847,2026-07-27,C0638,Interior Designer,Bangkok,Sofa,Warm Modern,AI App,Yes,No,AI Design Service,2,0,48755.7,499,0,49254.7,20587.17,28667.53,5,No
+FA00992,2026-07-27,C0228,Homeowner,Nakhon Ratchasima,Bed,Warm Modern,Website,Yes,No,Standard Purchase,1,0.1,18439.11,0,590,19029.11,7818.14,11210.97,4.9,No
+FA01062,2026-07-27,C0226,Office,Pathum Thani,Storage,Scandinavian,AI App,No,Yes,Standard Purchase,1,0.05,7186.85,0,0,7186.85,3090.35,4096.5,4.6,Yes
+FA00153,2026-07-28,C0562,Renovator,Nakhon Ratchasima,Sofa,Modern Minimal,Website,No,No,Standard Purchase,1,0,30900.96,0,0,30900.96,12978.4,17922.56,4.1,No
+FA00467,2026-07-28,C0334,Condo Resident,Chiang Mai,Bed,Japandi,Social Media,No,No,Standard Purchase,1,0.05,19028.44,0,250,19278.44,7798.88,11479.56,4.2,No
+FA00493,2026-07-28,C0094,Renovator,Bangkok,Dining,Warm Modern,Website,Yes,No,AI Design Service,1,0.08,10433.15,799,590,11822.15,4582.88,7239.27,4.4,No
+FA00816,2026-07-28,C0608,Condo Resident,Chiang Mai,Sofa,Modern Minimal,Marketplace,No,No,Standard Purchase,1,0.15,15863.39,0,790,16653.39,7255.12,9398.27,4.0,No
+FA00868,2026-07-28,C0580,Renovator,Phuket,Decor,Industrial,Marketplace,Yes,No,Standard Purchase,1,0,5027.06,0,390,5417.06,2705.49,2711.57,4.5,Yes
+FA00966,2026-07-28,C0750,Condo Resident,Nakhon Ratchasima,Decor,Japandi,Marketplace,Yes,No,AI Design Service,1,0,4509.48,299,590,5398.48,2672.83,2725.65,4.3,Yes
+FA01159,2026-07-28,C0400,Renovator,Pathum Thani,Sofa,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.05,12427.67,0,590,13017.67,5662.12,7355.55,4.9,No
+FA00119,2026-07-29,C0792,Interior Designer,Pathum Thani,Workspace,Modern Minimal,Social Media,No,No,Standard Purchase,2,0.08,38578.93,0,0,38578.93,16974.73,21604.2,3.8,Yes
+FA00140,2026-07-29,C0498,Office,Samut Prakan,Bed,Industrial,Website,Yes,No,AI Design Service,1,0.08,35190.6,799,0,35989.6,14252.02,21737.58,4.0,No
+FA00256,2026-07-29,C0101,Office,Samut Prakan,Smart Furniture,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0.1,22033.31,0,390,22423.31,11309.16,11114.15,4.4,No
+FA00780,2026-07-29,C0471,Condo Resident,Nonthaburi,Workspace,Scandinavian,Social Media,No,No,Standard Purchase,1,0.05,6389.83,0,790,7179.83,3404.03,3775.8,4.3,No
+FA01137,2026-07-29,C0369,Condo Resident,Chiang Mai,Decor,Industrial,Website,No,No,Standard Purchase,2,0.1,2555.58,0,250,2805.58,1414.18,1391.4,4.1,No
+FA00004,2026-07-30,C0328,Condo Resident,Phuket,Workspace,Modern Minimal,Social Media,No,Yes,Standard Purchase,2,0.15,7914.82,0,250,8164.82,3670.02,4494.8,4.3,No
+FA00370,2026-07-30,C0037,Hotel/Cafe/Restaurant,Chiang Mai,Smart Furniture,Industrial,Website,Yes,No,Standard Purchase,1,0,22045.49,0,250,22295.49,11210.25,11085.24,4.4,No
+FA00625,2026-07-30,C0797,Homeowner,Pathum Thani,Workspace,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.05,13695.7,0,590,14285.7,6468.61,7817.09,4.7,Yes
+FA00697,2026-07-30,C0632,Homeowner,Nakhon Ratchasima,Sofa,Japandi,Website,Yes,No,Standard Purchase,1,0.05,25660.06,0,790,26450.06,11369.73,15080.33,5,No
+FA01178,2026-07-30,C0078,Condo Resident,Nakhon Ratchasima,Workspace,Industrial,AI App,Yes,Yes,AI Design Service,1,0.05,13477.75,499,590,14566.75,6482.49,8084.26,4.4,No
+FA00372,2026-07-31,C0404,Office,Bangkok,Sofa,Scandinavian,Smart Showroom,Yes,No,AI Design Service,2,0.08,42213.95,799,0,43012.95,17905.64,25107.31,4.7,No
+FA00772,2026-07-31,C0253,Condo Resident,Nonthaburi,Decor,Scandinavian,Social Media,No,No,Standard Purchase,2,0.08,7491.0,0,390,7881.0,3888.18,3992.82,4.2,No
+FA01024,2026-07-31,C0446,Homeowner,Samut Prakan,Dining,Scandinavian,AI App,Yes,Yes,AI Design Service,1,0,8106.55,299,590,8995.55,3588.77,5406.78,4.8,No
+FA00068,2026-08-01,C0495,Homeowner,Pathum Thani,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.1,9757.54,0,250,10007.54,4285.67,5721.87,3.8,Yes
+FA00410,2026-08-01,C0565,Interior Designer,Pathum Thani,Workspace,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,20048.26,0,390,20438.26,9113.73,11324.53,4.5,No
+FA00988,2026-08-01,C0242,Interior Designer,Nakhon Ratchasima,Decor,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0,4653.77,0,790,5443.77,2826.31,2617.46,4.5,No
+FA01147,2026-08-01,C0165,Condo Resident,Pathum Thani,Workspace,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,10193.29,0,590,10783.29,4927.55,5855.74,4.6,Yes
+FA00144,2026-08-02,C0740,Condo Resident,Pathum Thani,Storage,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,13363.07,0,790,14153.07,6338.62,7814.45,4.9,No
+FA00181,2026-08-02,C0618,Condo Resident,Phuket,Decor,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,2,0,7948.85,0,390,8338.85,4107.95,4230.9,5.0,No
+FA00204,2026-08-02,C0376,Renovator,Samut Prakan,Dining,Scandinavian,Website,No,No,Standard Purchase,1,0.08,21516.77,0,790,22306.77,8768.87,13537.9,4.0,No
+FA00753,2026-08-02,C0053,Homeowner,Samut Prakan,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,2,0.1,19117.13,0,790,19907.13,8239.35,11667.78,4.2,No
+FA00761,2026-08-02,C0520,Condo Resident,Chiang Mai,Decor,Modern Minimal,Website,Yes,No,Custom Furniture,2,0.1,6041.68,990,790,7821.68,3710.31,4111.37,4.6,Yes
+FA00875,2026-08-02,C0014,Hotel/Cafe/Restaurant,Bangkok,Smart Furniture,Modern Minimal,Social Media,Yes,Yes,Standard Purchase,1,0,39828.56,0,0,39828.56,19914.28,19914.28,5.0,No
+FA01040,2026-08-02,C0588,Interior Designer,Phuket,Sofa,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,20289.12,0,590,20879.12,8963.93,11915.19,5,No
+FA00518,2026-08-03,C0338,Renovator,Chonburi,Bed,Modern Minimal,Website,No,No,Standard Purchase,2,0.1,26982.77,0,0,26982.77,10793.11,16189.66,3.9,No
+FA00598,2026-08-03,C0343,Homeowner,Chonburi,Storage,Japandi,AI App,Yes,No,AI Design Service,1,0.1,4623.1,799,0,5422.1,2163.71,3258.39,4.2,No
+FA00662,2026-08-03,C0423,Interior Designer,Samut Prakan,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.08,23553.82,0,250,23803.82,10080.1,13723.72,4.0,No
+FA01018,2026-08-03,C0183,Homeowner,Phuket,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0,25094.7,0,0,25094.7,10539.77,14554.93,3.8,No
+FA00066,2026-08-04,C0087,Condo Resident,Chonburi,Sofa,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0.05,9336.48,0,790,10126.48,4513.82,5612.66,4.1,No
+FA00095,2026-08-04,C0132,Homeowner,Chonburi,Dining,Modern Minimal,Website,No,No,Standard Purchase,1,0,7267.42,0,390,7657.42,3054.12,4603.3,4.2,No
+FA00156,2026-08-04,C0213,Condo Resident,Bangkok,Bed,Scandinavian,AI App,Yes,No,AI Design Service,1,0.1,20295.96,499,250,21044.96,8415.66,12629.3,4.1,Yes
+FA00307,2026-08-04,C0610,Homeowner,Pathum Thani,Workspace,Industrial,Website,Yes,No,AI Design Service,1,0,12002.85,1190,390,13582.85,5835.55,7747.3,4.6,No
+FA00704,2026-08-04,C0517,Condo Resident,Samut Prakan,Bed,Scandinavian,Marketplace,Yes,Yes,AI Design Service,1,0.05,23505.34,499,790,24794.34,10104.42,14689.92,5,No
+FA00739,2026-08-04,C0638,Interior Designer,Bangkok,Bed,Warm Modern,AI App,Yes,Yes,Custom Furniture,1,0,27528.52,990,0,28518.52,11229.21,17289.31,4.9,Yes
+FA00755,2026-08-04,C0649,Homeowner,Pathum Thani,Sofa,Modern Minimal,Marketplace,Yes,Yes,Standard Purchase,2,0.05,48980.59,0,0,48980.59,20571.85,28408.74,4.7,No
+FA00786,2026-08-04,C0074,Condo Resident,Nonthaburi,Smart Furniture,Scandinavian,AI App,No,No,Standard Purchase,2,0.05,23712.74,0,250,23962.74,12043.87,11918.87,4.2,No
+FA01049,2026-08-04,C0297,Condo Resident,Nonthaburi,Bed,Modern Minimal,Website,Yes,Yes,Standard Purchase,1,0.08,21519.61,0,390,21909.61,8900.34,13009.27,4.7,Yes
+FA00404,2026-08-05,C0270,Homeowner,Bangkok,Sofa,Japandi,Website,Yes,Yes,Standard Purchase,1,0,17701.83,0,590,18291.83,7877.27,10414.56,5.0,Yes
+FA00881,2026-08-05,C0582,Condo Resident,Chonburi,Bed,Scandinavian,Website,No,No,Custom Furniture,2,0.05,36570.74,990,0,37560.74,14846.1,22714.64,4.3,No
+FA01021,2026-08-05,C0249,Condo Resident,Nonthaburi,Sofa,Warm Modern,Website,No,No,Standard Purchase,1,0.05,15457.65,0,390,15847.65,6784.71,9062.94,4.3,No
+FA01032,2026-08-05,C0182,Condo Resident,Pathum Thani,Dining,Warm Modern,AI App,Yes,No,Standard Purchase,1,0,9375.28,0,0,9375.28,3562.61,5812.67,4.5,No
+FA01054,2026-08-05,C0356,Condo Resident,Nakhon Ratchasima,Dining,Scandinavian,Social Media,Yes,Yes,Standard Purchase,1,0.08,7090.06,0,390,7480.06,2986.72,4493.34,4.6,No
+FA00222,2026-08-06,C0024,Interior Designer,Samut Prakan,Workspace,Scandinavian,Website,Yes,No,AI Design Service,2,0,55376.67,799,0,56175.67,24541.51,31634.16,3.8,No
+FA00228,2026-08-06,C0626,Interior Designer,Bangkok,Workspace,Warm Modern,Smart Showroom,Yes,No,AI Design Service,2,0,24822.66,299,590,25711.66,11430.25,14281.41,4.3,No
+FA00614,2026-08-06,C0566,Hotel/Cafe/Restaurant,Pathum Thani,Smart Furniture,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.08,23757.75,0,590,24347.75,12321.38,12026.37,4.8,No
+FA00991,2026-08-06,C0688,Interior Designer,Samut Prakan,Storage,Scandinavian,Social Media,Yes,No,AI Design Service,1,0.05,9925.19,799,250,10974.19,4631.11,6343.08,4.4,No
+FA01019,2026-08-06,C0754,Condo Resident,Nakhon Ratchasima,Sofa,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0,23090.04,0,250,23340.04,9885.32,13454.72,4.6,No
+FA01164,2026-08-06,C0700,Homeowner,Samut Prakan,Dining,Japandi,Website,Yes,Yes,Standard Purchase,1,0,12261.84,0,250,12511.84,4847.0,7664.84,4.8,No
+FA00094,2026-08-07,C0496,Homeowner,Phuket,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,2,0.08,37267.58,0,0,37267.58,15652.38,21615.2,4.4,No
+FA00322,2026-08-07,C0576,Renovator,Nakhon Ratchasima,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.05,13652.23,0,590,14242.23,6176.44,8065.79,4.4,No
+FA00508,2026-08-07,C0725,Office,Nakhon Ratchasima,Dining,Scandinavian,Social Media,No,Yes,Standard Purchase,1,0.05,25871.7,0,250,26121.7,10018.75,16102.95,4.3,No
+FA00520,2026-08-07,C0298,Condo Resident,Samut Prakan,Bed,Modern Minimal,Marketplace,Yes,Yes,Standard Purchase,1,0.1,14676.0,0,0,14676.0,5870.4,8805.6,4.3,No
+FA00525,2026-08-07,C0568,Condo Resident,Chiang Mai,Sofa,Japandi,AI App,No,No,Standard Purchase,2,0,34831.35,0,0,34831.35,14629.17,20202.18,4.5,No
+FA00557,2026-08-07,C0752,Homeowner,Nonthaburi,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,2,0,38378.6,0,0,38378.6,16119.01,22259.59,4.6,No
+FA00561,2026-08-07,C0766,Condo Resident,Nonthaburi,Bed,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0,26694.15,0,0,26694.15,10677.66,16016.49,4.4,Yes
+FA00711,2026-08-07,C0098,Condo Resident,Pathum Thani,Bed,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.1,9331.47,0,250,9581.47,3920.09,5661.38,4.6,No
+FA01043,2026-08-07,C0180,Condo Resident,Phuket,Workspace,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.08,12560.93,0,0,12560.93,5526.81,7034.12,4.8,No
+FA00700,2026-08-08,C0800,Homeowner,Nonthaburi,Sofa,Japandi,Marketplace,No,Yes,Standard Purchase,1,0.05,23391.39,0,390,23781.39,10116.88,13664.51,3.7,No
+FA00710,2026-08-08,C0746,Interior Designer,Bangkok,Decor,Japandi,Marketplace,Yes,No,Standard Purchase,2,0.1,10599.49,0,390,10989.49,5380.26,5609.23,4.7,No
+FA00995,2026-08-08,C0290,Condo Resident,Samut Prakan,Workspace,Modern Minimal,Social Media,Yes,Yes,AI Design Service,1,0.05,5118.38,299,250,5667.38,2505.37,3162.01,4.2,No
+FA01182,2026-08-08,C0016,Condo Resident,Nonthaburi,Bed,Scandinavian,Website,Yes,No,Standard Purchase,2,0,27279.58,0,0,27279.58,10911.83,16367.75,4.7,No
+FA00065,2026-08-09,C0448,Condo Resident,Nakhon Ratchasima,Bed,Modern Minimal,Social Media,No,No,Standard Purchase,2,0.05,51735.37,0,0,51735.37,20694.15,31041.22,4.0,No
+FA00134,2026-08-09,C0748,Homeowner,Nonthaburi,Workspace,Japandi,AI App,Yes,No,Standard Purchase,1,0.15,15006.72,0,590,15596.72,7045.46,8551.26,4.4,No
+FA00375,2026-08-09,C0658,Homeowner,Nakhon Ratchasima,Sofa,Japandi,Marketplace,No,No,Standard Purchase,2,0,54271.71,0,0,54271.71,22794.12,31477.59,3.8,No
+FA00412,2026-08-09,C0414,Interior Designer,Nakhon Ratchasima,Sofa,Industrial,AI App,Yes,No,Standard Purchase,1,0.08,15085.28,0,250,15335.28,6523.32,8811.96,4.2,Yes
+FA00622,2026-08-09,C0761,Homeowner,Nonthaburi,Smart Furniture,Industrial,Marketplace,Yes,Yes,AI Design Service,2,0,52731.8,1190,0,53921.8,26627.7,27294.1,4.4,No
+FA00696,2026-08-09,C0302,Homeowner,Samut Prakan,Dining,Japandi,Website,No,No,Standard Purchase,1,0,21236.58,0,0,21236.58,8069.9,13166.68,4.1,No
+FA00854,2026-08-09,C0473,Homeowner,Pathum Thani,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0.08,12415.79,0,0,12415.79,5214.63,7201.16,4.1,No
+FA01095,2026-08-09,C0048,Condo Resident,Bangkok,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,16365.69,0,590,16955.69,7316.09,9639.6,4.0,Yes
+FA00245,2026-08-10,C0684,Condo Resident,Nakhon Ratchasima,Bed,Modern Minimal,Smart Showroom,No,No,Standard Purchase,1,0.1,25608.69,0,250,25858.69,10430.98,15427.71,4.0,Yes
+FA00342,2026-08-10,C0465,Office,Chiang Mai,Sofa,Scandinavian,AI App,Yes,No,Standard Purchase,1,0,37188.64,0,0,37188.64,15619.23,21569.41,4.7,No
+FA00537,2026-08-10,C0734,Homeowner,Phuket,Dining,Scandinavian,Website,Yes,No,AI Design Service,1,0.08,16610.98,799,390,17799.98,6780.45,11019.53,4.3,No
+FA00428,2026-08-11,C0140,Condo Resident,Pathum Thani,Decor,Japandi,Social Media,No,No,Standard Purchase,1,0,5208.63,0,250,5458.63,2687.64,2770.99,4.1,No
+FA00489,2026-08-11,C0210,Condo Resident,Pathum Thani,Decor,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0.1,4816.73,299,790,5905.73,2970.31,2935.42,3.8,No
+FA00668,2026-08-11,C0741,Renovator,Nonthaburi,Storage,Industrial,Marketplace,Yes,No,AI Design Service,2,0.05,23534.56,799,390,24723.56,10588.14,14135.42,5.0,No
+FA00732,2026-08-11,C0072,Interior Designer,Chonburi,Bed,Scandinavian,Website,Yes,No,Standard Purchase,1,0,47382.68,0,0,47382.68,18953.07,28429.61,4.7,No
+FA01082,2026-08-11,C0737,Office,Bangkok,Sofa,Japandi,Website,Yes,No,Standard Purchase,2,0.08,71071.3,0,0,71071.3,29849.95,41221.35,3.9,Yes
+FA00824,2026-08-12,C0588,Interior Designer,Phuket,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,Custom Furniture,2,0.05,32598.66,990,0,33588.66,14561.21,19027.45,4.7,Yes
+FA00930,2026-08-12,C0710,Homeowner,Pathum Thani,Dining,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,1,0.1,14761.92,0,590,15351.92,6052.03,9299.89,4.7,No
+FA01120,2026-08-12,C0350,Condo Resident,Chiang Mai,Sofa,Warm Modern,AI App,Yes,No,AI Design Service,1,0,12216.67,799,790,13805.67,5899.28,7906.39,4.7,No
+FA00229,2026-08-13,C0485,Condo Resident,Chonburi,Workspace,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0,7263.5,499,790,8552.5,3898.22,4654.28,4.7,No
+FA00823,2026-08-13,C0387,Renovator,Chonburi,Smart Furniture,Modern Minimal,Website,Yes,No,Custom Furniture,2,0.05,17573.34,590,590,18753.34,9358.97,9394.37,4.4,No
+FA00856,2026-08-13,C0610,Homeowner,Pathum Thani,Dining,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,22288.6,0,0,22288.6,8469.67,13818.93,3.8,No
+FA00880,2026-08-13,C0677,Interior Designer,Bangkok,Workspace,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.05,22141.24,0,790,22931.24,10334.65,12596.59,4.4,No
+FA00886,2026-08-13,C0346,Homeowner,Phuket,Storage,Modern Minimal,AI App,Yes,No,Standard Purchase,1,0,7143.12,0,390,7533.12,3364.04,4169.08,4.2,No
+FA01065,2026-08-13,C0105,Hotel/Cafe/Restaurant,Chonburi,Bed,Industrial,Website,Yes,Yes,AI Design Service,1,0.1,34980.26,799,0,35779.26,14167.88,21611.38,4.6,No
+FA00016,2026-08-14,C0197,Condo Resident,Pathum Thani,Decor,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0,5112.88,0,390,5502.88,2746.68,2756.2,4.3,Yes
+FA00123,2026-08-14,C0163,Renovator,Nonthaburi,Dining,Industrial,Social Media,No,No,Standard Purchase,1,0,26267.41,0,590,26857.41,10424.12,16433.29,3.2,No
+FA00198,2026-08-14,C0656,Homeowner,Chonburi,Bed,Japandi,Social Media,Yes,Yes,AI Design Service,1,0,10008.12,499,390,10897.12,4405.53,6491.59,4.4,No
+FA00672,2026-08-14,C0192,Condo Resident,Phuket,Workspace,Scandinavian,Website,Yes,No,Standard Purchase,1,0,10220.27,0,790,11010.27,5089.42,5920.85,4.4,No
+FA00904,2026-08-14,C0652,Interior Designer,Bangkok,Workspace,Industrial,Website,Yes,Yes,Standard Purchase,1,0,18779.9,0,250,19029.9,8450.66,10579.24,4.9,No
+FA01122,2026-08-14,C0699,Office,Chiang Mai,Decor,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0,7232.2,0,390,7622.2,3763.96,3858.24,3.8,Yes
+FA00049,2026-08-15,C0681,Hotel/Cafe/Restaurant,Phuket,Smart Furniture,Japandi,AI App,Yes,No,AI Design Service,1,0.08,30978.23,799,0,31777.23,15664.9,16112.33,4.2,No
+FA00499,2026-08-15,C0224,Renovator,Pathum Thani,Bed,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0,19530.29,1190,390,21110.29,8366.42,12743.87,3.8,Yes
+FA00989,2026-08-15,C0418,Condo Resident,Phuket,Bed,Japandi,Marketplace,Yes,No,AI Design Service,1,0.1,13693.85,1190,0,14883.85,5739.34,9144.51,4.4,No
+FA00044,2026-08-16,C0375,Condo Resident,Chonburi,Sofa,Modern Minimal,Social Media,Yes,No,Standard Purchase,1,0.05,20820.07,0,0,20820.07,8744.43,12075.64,4.5,No
+FA00099,2026-08-16,C0042,Condo Resident,Bangkok,Storage,Scandinavian,Website,Yes,No,Standard Purchase,2,0.05,8018.53,0,0,8018.53,3447.97,4570.56,4.8,No
+FA00211,2026-08-16,C0524,Hotel/Cafe/Restaurant,Chonburi,Sofa,Industrial,Smart Showroom,No,No,Standard Purchase,1,0.15,29123.25,0,790,29913.25,12824.26,17088.99,3.8,No
+FA00242,2026-08-16,C0556,Condo Resident,Bangkok,Sofa,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.08,23963.39,0,0,23963.39,10064.62,13898.77,4.1,No
+FA00356,2026-08-16,C0623,Condo Resident,Phuket,Dining,Scandinavian,Website,Yes,No,AI Design Service,1,0.05,8993.91,299,0,9292.91,3483.47,5809.44,4.3,No
+FA00976,2026-08-16,C0734,Homeowner,Phuket,Decor,Warm Modern,AI App,Yes,No,Custom Furniture,1,0.05,1508.15,1490,250,3248.15,1239.21,2008.94,4.7,No
+FA01058,2026-08-16,C0480,Condo Resident,Bangkok,Workspace,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0.05,16507.03,1190,250,17947.03,7712.39,10234.64,4.4,No
+FA01185,2026-08-16,C0730,Renovator,Phuket,Dining,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0.05,11554.84,0,0,11554.84,4390.84,7164.0,5,No
+FA00060,2026-08-17,C0381,Interior Designer,Nakhon Ratchasima,Sofa,Industrial,Marketplace,No,No,Standard Purchase,1,0.05,25663.12,0,0,25663.12,10778.51,14884.61,4.0,No
+FA00131,2026-08-17,C0727,Renovator,Nakhon Ratchasima,Bed,Industrial,Social Media,Yes,No,Standard Purchase,2,0.05,24116.53,0,590,24706.53,10089.11,14617.42,5.0,No
+FA00439,2026-08-17,C0124,Condo Resident,Nakhon Ratchasima,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.05,18974.3,0,250,19224.3,8156.71,11067.59,5,No
+FA00587,2026-08-17,C0404,Office,Bangkok,Workspace,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,19840.19,0,250,20090.19,8917.18,11173.01,4.7,No
+FA00908,2026-08-17,C0035,Homeowner,Chonburi,Storage,Industrial,Smart Showroom,Yes,Yes,AI Design Service,1,0.1,11158.24,499,390,12047.24,5200.32,6846.92,4.8,No
+FA00020,2026-08-18,C0454,Homeowner,Nakhon Ratchasima,Bed,Japandi,Website,Yes,No,AI Design Service,1,0.05,26413.38,1190,250,27853.38,11014.65,16838.73,4.6,No
+FA00155,2026-08-18,C0355,Condo Resident,Samut Prakan,Workspace,Scandinavian,Social Media,Yes,Yes,Standard Purchase,1,0.05,11704.69,0,390,12094.69,5442.56,6652.13,4.8,Yes
+FA00653,2026-08-18,C0629,Hotel/Cafe/Restaurant,Pathum Thani,Decor,Industrial,Website,No,No,Standard Purchase,2,0.05,7322.3,0,390,7712.3,3807.2,3905.1,4.2,No
+FA00675,2026-08-18,C0239,Condo Resident,Bangkok,Workspace,Japandi,AI App,Yes,No,Standard Purchase,2,0.08,15648.07,0,590,16238.07,7327.65,8910.42,4.7,No
+FA00935,2026-08-18,C0469,Office,Samut Prakan,Workspace,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,24931.75,0,390,25321.75,11262.47,14059.28,4.4,No
+FA00938,2026-08-18,C0600,Condo Resident,Nakhon Ratchasima,Decor,Japandi,Website,Yes,No,Standard Purchase,1,0.05,2688.2,0,390,3078.2,1582.84,1495.36,4.4,No
+FA01002,2026-08-18,C0582,Condo Resident,Chonburi,Sofa,Modern Minimal,AI App,Yes,Yes,AI Design Service,1,0,15899.56,499,0,16398.56,6787.6,9610.96,4.9,No
+FA00087,2026-08-19,C0030,Homeowner,Phuket,Workspace,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.08,16590.06,0,590,17180.06,7742.13,9437.93,3.9,No
+FA00391,2026-08-19,C0080,Interior Designer,Samut Prakan,Sofa,Modern Minimal,Social Media,No,Yes,Standard Purchase,1,0.1,31987.37,0,0,31987.37,13434.7,18552.67,3.7,No
+FA00492,2026-08-19,C0092,Renovator,Chiang Mai,Storage,Japandi,Social Media,Yes,Yes,Standard Purchase,1,0.08,11253.47,0,790,12043.47,5431.49,6611.98,5.0,No
+FA00811,2026-08-19,C0584,Interior Designer,Nakhon Ratchasima,Smart Furniture,Scandinavian,Website,No,No,Standard Purchase,1,0.05,10272.4,0,250,10522.4,5323.7,5198.7,4.0,No
+FA01028,2026-08-19,C0287,Homeowner,Nakhon Ratchasima,Smart Furniture,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.08,11731.56,0,390,12121.56,6158.28,5963.28,4.5,No
+FA01196,2026-08-19,C0140,Condo Resident,Pathum Thani,Workspace,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0,4816.81,0,0,4816.81,2119.4,2697.41,4.5,No
+FA00035,2026-08-20,C0197,Condo Resident,Pathum Thani,Bed,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.15,19703.19,0,250,19953.19,8068.78,11884.41,3.6,No
+FA00689,2026-08-20,C0200,Condo Resident,Chonburi,Storage,Scandinavian,AI App,Yes,No,Standard Purchase,1,0,6751.32,0,390,7141.32,3195.57,3945.75,4.5,Yes
+FA01130,2026-08-20,C0408,Condo Resident,Nakhon Ratchasima,Workspace,Industrial,Website,Yes,No,AI Design Service,1,0,13902.06,799,250,14951.06,6480.19,8470.87,4.6,No
+FA00332,2026-08-21,C0088,Interior Designer,Nonthaburi,Storage,Scandinavian,Marketplace,Yes,No,Standard Purchase,2,0,39854.42,0,0,39854.42,17137.4,22717.02,4.5,Yes
+FA00431,2026-08-21,C0385,Homeowner,Chonburi,Sofa,Warm Modern,AI App,Yes,No,AI Design Service,1,0.1,16141.77,799,390,17330.77,7247.82,10082.95,4.7,No
+FA00652,2026-08-21,C0450,Homeowner,Samut Prakan,Dining,Modern Minimal,Marketplace,Yes,No,Standard Purchase,2,0.08,46015.96,0,0,46015.96,17486.06,28529.9,4.1,No
+FA00232,2026-08-22,C0231,Renovator,Chonburi,Sofa,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,30714.13,499,0,31213.13,13009.71,18203.42,4.4,No
+FA00698,2026-08-22,C0395,Homeowner,Samut Prakan,Sofa,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0.1,42009.23,0,0,42009.23,17643.88,24365.35,5,Yes
+FA00909,2026-08-22,C0716,Interior Designer,Chiang Mai,Dining,Japandi,AI App,Yes,No,AI Design Service,1,0.1,21050.5,299,590,21939.5,8507.47,13432.03,4.5,No
+FA01009,2026-08-22,C0430,Interior Designer,Nonthaburi,Workspace,Scandinavian,Marketplace,No,No,Standard Purchase,1,0.1,14632.19,0,390,15022.19,6730.66,8291.53,3.7,No
+FA01089,2026-08-22,C0486,Office,Nakhon Ratchasima,Dining,Industrial,Smart Showroom,Yes,No,AI Design Service,2,0.15,31389.54,1190,0,32579.54,12189.83,20389.71,4.5,No
+FA00246,2026-08-23,C0416,Interior Designer,Nonthaburi,Sofa,Japandi,AI App,Yes,Yes,Standard Purchase,2,0.08,29701.6,0,790,30491.6,13067.17,17424.43,4.8,No
+FA00430,2026-08-23,C0119,Condo Resident,Chonburi,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,2,0.08,31876.04,0,0,31876.04,13387.94,18488.1,4.3,No
+FA00685,2026-08-23,C0601,Homeowner,Pathum Thani,Sofa,Japandi,Website,Yes,Yes,Standard Purchase,1,0.1,21653.88,0,590,22243.88,9537.13,12706.75,4.5,No
+FA00778,2026-08-23,C0449,Renovator,Phuket,Bed,Industrial,Website,Yes,Yes,Standard Purchase,1,0.05,31648.55,0,0,31648.55,12659.42,18989.13,4.3,Yes
+FA00895,2026-08-23,C0250,Homeowner,Nonthaburi,Sofa,Warm Modern,Website,Yes,Yes,AI Design Service,1,0,13534.06,1190,790,15514.06,6538.61,8975.45,4.4,No
+FA01143,2026-08-23,C0639,Condo Resident,Pathum Thani,Sofa,Japandi,Social Media,Yes,Yes,AI Design Service,1,0,16454.88,799,390,17643.88,7379.33,10264.55,4.1,No
+FA00190,2026-08-24,C0407,Homeowner,Bangkok,Dining,Japandi,Social Media,Yes,No,Standard Purchase,1,0.08,20426.15,0,790,21216.15,8354.44,12861.71,4.6,No
+FA00194,2026-08-24,C0096,Homeowner,Phuket,Sofa,Warm Modern,Social Media,No,No,Custom Furniture,2,0.08,28243.78,990,790,30023.78,12672.69,17351.09,4.3,No
+FA00542,2026-08-24,C0528,Condo Resident,Nonthaburi,Sofa,Japandi,Website,Yes,Yes,Standard Purchase,2,0,43229.16,0,0,43229.16,18156.25,25072.91,4.1,No
+FA00779,2026-08-24,C0231,Renovator,Chonburi,Bed,Scandinavian,Website,Yes,Yes,AI Design Service,1,0.05,33158.95,799,0,33957.95,13439.36,20518.59,4.2,No
+FA00024,2026-08-25,C0341,Homeowner,Phuket,Bed,Japandi,AI App,Yes,No,AI Design Service,1,0,28591.16,499,0,29090.16,11546.24,17543.92,4.7,No
+FA00251,2026-08-25,C0470,Interior Designer,Pathum Thani,Sofa,Scandinavian,Social Media,No,No,Standard Purchase,2,0.05,25549.58,0,0,25549.58,10730.82,14818.76,3.8,No
+FA00438,2026-08-25,C0454,Homeowner,Nakhon Ratchasima,Smart Furniture,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0.05,21809.84,0,590,22399.84,11347.42,11052.42,4.2,No
+FA00830,2026-08-25,C0371,Condo Resident,Nonthaburi,Bed,Japandi,AI App,Yes,Yes,Standard Purchase,1,0,15161.29,0,790,15951.29,6657.02,9294.27,5,No
+FA00960,2026-08-25,C0356,Condo Resident,Nakhon Ratchasima,Workspace,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,2,0,16332.56,0,390,16722.56,7478.83,9243.73,4.6,No
+FA00971,2026-08-25,C0570,Homeowner,Nakhon Ratchasima,Dining,Japandi,Website,Yes,No,Custom Furniture,1,0.08,15863.92,590,590,17043.92,6600.59,10443.33,4.3,No
+FA01133,2026-08-25,C0437,Condo Resident,Nonthaburi,Bed,Japandi,Website,Yes,No,AI Design Service,1,0.08,16162.62,1190,0,17352.62,6726.85,10625.77,4.4,No
+FA01150,2026-08-25,C0621,Renovator,Bangkok,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0,26721.48,0,790,27511.48,11815.52,15695.96,4.4,Yes
+FA00645,2026-08-26,C0601,Homeowner,Pathum Thani,Smart Furniture,Warm Modern,AI App,Yes,Yes,AI Design Service,1,0.1,14999.53,799,250,16048.53,7863.05,8185.48,4.9,No
+FA00900,2026-08-26,C0707,Homeowner,Nakhon Ratchasima,Bed,Scandinavian,Website,Yes,Yes,Standard Purchase,2,0.05,52632.36,0,0,52632.36,21052.94,31579.42,4.3,Yes
+FA01066,2026-08-26,C0306,Homeowner,Chonburi,Bed,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,2,0.15,30898.48,0,0,30898.48,12359.39,18539.09,4.3,No
+FA00298,2026-08-27,C0567,Renovator,Nonthaburi,Sofa,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,29695.6,0,790,30485.6,13064.65,17420.95,4.0,No
+FA00317,2026-08-27,C0714,Renovator,Nakhon Ratchasima,Dining,Industrial,Marketplace,No,No,Standard Purchase,1,0,11421.26,0,0,11421.26,4340.08,7081.18,3.8,No
+FA00813,2026-08-27,C0648,Condo Resident,Phuket,Workspace,Scandinavian,AI App,Yes,Yes,Standard Purchase,1,0,9095.5,0,250,9345.5,4189.52,5155.98,4.4,Yes
+FA00863,2026-08-27,C0493,Condo Resident,Samut Prakan,Bed,Scandinavian,Smart Showroom,No,Yes,Custom Furniture,1,0.05,23677.88,990,0,24667.88,9688.95,14978.93,4.2,No
+FA00882,2026-08-27,C0486,Office,Nakhon Ratchasima,Smart Furniture,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.1,22906.52,0,790,23696.52,12045.76,11650.76,4.0,No
+FA01193,2026-08-27,C0135,Office,Pathum Thani,Workspace,Scandinavian,AI App,Yes,Yes,Custom Furniture,1,0.15,7799.81,990,0,8789.81,3649.72,5140.09,4.5,No
+FA00334,2026-08-28,C0405,Condo Resident,Samut Prakan,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.1,21774.66,0,250,22024.66,8461.87,13562.79,4.9,No
+FA00374,2026-08-28,C0304,Interior Designer,Nakhon Ratchasima,Workspace,Modern Minimal,Website,Yes,No,Custom Furniture,1,0.1,9346.98,990,250,10586.98,4517.97,6069.01,4.2,No
+FA00472,2026-08-28,C0581,Renovator,Phuket,Dining,Warm Modern,AI App,Yes,No,AI Design Service,1,0.1,10298.73,1190,390,11878.73,4467.82,7410.91,4.4,Yes
+FA00564,2026-08-28,C0052,Homeowner,Chiang Mai,Bed,Japandi,Marketplace,No,No,Standard Purchase,2,0.05,36064.68,0,0,36064.68,14425.87,21638.81,4.1,No
+FA00124,2026-08-29,C0648,Condo Resident,Phuket,Storage,Industrial,Smart Showroom,Yes,No,Standard Purchase,2,0,20440.97,0,390,20830.97,9082.12,11748.85,4.4,Yes
+FA00385,2026-08-29,C0616,Homeowner,Nonthaburi,Dining,Scandinavian,AI App,Yes,No,AI Design Service,1,0.05,24660.19,1190,390,26240.19,9925.17,16315.02,5,No
+FA00443,2026-08-29,C0555,Renovator,Phuket,Dining,Industrial,AI App,Yes,Yes,AI Design Service,2,0.08,52495.4,799,0,53294.4,20124.03,33170.37,4.6,No
+FA00596,2026-08-29,C0352,Renovator,Nakhon Ratchasima,Bed,Modern Minimal,AI App,Yes,Yes,AI Design Service,2,0,76789.62,799,0,77588.62,30891.63,46696.99,4.3,No
+FA00986,2026-08-29,C0437,Condo Resident,Nonthaburi,Bed,Japandi,Website,Yes,No,Standard Purchase,2,0,24187.78,0,590,24777.78,10117.61,14660.17,4.4,No
+FA00535,2026-08-30,C0298,Condo Resident,Samut Prakan,Decor,Warm Modern,AI App,Yes,No,Standard Purchase,2,0.08,5557.52,0,790,6347.52,3260.11,3087.41,5,No
+FA00740,2026-08-30,C0121,Hotel/Cafe/Restaurant,Pathum Thani,Decor,Japandi,Social Media,Yes,No,AI Design Service,2,0,7008.8,799,250,8057.8,3727.5,4330.3,3.9,No
+FA00295,2026-08-31,C0582,Condo Resident,Chonburi,Decor,Modern Minimal,AI App,Yes,No,AI Design Service,1,0.05,6248.35,499,0,6747.35,3108.99,3638.36,4.8,No
+FA00541,2026-08-31,C0493,Condo Resident,Samut Prakan,Decor,Warm Modern,Website,Yes,No,Standard Purchase,1,0,3039.84,0,590,3629.84,1901.62,1728.22,4.8,No
+FA00723,2026-08-31,C0439,Condo Resident,Phuket,Sofa,Modern Minimal,Social Media,No,No,Standard Purchase,1,0.08,10855.98,0,390,11245.98,4852.01,6393.97,3.9,No
+FA00819,2026-08-31,C0776,Condo Resident,Nonthaburi,Dining,Modern Minimal,Social Media,Yes,No,AI Design Service,1,0.1,11948.39,1190,0,13138.39,4802.19,8336.2,4.8,Yes
+FA00888,2026-08-31,C0009,Homeowner,Chonburi,Workspace,Industrial,Website,Yes,No,Standard Purchase,2,0,41322.15,0,0,41322.15,18181.75,23140.4,4.4,No
+FA01059,2026-08-31,C0774,Condo Resident,Chonburi,Sofa,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.15,10368.54,0,590,10958.54,4797.29,6161.25,4.8,Yes
+FA01088,2026-08-31,C0678,Homeowner,Phuket,Workspace,Japandi,AI App,No,Yes,Standard Purchase,1,0.05,12842.0,0,790,13632.0,6242.98,7389.02,4.4,No
+FA01132,2026-08-31,C0479,Condo Resident,Bangkok,Storage,Japandi,Website,Yes,Yes,Standard Purchase,2,0.1,8969.11,0,590,9559.11,4299.22,5259.89,4.5,No
+FA00335,2026-09-01,C0627,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Dining,Warm Modern,Website,Yes,No,AI Design Service,1,0,35026.6,1190,0,36216.6,13571.91,22644.69,4.5,Yes
+FA00359,2026-09-01,C0641,Renovator,Chiang Mai,Dining,Warm Modern,AI App,No,Yes,Standard Purchase,1,0.15,7514.36,0,0,7514.36,2855.46,4658.9,4.6,No
+FA00477,2026-09-01,C0590,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Bed,Japandi,Website,No,No,Standard Purchase,1,0.05,15107.46,0,390,15497.46,6335.48,9161.98,3.7,Yes
+FA00852,2026-09-01,C0138,Condo Resident,Nonthaburi,Workspace,Industrial,Website,Yes,No,AI Design Service,2,0,32430.55,799,0,33229.55,14445.22,18784.33,4.0,No
+FA00944,2026-09-01,C0796,Interior Designer,Chiang Mai,Sofa,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,2,0,49851.9,0,0,49851.9,20937.8,28914.1,4.7,No
+FA00085,2026-09-02,C0524,Hotel/Cafe/Restaurant,Chonburi,Bed,Industrial,Marketplace,Yes,No,Standard Purchase,2,0.1,59316.17,0,0,59316.17,23726.47,35589.7,4.7,No
+FA00165,2026-09-02,C0577,Hotel/Cafe/Restaurant,Nonthaburi,Storage,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.1,15454.01,0,390,15844.01,6937.72,8906.29,4.4,No
+FA00184,2026-09-02,C0394,Office,Nonthaburi,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,2,0.08,28643.46,0,590,29233.46,12472.75,16760.71,4.7,No
+FA00411,2026-09-02,C0320,Homeowner,Phuket,Sofa,Modern Minimal,Website,No,Yes,Custom Furniture,1,0,11016.21,1490,790,13296.21,5547.11,7749.1,4.0,No
+FA00579,2026-09-02,C0025,Homeowner,Chiang Mai,Workspace,Scandinavian,Marketplace,No,No,Standard Purchase,1,0,6872.54,0,0,6872.54,3023.92,3848.62,3.9,No
+FA00899,2026-09-02,C0242,Interior Designer,Nakhon Ratchasima,Storage,Industrial,AI App,Yes,No,Standard Purchase,1,0.05,14823.94,0,790,15613.94,6966.79,8647.15,4.8,No
+FA00901,2026-09-02,C0606,Homeowner,Chiang Mai,Bed,Scandinavian,Social Media,No,No,Standard Purchase,1,0,28581.4,0,390,28971.4,11725.06,17246.34,4.6,No
+FA00572,2026-09-03,C0423,Interior Designer,Samut Prakan,Dining,Industrial,AI App,No,No,Standard Purchase,1,0,13915.56,0,390,14305.56,5580.41,8725.15,4.0,No
+FA00643,2026-09-03,C0437,Condo Resident,Nonthaburi,Decor,Scandinavian,Social Media,Yes,No,Standard Purchase,1,0,2706.43,0,590,3296.43,1741.59,1554.84,4.4,No
+FA00749,2026-09-03,C0549,Office,Pathum Thani,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,1,0,28591.65,0,390,28981.65,11157.33,17824.32,4.5,No
+FA00987,2026-09-03,C0401,Homeowner,Chiang Mai,Bed,Scandinavian,Website,No,No,Standard Purchase,1,0.1,16383.64,0,250,16633.64,6740.96,9892.68,3.7,No
+FA01067,2026-09-03,C0679,Condo Resident,Pathum Thani,Storage,Scandinavian,Website,Yes,Yes,Standard Purchase,2,0.05,25890.81,0,590,26480.81,11575.55,14905.26,4.0,Yes
+FA00138,2026-09-04,C0634,Condo Resident,Samut Prakan,Dining,Warm Modern,Social Media,Yes,No,Standard Purchase,1,0.08,19903.96,0,0,19903.96,7563.5,12340.46,4.6,No
+FA00336,2026-09-04,C0491,Office,Chiang Mai,Workspace,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.05,10087.55,0,390,10477.55,4731.02,5746.53,4.8,No
+FA00529,2026-09-04,C0030,Homeowner,Phuket,Smart Furniture,Industrial,Marketplace,Yes,Yes,Standard Purchase,1,0.05,23653.34,0,390,24043.34,12119.17,11924.17,4.9,No
+FA00687,2026-09-04,C0206,Condo Resident,Chonburi,Storage,Japandi,Website,No,Yes,Standard Purchase,1,0.08,10548.6,0,390,10938.6,4828.4,6110.2,4.1,No
+FA01181,2026-09-04,C0519,Homeowner,Pathum Thani,Sofa,Japandi,Website,Yes,No,AI Design Service,2,0.15,40045.11,1190,0,41235.11,17080.75,24154.36,4.2,No
+FA00673,2026-09-05,C0642,Condo Resident,Chonburi,Sofa,Japandi,AI App,No,Yes,Standard Purchase,1,0,11188.4,0,590,11778.4,5141.63,6636.77,4.1,Yes
+FA01075,2026-09-05,C0489,Homeowner,Pathum Thani,Sofa,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,25705.57,0,590,26295.57,11238.84,15056.73,4.2,No
+FA01077,2026-09-05,C0607,Condo Resident,Pathum Thani,Bed,Modern Minimal,Website,No,No,Standard Purchase,1,0.05,26781.18,0,250,27031.18,10899.97,16131.21,3.8,No
+FA01102,2026-09-05,C0339,Condo Resident,Samut Prakan,Dining,Scandinavian,Smart Showroom,No,Yes,Standard Purchase,2,0.15,22811.63,0,250,23061.63,8855.92,14205.71,4.4,No
+FA00313,2026-09-06,C0422,Condo Resident,Phuket,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.15,17331.09,0,390,17721.09,7224.94,10496.15,4.2,No
+FA00361,2026-09-06,C0660,Interior Designer,Phuket,Bed,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,1,0,19155.38,0,390,19545.38,7954.65,11590.73,4.6,No
+FA00403,2026-09-06,C0268,Homeowner,Chonburi,Dining,Scandinavian,Smart Showroom,Yes,No,AI Design Service,1,0.05,10039.02,799,0,10838.02,3990.61,6847.41,4.6,No
+FA00486,2026-09-06,C0631,Hotel/Cafe/Restaurant,Samut Prakan,Storage,Modern Minimal,AI App,Yes,No,AI Design Service,1,0.15,15147.05,1190,390,16727.05,7067.53,9659.52,4.5,No
+FA00724,2026-09-06,C0077,Condo Resident,Chiang Mai,Bed,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0,14418.04,0,250,14668.04,5954.72,8713.32,4.4,No
+FA00870,2026-09-06,C0500,Condo Resident,Nonthaburi,Dining,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0,14699.0,0,790,15489.0,6178.12,9310.88,4.3,No
+FA01192,2026-09-06,C0140,Condo Resident,Pathum Thani,Sofa,Warm Modern,Smart Showroom,Yes,Yes,AI Design Service,1,0.1,15792.34,499,390,16681.34,7035.06,9646.28,4.8,No
+FA00106,2026-09-07,C0442,Interior Designer,Bangkok,Bed,Japandi,AI App,Yes,No,Standard Purchase,2,0.1,47949.34,0,0,47949.34,19179.74,28769.6,4.4,No
+FA00408,2026-09-07,C0351,Condo Resident,Chiang Mai,Decor,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,4126.04,0,790,4916.04,2573.0,2343.04,4.6,No
+FA00683,2026-09-07,C0110,Interior Designer,Nakhon Ratchasima,Decor,Industrial,Smart Showroom,Yes,No,AI Design Service,1,0.05,6324.4,1190,390,7904.4,3590.01,4314.39,4.4,No
+FA00733,2026-09-07,C0211,Interior Designer,Nonthaburi,Dining,Industrial,Website,Yes,Yes,Standard Purchase,2,0,69854.19,0,0,69854.19,26544.59,43309.6,4.6,No
+FA00959,2026-09-07,C0547,Hotel/Cafe/Restaurant,Phuket,Workspace,Modern Minimal,Website,Yes,No,AI Design Service,1,0,19661.29,1190,0,20851.29,8912.77,11938.52,4.0,No
+FA01198,2026-09-07,C0042,Condo Resident,Bangkok,Bed,Japandi,Marketplace,No,No,Standard Purchase,1,0.1,8520.54,0,790,9310.54,4000.72,5309.82,4.1,No
+FA00135,2026-09-08,C0612,Condo Resident,Chonburi,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,2,0.05,41648.88,0,0,41648.88,17492.53,24156.35,4.4,No
+FA00157,2026-09-08,C0237,Hotel/Cafe/Restaurant,Chonburi,Dining,Japandi,Marketplace,Yes,Yes,AI Design Service,1,0.08,29717.82,299,0,30016.82,11358.55,18658.27,4.9,No
+FA00393,2026-09-08,C0544,Condo Resident,Phuket,Smart Furniture,Modern Minimal,Smart Showroom,No,Yes,Standard Purchase,1,0,19112.03,0,590,19702.03,9998.51,9703.52,4.3,No
+FA00630,2026-09-08,C0450,Homeowner,Samut Prakan,Dining,Japandi,Marketplace,No,No,Standard Purchase,2,0.05,21068.21,0,790,21858.21,8598.42,13259.79,4.4,No
+FA00879,2026-09-08,C0359,Condo Resident,Bangkok,Dining,Japandi,Website,Yes,No,Standard Purchase,1,0.08,6908.15,0,250,7158.15,2812.6,4345.55,4.0,No
+FA00102,2026-09-09,C0341,Homeowner,Phuket,Decor,Warm Modern,Smart Showroom,Yes,No,AI Design Service,1,0.1,2525.16,299,790,3614.16,1870.36,1743.8,4.7,No
+FA00273,2026-09-09,C0226,Office,Pathum Thani,Workspace,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0,14627.12,0,390,15017.12,6728.43,8288.69,5,Yes
+FA00409,2026-09-09,C0131,Renovator,Chonburi,Storage,Warm Modern,Social Media,No,Yes,Standard Purchase,2,0.08,16431.87,0,0,16431.87,7065.7,9366.17,4.3,No
+FA00658,2026-09-09,C0743,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Bed,Warm Modern,AI App,No,No,Standard Purchase,2,0,52939.76,0,0,52939.76,21175.9,31763.86,4.0,No
+FA00771,2026-09-09,C0456,Condo Resident,Nonthaburi,Storage,Scandinavian,Website,Yes,No,Standard Purchase,1,0.08,4623.87,0,790,5413.87,2580.76,2833.11,4.6,No
+FA00817,2026-09-09,C0038,Hotel/Cafe/Restaurant,Nonthaburi,Dining,Modern Minimal,Website,Yes,No,AI Design Service,1,0.1,22159.26,499,250,22908.26,8717.8,14190.46,4.5,No
+FA01001,2026-09-09,C0714,Renovator,Nakhon Ratchasima,Sofa,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.08,23690.47,0,390,24080.47,10242.5,13837.97,4.3,No
+FA01175,2026-09-09,C0645,Condo Resident,Pathum Thani,Sofa,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.15,18716.71,0,390,19106.71,8153.52,10953.19,4.7,No
+FA00043,2026-09-10,C0504,Homeowner,Nakhon Ratchasima,Sofa,Modern Minimal,Smart Showroom,Yes,No,Standard Purchase,1,0.08,22273.16,0,250,22523.16,9542.23,12980.93,4.7,No
+FA00047,2026-09-10,C0178,Office,Samut Prakan,Dining,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,8857.19,0,250,9107.19,3553.23,5553.96,5,No
+FA00069,2026-09-10,C0165,Condo Resident,Pathum Thani,Bed,Modern Minimal,Website,Yes,No,Standard Purchase,2,0.05,41431.83,0,0,41431.83,16572.73,24859.1,4.2,Yes
+FA00225,2026-09-10,C0686,Homeowner,Chiang Mai,Workspace,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,14652.15,0,390,15042.15,6739.45,8302.7,4.1,No
+FA00343,2026-09-10,C0199,Condo Resident,Nakhon Ratchasima,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0,13565.12,0,790,14355.12,6289.85,8065.27,4.0,No
+FA01070,2026-09-10,C0583,Homeowner,Chonburi,Storage,Warm Modern,Website,Yes,Yes,Standard Purchase,1,0.1,4886.61,0,250,5136.61,2288.74,2847.87,4.7,Yes
+FA00105,2026-09-11,C0426,Interior Designer,Samut Prakan,Storage,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,8816.23,0,0,8816.23,3790.98,5025.25,4.5,No
+FA00212,2026-09-11,C0403,Interior Designer,Chiang Mai,Decor,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,1933.54,0,590,2523.54,1370.6,1152.94,5,No
+FA00330,2026-09-11,C0235,Homeowner,Phuket,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.08,30553.39,0,0,30553.39,11610.29,18943.1,4.3,Yes
+FA00638,2026-09-11,C0309,Homeowner,Bangkok,Workspace,Warm Modern,Marketplace,No,No,Standard Purchase,1,0.15,7636.45,0,590,8226.45,3802.54,4423.91,4.0,No
+FA00647,2026-09-11,C0250,Homeowner,Nonthaburi,Workspace,Warm Modern,Marketplace,Yes,No,Standard Purchase,1,0.05,19403.32,0,0,19403.32,8537.46,10865.86,4.8,No
+FA00667,2026-09-11,C0790,Condo Resident,Samut Prakan,Workspace,Industrial,Marketplace,Yes,No,Standard Purchase,1,0.1,4145.84,0,0,4145.84,1824.17,2321.67,4.9,No
+FA00999,2026-09-11,C0559,Renovator,Samut Prakan,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.1,52679.36,0,0,52679.36,20018.16,32661.2,4.5,No
+FA00007,2026-09-12,C0361,Condo Resident,Nonthaburi,Bed,Japandi,AI App,Yes,No,AI Design Service,1,0.05,19164.4,299,790,20253.4,8324.04,11929.36,4.4,Yes
+FA00130,2026-09-12,C0268,Homeowner,Chonburi,Bed,Scandinavian,Social Media,Yes,No,AI Design Service,2,0.1,24983.47,499,790,26272.47,10695.67,15576.8,4.0,No
+FA00297,2026-09-12,C0022,Homeowner,Chiang Mai,Sofa,Japandi,AI App,Yes,Yes,AI Design Service,1,0.05,11686.85,799,0,12485.85,5084.26,7401.59,4.3,No
+FA00543,2026-09-12,C0492,Office,Nakhon Ratchasima,Decor,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0.1,3076.23,0,390,3466.23,1769.09,1697.14,4.8,No
+FA00706,2026-09-12,C0058,Condo Resident,Bangkok,Smart Furniture,Scandinavian,Website,Yes,No,Standard Purchase,1,0.05,9411.75,0,790,10201.75,5298.38,4903.37,4.9,No
+FA00990,2026-09-12,C0567,Renovator,Nonthaburi,Sofa,Industrial,Website,Yes,Yes,Standard Purchase,2,0,31410.26,0,0,31410.26,13192.31,18217.95,4.7,No
+FA00039,2026-09-13,C0653,Homeowner,Pathum Thani,Storage,Japandi,Social Media,Yes,No,Standard Purchase,1,0,5826.8,0,390,6216.8,2798.02,3418.78,4.9,Yes
+FA00083,2026-09-13,C0267,Homeowner,Chiang Mai,Storage,Modern Minimal,Website,No,No,Standard Purchase,1,0.05,10220.01,0,790,11010.01,4987.1,6022.91,4.4,No
+FA00089,2026-09-13,C0036,Office,Chonburi,Storage,Modern Minimal,Smart Showroom,Yes,Yes,AI Design Service,1,0,4119.71,799,590,5508.71,2389.76,3118.95,4.7,No
+FA00217,2026-09-13,C0703,Condo Resident,Nonthaburi,Workspace,Scandinavian,Smart Showroom,Yes,No,Standard Purchase,1,0.08,5566.08,0,790,6356.08,3041.58,3314.5,4.3,No
+FA00573,2026-09-13,C0332,Condo Resident,Bangkok,Decor,Industrial,Marketplace,No,No,Standard Purchase,3,0.1,9054.94,0,250,9304.94,4533.87,4771.07,4.3,No
+FA00928,2026-09-13,C0019,Interior Designer,Chonburi,Bed,Industrial,Website,No,No,Standard Purchase,1,0.05,34676.65,0,0,34676.65,13870.66,20805.99,4.3,Yes
+FA00176,2026-09-14,C0585,Homeowner,Nonthaburi,Decor,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,1,0,4682.85,0,390,5072.85,2540.27,2532.58,4.1,Yes
+FA00231,2026-09-14,C0366,Hotel/Cafe/Restaurant,Chonburi,Sofa,Warm Modern,Social Media,Yes,No,Standard Purchase,2,0.05,50337.07,0,0,50337.07,21141.57,29195.5,5,No
+FA00487,2026-09-14,C0532,Interior Designer,Samut Prakan,Decor,Scandinavian,AI App,Yes,Yes,Standard Purchase,3,0.05,15701.03,0,390,16091.03,7828.99,8262.04,4.6,No
+FA00593,2026-09-14,C0540,Renovator,Nakhon Ratchasima,Bed,Japandi,AI App,Yes,Yes,AI Design Service,2,0.05,37855.5,299,0,38154.5,15207.98,22946.52,5,No
+FA00768,2026-09-14,C0668,Homeowner,Pathum Thani,Bed,Modern Minimal,AI App,Yes,No,Standard Purchase,2,0.08,61571.14,0,0,61571.14,24628.46,36942.68,4.1,No
+FA00032,2026-09-15,C0176,Office,Bangkok,Smart Furniture,Modern Minimal,Marketplace,No,No,Standard Purchase,2,0,40152.61,0,0,40152.61,20076.31,20076.3,4.3,No
+FA00062,2026-09-15,C0280,Condo Resident,Pathum Thani,Sofa,Warm Modern,Marketplace,No,No,Standard Purchase,1,0,9775.13,0,590,10365.13,4548.05,5817.08,4.2,Yes
+FA00109,2026-09-15,C0241,Renovator,Chonburi,Workspace,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,11419.78,0,790,12209.78,5617.2,6592.58,4.4,Yes
+FA00276,2026-09-15,C0607,Condo Resident,Pathum Thani,Workspace,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.05,13364.22,0,590,13954.22,6322.76,7631.46,4.4,Yes
+FA01127,2026-09-15,C0289,Homeowner,Phuket,Storage,Industrial,Website,Yes,Yes,Standard Purchase,1,0.08,3964.54,0,790,4754.54,2297.25,2457.29,4.9,No
+FA01176,2026-09-15,C0613,Condo Resident,Nonthaburi,Bed,Japandi,Marketplace,No,Yes,Standard Purchase,1,0.1,12982.24,0,250,13232.24,5380.4,7851.84,4.5,No
+FA00261,2026-09-16,C0334,Condo Resident,Chiang Mai,Storage,Industrial,AI App,No,Yes,Standard Purchase,2,0.08,4398.75,0,590,4988.75,2333.96,2654.79,4.5,No
+FA00341,2026-09-16,C0281,Homeowner,Chiang Mai,Bed,Modern Minimal,Social Media,No,Yes,Standard Purchase,1,0,26380.61,0,0,26380.61,10552.24,15828.37,4.5,Yes
+FA00794,2026-09-16,C0343,Homeowner,Chonburi,Smart Furniture,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,20156.02,0,0,20156.02,10078.01,10078.01,4.8,No
+FA01195,2026-09-16,C0333,Homeowner,Pathum Thani,Bed,Warm Modern,Smart Showroom,No,Yes,Standard Purchase,1,0.15,26264.24,0,790,27054.24,11098.2,15956.04,4.7,No
+FA00103,2026-09-17,C0289,Homeowner,Phuket,Sofa,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0,20020.48,0,250,20270.48,8596.1,11674.38,4.1,No
+FA00576,2026-09-17,C0349,Homeowner,Samut Prakan,Sofa,Modern Minimal,Website,Yes,No,AI Design Service,1,0,15448.41,799,590,16837.41,7106.61,9730.8,4.6,No
+FA00729,2026-09-17,C0173,Office,Pathum Thani,Dining,Scandinavian,Social Media,Yes,No,AI Design Service,1,0.08,14700.65,299,250,15249.65,5839.53,9410.12,4.9,No
+FA00795,2026-09-17,C0784,Interior Designer,Phuket,Sofa,Industrial,AI App,Yes,No,Standard Purchase,1,0.08,30097.7,0,0,30097.7,12641.03,17456.67,4.0,No
+FA00952,2026-09-17,C0516,Interior Designer,Bangkok,Workspace,Japandi,Marketplace,Yes,No,Standard Purchase,2,0,21678.02,0,790,22468.02,10130.83,12337.19,4.4,No
+FA01110,2026-09-17,C0001,Homeowner,Chonburi,Bed,Modern Minimal,Website,No,No,Custom Furniture,1,0.1,24936.32,1490,0,26426.32,10302.33,16123.99,3.9,No
+FA01140,2026-09-17,C0771,Office,Nakhon Ratchasima,Decor,Japandi,Social Media,Yes,No,Standard Purchase,1,0.1,1651.62,0,790,2441.62,1385.28,1056.34,3.7,No
+FA01153,2026-09-17,C0516,Interior Designer,Bangkok,Decor,Industrial,AI App,Yes,Yes,AI Design Service,2,0,12892.26,499,250,13641.26,6485.56,7155.7,4.3,No
+FA00073,2026-09-18,C0707,Homeowner,Nakhon Ratchasima,Sofa,Modern Minimal,Website,No,No,Standard Purchase,1,0,11074.87,0,250,11324.87,4838.95,6485.92,4.2,Yes
+FA00249,2026-09-18,C0111,Homeowner,Samut Prakan,Storage,Japandi,Social Media,Yes,No,Standard Purchase,1,0.08,8077.63,0,390,8467.63,3765.88,4701.75,4.4,No
+FA00470,2026-09-18,C0018,Hotel/Cafe/Restaurant,Pathum Thani,Sofa,Warm Modern,Marketplace,No,Yes,Standard Purchase,1,0.05,14621.63,0,590,15211.63,6583.58,8628.05,4.2,No
+FA00524,2026-09-18,C0777,Homeowner,Pathum Thani,Workspace,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0.05,8671.16,0,250,8921.16,4002.81,4918.35,4.4,No
+FA00578,2026-09-18,C0643,Hotel/Cafe/Restaurant,Pathum Thani,Storage,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,2,0.1,17200.21,0,590,17790.21,7838.59,9951.62,4.6,No
+FA00615,2026-09-18,C0779,Condo Resident,Chiang Mai,Decor,Japandi,Social Media,Yes,No,AI Design Service,1,0.05,6005.68,299,390,6694.68,3241.01,3453.67,4.2,No
+FA00624,2026-09-18,C0747,Condo Resident,Pathum Thani,Sofa,Scandinavian,Social Media,Yes,No,Standard Purchase,2,0,32088.69,0,0,32088.69,13477.25,18611.44,4.0,No
+FA00731,2026-09-18,C0716,Interior Designer,Chiang Mai,Dining,Modern Minimal,Marketplace,Yes,No,Standard Purchase,1,0,20269.77,0,590,20859.77,8145.01,12714.76,4.5,No
+FA00890,2026-09-18,C0780,Homeowner,Chiang Mai,Sofa,Modern Minimal,AI App,Yes,Yes,AI Design Service,1,0,11264.4,299,390,11953.4,5089.33,6864.07,4.7,No
+FA00961,2026-09-18,C0147,Office,Bangkok,Decor,Modern Minimal,AI App,Yes,Yes,Standard Purchase,1,0,5104.56,0,590,5694.56,2892.69,2801.87,4.8,No
+FA00239,2026-09-19,C0485,Condo Resident,Chonburi,Storage,Japandi,AI App,No,No,Standard Purchase,2,0.1,8846.62,0,250,9096.62,3991.55,5105.07,4.0,No
+FA00331,2026-09-19,C0177,Renovator,Samut Prakan,Dining,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.05,35098.66,0,0,35098.66,13337.49,21761.17,4.8,No
+FA00345,2026-09-19,C0163,Renovator,Nonthaburi,Workspace,Scandinavian,Marketplace,Yes,No,Standard Purchase,1,0.1,21022.42,0,0,21022.42,9249.86,11772.56,5.0,Yes
+FA00565,2026-09-19,C0474,Hotel/Cafe/Restaurant,Bangkok,Sofa,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,35526.27,0,0,35526.27,14921.03,20605.24,4.1,No
+FA00644,2026-09-19,C0263,Condo Resident,Samut Prakan,Sofa,Modern Minimal,Social Media,Yes,No,Custom Furniture,1,0.15,20478.01,990,790,22258.01,9411.06,12846.95,4.4,No
+FA00828,2026-09-19,C0533,Homeowner,Pathum Thani,Dining,Scandinavian,Website,No,No,Standard Purchase,2,0.05,29520.95,0,0,29520.95,11217.96,18302.99,3.4,No
+FA01139,2026-09-19,C0400,Renovator,Pathum Thani,Smart Furniture,Modern Minimal,Website,Yes,No,AI Design Service,2,0.05,50775.64,1190,0,51965.64,25649.62,26316.02,4.5,No
+FA00117,2026-09-20,C0168,Condo Resident,Nonthaburi,Workspace,Scandinavian,Smart Showroom,Yes,Yes,Standard Purchase,1,0.05,16399.91,0,0,16399.91,7215.96,9183.95,4.6,No
+FA00709,2026-09-20,C0424,Condo Resident,Phuket,Dining,Japandi,Smart Showroom,Yes,No,Standard Purchase,1,0,14739.89,0,390,15129.89,5893.66,9236.23,4.6,No
+FA00712,2026-09-20,C0600,Condo Resident,Nakhon Ratchasima,Dining,Japandi,Website,No,Yes,Standard Purchase,1,0.05,16389.16,0,0,16389.16,6227.88,10161.28,3.8,No
+FA00757,2026-09-20,C0376,Renovator,Samut Prakan,Bed,Scandinavian,AI App,Yes,No,Custom Furniture,1,0,37312.98,1490,0,38802.98,15252.99,23549.99,4.6,No
+FA01047,2026-09-20,C0484,Renovator,Pathum Thani,Decor,Industrial,Website,Yes,Yes,Standard Purchase,2,0.08,7977.82,0,0,7977.82,3829.35,4148.47,4.5,No
+FA01128,2026-09-20,C0590,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Decor,Japandi,Website,Yes,No,Standard Purchase,3,0,9130.86,0,390,9520.86,4675.31,4845.55,4.3,Yes
+FA00210,2026-09-21,C0053,Homeowner,Samut Prakan,Workspace,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,9861.93,0,790,10651.93,4931.75,5720.18,4.7,No
+FA01046,2026-09-21,C0285,Renovator,Chonburi,Smart Furniture,Industrial,Marketplace,No,No,Standard Purchase,1,0,15878.75,0,790,16668.75,8531.88,8136.87,4.3,No
+FA01142,2026-09-21,C0007,Condo Resident,Chonburi,Dining,Modern Minimal,Website,Yes,Yes,AI Design Service,1,0.15,8929.69,799,250,9978.69,3756.56,6222.13,4.6,Yes
+FA00014,2026-09-22,C0058,Condo Resident,Bangkok,Sofa,Scandinavian,Website,Yes,Yes,Standard Purchase,1,0.05,25108.16,0,790,25898.16,11137.93,14760.23,4.5,No
+FA00142,2026-09-22,C0211,Interior Designer,Nonthaburi,Bed,Industrial,Website,Yes,Yes,Standard Purchase,1,0.1,22548.73,0,390,22938.73,9311.99,13626.74,4.7,No
+FA00380,2026-09-22,C0083,Homeowner,Pathum Thani,Sofa,Warm Modern,Marketplace,Yes,No,AI Design Service,1,0.08,12501.93,299,590,13390.93,5759.09,7631.84,4.4,No
+FA00425,2026-09-23,C0513,Interior Designer,Nakhon Ratchasima,Bed,Warm Modern,AI App,Yes,No,Standard Purchase,1,0.05,14641.6,0,250,14891.6,6044.14,8847.46,4.6,No
+FA00539,2026-09-23,C0272,Homeowner,Bangkok,Storage,Warm Modern,Website,Yes,No,AI Design Service,2,0.05,15310.58,1190,0,16500.58,6845.35,9655.23,4.5,No
+FA00801,2026-09-23,C0706,Homeowner,Chiang Mai,Decor,Japandi,Website,Yes,Yes,AI Design Service,2,0,11349.55,299,0,11648.55,5513.56,6134.99,4.1,No
+FA01092,2026-09-23,C0305,Hotel/Cafe/Restaurant,Bangkok,Dining,Industrial,Website,Yes,No,Standard Purchase,2,0.05,42404.09,0,0,42404.09,16113.55,26290.54,3.6,No
+FA01171,2026-09-23,C0445,Homeowner,Pathum Thani,Bed,Modern Minimal,Website,Yes,No,AI Design Service,2,0.05,32786.5,1190,0,33976.5,13376.4,20600.1,4.2,Yes
+FA00037,2026-09-24,C0101,Office,Samut Prakan,Dining,Industrial,Social Media,Yes,No,Standard Purchase,1,0.08,18750.16,0,790,19540.16,7717.56,11822.6,4.3,No
+FA00054,2026-09-24,C0125,Hotel/Cafe/Restaurant,Nonthaburi,Smart Furniture,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.08,31956.85,0,0,31956.85,15978.42,15978.43,4.3,No
+FA00057,2026-09-24,C0105,Hotel/Cafe/Restaurant,Chonburi,Bed,Japandi,Social Media,Yes,Yes,Standard Purchase,1,0.15,39037.09,0,0,39037.09,15614.84,23422.25,4.4,No
+FA00072,2026-09-24,C0762,Condo Resident,Bangkok,Workspace,Modern Minimal,Smart Showroom,Yes,Yes,Standard Purchase,2,0,14535.27,0,590,15125.27,6838.02,8287.25,5,No
+FA00133,2026-09-24,C0535,Homeowner,Bangkok,Sofa,Japandi,Social Media,Yes,No,Standard Purchase,2,0.08,55103.36,0,0,55103.36,23143.41,31959.95,3.6,No
+FA00476,2026-09-24,C0095,Homeowner,Phuket,Decor,Industrial,AI App,Yes,No,AI Design Service,3,0.08,17328.96,299,0,17627.96,8383.68,9244.28,4.1,No
+FA01086,2026-09-24,C0675,Homeowner,Chiang Mai,Smart Furniture,Modern Minimal,Smart Showroom,No,No,Standard Purchase,1,0,22490.19,0,590,23080.19,11687.59,11392.6,4.3,No
+FA00238,2026-09-25,C0442,Interior Designer,Bangkok,Dining,Warm Modern,Website,Yes,Yes,AI Design Service,1,0.1,29192.71,499,250,29941.71,11390.51,18551.2,4.3,No
+FA00440,2026-09-25,C0547,Hotel/Cafe/Restaurant,Phuket,Workspace,Scandinavian,Website,Yes,No,Standard Purchase,1,0.1,16223.16,0,250,16473.16,7325.69,9147.47,4.6,Yes
+FA00462,2026-09-25,C0275,Interior Designer,Samut Prakan,Smart Furniture,Scandinavian,Website,Yes,No,Custom Furniture,1,0.05,31807.86,590,0,32397.86,16033.73,16364.13,4.5,No
+FA00474,2026-09-25,C0356,Condo Resident,Nakhon Ratchasima,Bed,Modern Minimal,AI App,Yes,Yes,Custom Furniture,1,0,18183.94,990,390,19563.94,7783.88,11780.06,4.4,Yes
+FA00702,2026-09-25,C0205,Hotel/Cafe/Restaurant,Bangkok,Dining,Warm Modern,AI App,Yes,Yes,Standard Purchase,1,0.05,24605.4,0,0,24605.4,9350.05,15255.35,3.8,No
+FA00927,2026-09-25,C0414,Interior Designer,Nakhon Ratchasima,Bed,Warm Modern,Smart Showroom,Yes,No,Standard Purchase,2,0.1,68124.86,0,0,68124.86,27249.94,40874.92,3.7,Yes
+FA00932,2026-09-25,C0488,Condo Resident,Nakhon Ratchasima,Smart Furniture,Modern Minimal,AI App,Yes,No,Standard Purchase,2,0.05,13662.83,0,390,14052.83,7123.91,6928.92,4.2,No
+FA01173,2026-09-25,C0589,Homeowner,Samut Prakan,Sofa,Modern Minimal,AI App,Yes,No,AI Design Service,1,0.05,18452.78,799,790,20041.78,8518.45,11523.33,3.9,No
+FA00458,2026-09-26,C0628,Condo Resident,Samut Prakan,Workspace,Scandinavian,Website,Yes,Yes,Standard Purchase,1,0,18915.22,0,590,19505.22,8765.2,10740.02,4.5,No
+FA00553,2026-09-26,C0365,Office,Pathum Thani,Dining,Warm Modern,Website,Yes,No,Standard Purchase,1,0.05,12290.82,0,390,12680.82,4963.01,7717.81,4.6,Yes
+FA01064,2026-09-26,C0553,Condo Resident,Chonburi,Decor,Industrial,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,2088.24,0,590,2678.24,1444.86,1233.38,4.6,No
+FA01112,2026-09-26,C0152,Condo Resident,Nakhon Ratchasima,Bed,Scandinavian,Social Media,No,Yes,Standard Purchase,1,0,19859.11,0,790,20649.11,8536.14,12112.97,3.7,No
+FA00223,2026-09-27,C0629,Hotel/Cafe/Restaurant,Pathum Thani,Workspace,Japandi,Marketplace,Yes,No,Standard Purchase,1,0,12762.41,0,390,13152.41,5907.96,7244.45,4.0,No
+FA00271,2026-09-27,C0319,Renovator,Bangkok,Bed,Industrial,AI App,Yes,No,Standard Purchase,1,0.05,27679.63,0,590,28269.63,11514.35,16755.28,3.8,No
+FA00415,2026-09-27,C0195,Homeowner,Samut Prakan,Bed,Japandi,Marketplace,Yes,No,Standard Purchase,1,0.05,11057.99,0,590,11647.99,4865.7,6782.29,5.0,Yes
+FA00464,2026-09-27,C0257,Homeowner,Samut Prakan,Dining,Japandi,Website,Yes,No,Standard Purchase,1,0.15,15932.25,0,250,16182.25,6241.76,9940.49,4.3,No
+FA00812,2026-09-27,C0586,Hotel/Cafe/Restaurant,Bangkok,Workspace,Japandi,Smart Showroom,Yes,Yes,Standard Purchase,2,0,50522.37,0,0,50522.37,22229.84,28292.53,4.7,No
+FA00911,2026-09-27,C0005,Office,Samut Prakan,Storage,Scandinavian,Website,Yes,No,Standard Purchase,1,0.08,8962.72,0,590,9552.72,4296.47,5256.25,4.9,No
+FA01079,2026-09-27,C0495,Homeowner,Pathum Thani,Bed,Japandi,Website,Yes,No,Standard Purchase,1,0.1,14612.5,0,590,15202.5,6287.5,8915.0,3.8,Yes
+FA00026,2026-09-28,C0333,Homeowner,Pathum Thani,Dining,Warm Modern,Marketplace,No,No,Standard Purchase,2,0.05,41469.4,0,0,41469.4,15758.37,25711.03,3.5,No
+FA00063,2026-09-28,C0231,Renovator,Chonburi,Smart Furniture,Warm Modern,AI App,Yes,Yes,AI Design Service,1,0.1,10686.46,499,0,11185.46,5453.01,5732.45,4.5,No
+FA00664,2026-09-28,C0641,Renovator,Chiang Mai,Workspace,Industrial,Smart Showroom,Yes,No,Standard Purchase,1,0.15,18301.2,0,790,19091.2,8645.03,10446.17,4.7,No
+FA00715,2026-09-28,C0494,Condo Resident,Bangkok,Storage,Industrial,Website,Yes,Yes,Standard Purchase,1,0,3414.56,0,390,3804.56,1760.76,2043.8,4.7,No
+FA00196,2026-09-29,C0020,Hotel/Cafe/Restaurant,Chonburi,Sofa,Industrial,Smart Showroom,No,Yes,Standard Purchase,1,0,16590.03,0,590,17180.03,7410.31,9769.72,3.6,No
+FA00314,2026-09-29,C0609,Condo Resident,Chiang Mai,Bed,Scandinavian,Marketplace,No,No,Custom Furniture,2,0.05,32478.89,1490,0,33968.89,13319.36,20649.53,4.0,No
+FA00507,2026-09-29,C0082,Office,Nakhon Ratchasima,Bed,Japandi,Marketplace,Yes,No,AI Design Service,2,0.08,44055.14,799,0,44854.14,17797.84,27056.3,4.9,No
+FA00686,2026-09-29,C0173,Office,Pathum Thani,Smart Furniture,Modern Minimal,AI App,Yes,Yes,Standard Purchase,2,0.08,30161.52,0,0,30161.52,15080.76,15080.76,4.4,No
+FA00850,2026-09-29,C0329,Condo Resident,Phuket,Workspace,Japandi,Website,Yes,Yes,Custom Furniture,2,0.08,21838.73,990,590,23418.73,10269.34,13149.39,4.7,No
+FA01006,2026-09-29,C0044,Condo Resident,Nonthaburi,Storage,Scandinavian,Website,Yes,Yes,Standard Purchase,1,0,9455.9,0,790,10245.9,4658.54,5587.36,4.6,No
+FA01037,2026-09-29,C0054,Condo Resident,Bangkok,Workspace,Scandinavian,AI App,Yes,No,Standard Purchase,2,0.08,22381.84,0,590,22971.84,10290.51,12681.33,4.0,No
+FA01104,2026-09-29,C0054,Condo Resident,Bangkok,Workspace,Scandinavian,AI App,Yes,No,AI Design Service,2,0.08,27949.37,499,250,28698.37,12595.0,16103.37,4.1,No
+FA00129,2026-09-30,C0436,Hotel/Cafe/Restaurant,Nakhon Ratchasima,Decor,Scandinavian,AI App,Yes,No,Standard Purchase,1,0.05,7959.02,0,250,8209.02,4007.83,4201.19,4.3,Yes
+FA00286,2026-09-30,C0769,Hotel/Cafe/Restaurant,Phuket,Smart Furniture,Warm Modern,Smart Showroom,Yes,Yes,Standard Purchase,1,0.1,17563.09,0,250,17813.09,8969.05,8844.04,4.4,No
+FA00292,2026-09-30,C0207,Condo Resident,Bangkok,Decor,Warm Modern,AI App,Yes,Yes,Standard Purchase,2,0.05,12350.62,0,590,12940.62,6370.8,6569.82,4.0,No
+FA00363,2026-09-30,C0267,Homeowner,Chiang Mai,Dining,Modern Minimal,Website,Yes,Yes,AI Design Service,2,0.1,15352.65,799,590,16741.65,6452.29,10289.36,4.9,No
+FA00396,2026-09-30,C0257,Homeowner,Samut Prakan,Storage,Modern Minimal,Website,Yes,No,Standard Purchase,1,0.05,4421.74,0,250,4671.74,2088.85,2582.89,4.3,No
+FA00406,2026-09-30,C0481,Condo Resident,Pathum Thani,Sofa,Japandi,Smart Showroom,Yes,Yes,AI Design Service,2,0,49078.02,499,0,49577.02,20722.55,28854.47,4.5,No
