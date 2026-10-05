@@ -39,4 +39,4 @@ Business Idea Creation: Storytelling Dashboard
 **นาย ภัครพล ริติกัณโต - 67160360**
 
 ## Submission
-แนะนำส่ง 4 อย่าง: Data CSV + Dashboard HTML + Team CSV + Repository ZIP
+Data CSV + Dashboard HTML + Team CSV + Repository ZIP
